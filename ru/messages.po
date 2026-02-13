@@ -4364,7 +4364,7 @@ msgstr "Политические законы"
 
 #: src/components/_political/partyMotion/PartyMotionTypeSelect.tsx:66
 msgid "Political motions"
-msgstr ""
+msgstr "Политические постановления"
 
 #: src/components/_social/ArticleList.tsx:134
 #~ msgid "Popular"
@@ -4517,7 +4517,7 @@ msgstr "Повышен до командира"
 #: src/components/_political/partyMotion/PartyMotionFormModal.tsx:101
 #: src/components/_political/partyMotion/PartyMotionList.tsx:48
 msgid "Propose a motion"
-msgstr ""
+msgstr "Предложить постановление"
 
 #: src/components/_political/law/law.frontConfig.tsx:201
 msgid "Propose alliance"
@@ -4538,7 +4538,7 @@ msgstr "Предложить законопроект"
 
 #: src/components/_political/partyMotion/PartyMotionFormModal.tsx:157
 msgid "Propose motion"
-msgstr ""
+msgstr "Предложить постановление"
 
 #: src/components/_political/law/law.frontConfig.tsx:106
 msgid "Propose peace"
@@ -5099,7 +5099,7 @@ msgstr "Выбрать оттенок на карте"
 
 #: src/components/_political/partyMotion/PartyMotionTypeSelect.tsx:59
 msgid "Select motion type"
-msgstr ""
+msgstr "Выберите постановление"
 
 #: src/components/_user/user/UserDropdown.tsx:228
 msgid "Select skin"
