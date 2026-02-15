@@ -12,6 +12,7 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+
 #. placeholder {0}: user.data.mute.reason
 #: src/components/_user/user/UserHeader.tsx:409
 msgid " - Reason: {0}"
@@ -3674,11 +3675,11 @@ msgstr "Geldoverdracht"
 
 #: src/components/_user/referral/ReferralList.tsx:115
 msgid "Money won"
-msgstr "Gewonnen geld"
+msgstr "Geld gewonnen"
 
 #: src/components/_user/referral/ReferralList.tsx:79
 msgid "Money Won"
-msgstr "Gewonnen Geld"
+msgstr "Geld Gewonnen"
 
 #: src/components/_layout/MoreButtonNav.tsx:194
 msgid "More"
@@ -3749,7 +3750,7 @@ msgstr "Overdracht van het eigendom van MU"
 
 #: src/components/_user/user/UserDropdown.tsx:289
 msgid "Mute user"
-msgstr "Stomme gebruiker"
+msgstr "Demp gebruiker"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:247
 msgid "My Bot, Script, etc."
@@ -3769,7 +3770,7 @@ msgstr "Mythische Laarzen"
 
 #: src/utils/translations.tsx:177
 msgid "Mythic Chest"
-msgstr "Mythische Kist"
+msgstr "Mythische Borstbescherming"
 
 #: src/utils/translations.tsx:195
 msgid "Mythic Gloves"
@@ -3912,7 +3913,7 @@ msgstr "De volgende is een tank"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:23
 msgid "Next one will be tank"
-msgstr "De volgende is tank"
+msgstr "De volgende is een tank"
 
 #: src/components/_military/battle/BattleSystem.tsx:468
 msgid "Next tick"
@@ -5791,7 +5792,7 @@ msgstr "Toernooi opgericht"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1463
 msgid "Tournament Eliminated"
-msgstr "Toernooi Afgeschaft"
+msgstr "Toernooi Uitgeschakeld"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1449
 msgid "Tournament Ended"
@@ -5803,7 +5804,7 @@ msgstr "Toernooironde gewonnen"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1436
 msgid "Tournament Started"
-msgstr "Toernooi Begin"
+msgstr "Toernooi Begonnen"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1404
 msgid "Tournament Won!"
@@ -5820,7 +5821,7 @@ msgstr "Handel"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:16
 msgid "Trainee"
-msgstr "Stagiair"
+msgstr "Leerling"
 
 #: src/components/_user/user/UserHeader.tsx:188
 msgid "Transac."
@@ -5854,7 +5855,7 @@ msgstr "Tutorials"
 
 #: src/pages/user/[userId]/settings.tsx:31
 msgid "Tutorials reseted"
-msgstr "Tutorials gereset-sat"
+msgstr "Tutorials gereset"
 
 #: src/components/_user/user/UserDropdown.tsx:282
 msgid "Unban user"
@@ -5866,7 +5867,7 @@ msgstr "Deblokkeren (inhoud tonen)"
 
 #: src/components/_user/UserEquipments.tsx:90
 msgid "Unequip all"
-msgstr "Uitrust alles"
+msgstr "Doe alle uitrusting uit"
 
 #: src/pages/region/[regionId]/index.tsx:200
 msgid "Unlinked"
@@ -5888,7 +5889,7 @@ msgstr "Ontgrendel {0} skin{1}"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:89
 msgid "Unlock Help all button"
-msgstr "Ontgrendel Help alleen-knop"
+msgstr "Ontgrendel Help allen-knop"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:86
 msgid "Unlock Produce all button"
@@ -5900,7 +5901,7 @@ msgstr "Ontgrendeld pakket"
 
 #: src/components/_user/user/UserDropdown.tsx:296
 msgid "Unmute user"
-msgstr "Gebruiker unmute"
+msgstr "Gebruiker ontdempen"
 
 #: src/components/_user/user/UserHeader.tsx:405
 msgid "Unmuted <0/>"
@@ -5912,7 +5913,7 @@ msgstr "Onwerkelijk. Dit gebeurt niet"
 
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:122
 msgid "Unregister"
-msgstr "Ontmeld"
+msgstr "Deregistreren"
 
 #: src/pages/country/[countryId]/index.tsx:293
 msgid "Unrest"
@@ -5952,20 +5953,20 @@ msgstr "Update-informatie"
 #: src/components/_other/ActionLogList.tsx:57
 #: src/components/_user/worker/WorkerEditFormModal.tsx:213
 msgid "Update worker"
-msgstr "Update-werker"
+msgstr "Update werknemer"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:370
 msgid "Upgrade a company"
-msgstr "Upgrade een bedrijf"
+msgstr "Verbeter een bedrijf"
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:130
 #: src/components/_user/mission/mission.frontConfig.tsx:369
 msgid "Upgrade Company"
-msgstr "Upgrade Company"
+msgstr "Verbeter een bedrijf"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:438
 msgid "Upgrade Skills"
-msgstr "Upgradevaardigheden"
+msgstr "Verbeter vaardigheden"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:204
 msgid "Upgrade to supporter"
@@ -5982,15 +5983,15 @@ msgstr "Verbeter je vaardigheden!"
 #: src/pages/company/[companyId]/index.tsx:94
 #: src/pages/region/[regionId]/index.tsx:144
 msgid "Upgrades"
-msgstr "Upgrades"
+msgstr "Verbeteringen"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:37
 msgid "Use your <0>Entrepreneurship</0> to work in your own company and fill its production bar."
-msgstr "Gebruik je <0>Entrepreneurship</0> om in je eigen bedrijf te werken en de productiebalk te vullen."
+msgstr "Gebruik je <0>Ondernemerschap</0> om in je eigen bedrijf te werken en de productiebalk te vullen."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:166
 msgid "Use your <0>Hunger</0> to eat food and refill your <1>Health</1>. Then get back to fighting!"
-msgstr "Gebruik je <0>Hunger</0> om voedsel te eten en je <1>Health</1> aan te vullen. Ga dan weer aan het vechten!"
+msgstr "Gebruik je <0>Honger</0> om voedsel te eten en je <1>Gezondheid</1> aan te vullen. Ga dan weer aan het vechten!"
 
 #: src/components/_economy/itemOffer/ItemOfferList.tsx:86
 msgid "Used"
@@ -6004,15 +6005,15 @@ msgstr "Gebruikt om met wapens te schieten. Verhoogt je <0>Aanval</0>"
 
 #: src/components/_user/user/skills.frontConfig.tsx:163
 msgid "Used to <0>Self Work</0> in your own companies"
-msgstr "Vroeger <0>zelfstandig</0> in je eigen bedrijf"
+msgstr "Gebruikt om <0>zelfstandig werk</0> te verichten in je eigen bedrijf"
 
 #: src/components/_user/user/skills.frontConfig.tsx:84
 msgid "Used to <0>Work</0>"
-msgstr "Vroeger <0>Work</0>"
+msgstr "Gebruikt om te <0>Werken</0>"
 
 #: src/utils/translations.tsx:63
 msgid "Used to build companies and MUs"
-msgstr "Werd gebruikt om bedrijven en MU's op te bouwen"
+msgstr "Gebruikt om bedrijven en MU's op te bouwen"
 
 #: src/utils/translations.tsx:41
 msgid "Used to craft items"
@@ -6052,11 +6053,11 @@ msgstr "Gebruikt om staal te produceren"
 
 #: src/utils/translations.tsx:109
 msgid "Used to upgrade companies, MUs and fortifications"
-msgstr "Gebruikt om compagnieën, MU's en versterkingen te upgraden"
+msgstr "Gebruikt om bedrijven, MU's en versterkingen te upgraden"
 
 #: src/components/_layout/LoadingScreenContent.tsx:22
 msgid "user"
-msgstr "Gebruiker"
+msgstr "gebruiker"
 
 #: src/pages/user/[userId]/bans.tsx:144
 msgid "User Actions"
@@ -6124,11 +6125,11 @@ msgstr "Valentijnskist"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:53
 msgid "Valentine Gloves"
-msgstr "Valentine Gloves"
+msgstr "Valentijn Handschoenen"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:41
 msgid "Valentine Gun"
-msgstr "Valentine Gun"
+msgstr "Valentijn Handgeweer"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:14
 msgid "Valentine Heavy Ammo"
@@ -6136,27 +6137,27 @@ msgstr "Valentine Zware Munitie"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:35
 msgid "Valentine Knife"
-msgstr "Valentine Knife"
+msgstr "Valentijn Mes"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:11
 msgid "Valentine Light Ammo"
-msgstr "Valentine Lichtmunitie"
+msgstr "Valentijn Lichtmunitie"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:38
 msgid "Valentine Lollipop"
-msgstr "Valentine Lollipop"
+msgstr "Valentijn Lollipop"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:8
 msgid "Valentine Pack"
-msgstr "Valentine Pack"
+msgstr "Valentijn Pack"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:32
 msgid "Valentine Pants"
-msgstr "Valentine Pants"
+msgstr "Valentijn Broek"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:44
 msgid "Valentine Rifle"
-msgstr "Valentine Geweer"
+msgstr "Valentijn Geweer"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:23
 msgid "Valentine Skirt"
@@ -6164,11 +6165,11 @@ msgstr "Valentijnsrok"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:50
 msgid "Valentine Sniper"
-msgstr "Valentine Sniper"
+msgstr "Valentijn Sluipschuttergeweer"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:17
 msgid "Valentine Tank"
-msgstr "Valentine Tank"
+msgstr "Valentijn Tank"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:56
 msgid "Vanguard"
@@ -6200,7 +6201,7 @@ msgstr "Viceadmiraal"
 
 #: src/components/_political/government/Government.tsx:60
 msgid "Vice President"
-msgstr "Vicevoorzitter"
+msgstr "Vicepresident"
 
 #: src/components/_military/war/WarComparison.tsx:45
 msgid "VS"
@@ -6264,7 +6265,7 @@ msgstr "War Era is 100% gratis te spelen en heeft geen <0>ads</0> of <1>pay-to-w
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:76
 msgid "Warrant Officer"
-msgstr "Warrant Officer"
+msgstr "Adjudant"
 
 #: src/components/_political/country/CountryHeader.tsx:94
 msgid "Wars"
@@ -6451,7 +6452,7 @@ msgstr "Je hebt de RNG kapotgemaakt"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:210
 msgid "You can dismantle items from your inventory by selecting an item."
-msgstr "Je kunt items uit je inventaris halen door een item te selecteren."
+msgstr "Je kunt items uit je inventaris ontmantelen door een item te selecteren."
 
 #: src/components/_political/election/CandidateFormModal.tsx:61
 msgid "You can optionally link a campaign article to your candidacy."
@@ -6479,7 +6480,7 @@ msgstr "Je wordt automatisch goedgekeurd omdat de bevolking van het land lager i
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:93
 msgid "You have a case!"
-msgstr "Je hebt een zaak!"
+msgstr "Je hebt een kist!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1260
 msgid "You have been demoted from commander in <0/> by <1/>"
@@ -6825,3 +6826,4 @@ msgstr "your@email.com"
 #: src/components/_social/ArticleList.tsx:167
 msgid "Yours"
 msgstr "Met vriendelijke groet"
+
