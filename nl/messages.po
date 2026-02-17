@@ -210,6 +210,10 @@ msgstr ""
 msgid "<0/> is revolting in <1/> against your country"
 msgstr ""
 
+#: src/components/_political/message/systemMessage.frontConfig.tsx:15
+msgid "<0/> joined the conversation"
+msgstr ""
+
 #: src/components/_user/notification/notification.frontConfig.tsx:686
 msgid "<0/> joined the game with your referral link!"
 msgstr ""
@@ -222,6 +226,10 @@ msgstr ""
 #. placeholder {0}: data.company && <CompanyNameById companyId={data.company} />
 #: src/components/_user/notification/notification.frontConfig.tsx:531
 msgid "<0/> left his job in your company {0}"
+msgstr ""
+
+#: src/components/_political/message/systemMessage.frontConfig.tsx:24
+msgid "<0/> left the conversation"
 msgstr ""
 
 #: src/components/_user/notification/notification.frontConfig.tsx:901

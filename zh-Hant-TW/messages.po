@@ -218,6 +218,10 @@ msgstr "<0/> 正在 <1/> 攻擊你的國家"
 msgid "<0/> is revolting in <1/> against your country"
 msgstr "<0/> 正在 <1/> 反抗你的國家"
 
+#: src/components/_political/message/systemMessage.frontConfig.tsx:15
+msgid "<0/> joined the conversation"
+msgstr ""
+
 #: src/components/_user/notification/notification.frontConfig.tsx:686
 msgid "<0/> joined the game with your referral link!"
 msgstr "<0/> 透過邀請連結加入了遊戲！"
@@ -231,6 +235,10 @@ msgstr "<0/> 加入了你的公司 <1/>，薪資為 <2>{0}</2>"
 #: src/components/_user/notification/notification.frontConfig.tsx:531
 msgid "<0/> left his job in your company {0}"
 msgstr "<0/> 離開了他在 {0} 的工作"
+
+#: src/components/_political/message/systemMessage.frontConfig.tsx:24
+msgid "<0/> left the conversation"
+msgstr ""
 
 #: src/components/_user/notification/notification.frontConfig.tsx:901
 msgid "<0/> liked your article <1/>"

@@ -234,6 +234,10 @@ msgstr "<0/> atakuje twój kraj w <1/>"
 msgid "<0/> is revolting in <1/> against your country"
 msgstr "<0/> buntuje się w <1/> przeciwko twojemu krajowi"
 
+#: src/components/_political/message/systemMessage.frontConfig.tsx:15
+msgid "<0/> joined the conversation"
+msgstr ""
+
 #: src/components/_user/notification/notification.frontConfig.tsx:686
 msgid "<0/> joined the game with your referral link!"
 msgstr "<0/> dołączył do gry z twoim linkiem polecającym!"
@@ -251,6 +255,10 @@ msgstr "<0/> dołączył do twojej firmy <1/> za <2>{0}</2> pensji"
 #: src/components/_user/notification/notification.frontConfig.tsx:531
 msgid "<0/> left his job in your company {0}"
 msgstr "<0/> odszedł z pracy w twojej firmie {0}"
+
+#: src/components/_political/message/systemMessage.frontConfig.tsx:24
+msgid "<0/> left the conversation"
+msgstr ""
 
 #: src/components/_user/notification/notification.frontConfig.tsx:901
 msgid "<0/> liked your article <1/>"
