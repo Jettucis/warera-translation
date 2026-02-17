@@ -121,7 +121,7 @@ msgstr "{roundsToWin} Rounds to win"
 msgid "{score}/{0} Rounds"
 msgstr "{score}/{0} Rounds"
 
-#: src/components/_other/shop/SkinPackModal.tsx:224
+#: src/components/_other/shop/SkinPackModal.tsx:214
 msgid "*If the user already owns some pieces of the set, the price will be reduced"
 msgstr "*If the user already owns some pieces of the set, the price will be reduced"
 
@@ -1127,7 +1127,7 @@ msgstr "All law enactment costs are multiplied by {0}."
 msgid "All Parties"
 msgstr "All Parties"
 
-#: src/components/_other/shop/SkinPackModal.tsx:300
+#: src/components/_other/shop/SkinPackModal.tsx:285
 msgid "All skins owned"
 msgstr "All skins owned"
 
@@ -2716,8 +2716,8 @@ msgid "Enter the code we sent to your email."
 msgstr "Enter the code we sent to your email."
 
 #: src/components/_political/government/NominateForm.tsx:60
-msgid "Enter the username you want to nominate"
-msgstr "Enter the username you want to nominate"
+#~ msgid "Enter the username you want to nominate"
+#~ msgstr "Enter the username you want to nominate"
 
 #: src/components/_user/user/skills.frontConfig.tsx:168
 #: src/components/_user/user/skills.frontConfig.tsx:169
@@ -3050,7 +3050,7 @@ msgstr "Get supporter plan"
 msgid "Gift from Vatou, don't tell anyone"
 msgstr "Gift from Vatou, don't tell anyone"
 
-#: src/components/_other/shop/SkinPackModal.tsx:99
+#: src/components/_other/shop/SkinPackModal.tsx:98
 msgid "Gift sent! Skin pack unlocked for recipient!"
 msgstr "Gift sent! Skin pack unlocked for recipient!"
 
@@ -3062,7 +3062,7 @@ msgstr "Gift sent! Thanks for supporting the game <3"
 msgid "Gift Supporter Plan"
 msgstr "Gift Supporter Plan"
 
-#: src/components/_other/shop/SkinPackModal.tsx:235
+#: src/components/_other/shop/SkinPackModal.tsx:225
 msgid "Gift this pack to someone"
 msgstr "Gift this pack to someone"
 
@@ -3824,7 +3824,7 @@ msgstr "Mentioned in message"
 #~ msgid "Mercenary contracts"
 #~ msgstr "Mercenary contracts"
 
-#: src/components/_other/shop/SkinPackModal.tsx:252
+#: src/components/_other/shop/SkinPackModal.tsx:237
 msgid "Message (Optional)"
 msgstr "Message (Optional)"
 
@@ -4306,7 +4306,7 @@ msgid "No work offers"
 msgstr "No work offers"
 
 #: src/components/_political/government/Government.tsx:187
-#: src/components/_political/government/NominateForm.tsx:73
+#: src/components/_political/government/NominateForm.tsx:61
 msgid "Nominate"
 msgstr "Nominate"
 
@@ -4467,7 +4467,7 @@ msgid "Overview"
 msgstr "Overview"
 
 #: src/components/_other/shop/SkinPackItem.tsx:136
-#: src/components/_other/shop/SkinPackModal.tsx:279
+#: src/components/_other/shop/SkinPackModal.tsx:264
 msgid "Owned"
 msgstr "Owned"
 
@@ -4969,9 +4969,13 @@ msgstr "Recent Applications"
 msgid "Recipe"
 msgstr "Recipe"
 
+#: src/components/_other/shop/SkinPackModal.tsx:232
+msgid "Recipient"
+msgstr "Recipient"
+
 #: src/components/_other/shop/SkinPackModal.tsx:242
-msgid "Recipient Username"
-msgstr "Recipient Username"
+#~ msgid "Recipient Username"
+#~ msgstr "Recipient Username"
 
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:84
 msgid "Recommended regions"
@@ -5375,6 +5379,14 @@ msgstr "Screenshot this or no one will believe you"
 msgid "Search countries..."
 msgstr "Search countries..."
 
+#: src/components/_other/shop/SkinPackModal.tsx:234
+msgid "Search recipient username..."
+msgstr "Search recipient username..."
+
+#: src/components/_political/government/NominateForm.tsx:49
+msgid "Search username to nominate..."
+msgstr "Search username to nominate..."
+
 #: src/components/_user/premium/PremiumFeatureList.tsx:44
 msgid "See all your workers and companies stats"
 msgstr "See all your workers and companies stats"
@@ -5485,7 +5497,7 @@ msgstr "Send a message"
 msgid "Send a message to complete the tutorial. Welcome to the community!"
 msgstr "Send a message to complete the tutorial. Welcome to the community!"
 
-#: src/components/_other/shop/SkinPackModal.tsx:315
+#: src/components/_other/shop/SkinPackModal.tsx:300
 msgid "Send Gift"
 msgstr "Send Gift"
 
@@ -5586,6 +5598,8 @@ msgid "Show Inventory"
 msgstr "Show Inventory"
 
 #: src/components/_military/damageRanking/DamageRankingList.tsx:216
+#: src/components/_social/ArticleTags.tsx:235
+#: src/components/_social/ArticleTags.tsx:343
 msgid "Show more"
 msgstr "Show more"
 
@@ -5619,7 +5633,7 @@ msgstr "Skin gift sent"
 msgid "Skin pack gift sent"
 msgstr "Skin pack gift sent"
 
-#: src/components/_other/shop/SkinPackModal.tsx:86
+#: src/components/_other/shop/SkinPackModal.tsx:85
 msgid "Skin pack unlocked! All skins equipped!"
 msgstr "Skin pack unlocked! All skins equipped!"
 
@@ -5632,7 +5646,7 @@ msgstr "Skin Packs"
 msgid "Skins"
 msgstr "Skins"
 
-#: src/components/_other/shop/SkinPackModal.tsx:265
+#: src/components/_other/shop/SkinPackModal.tsx:250
 msgid "Skins in this pack"
 msgstr "Skins in this pack"
 
@@ -6162,13 +6176,13 @@ msgstr "Unlinked"
 msgid "Unlinked to capital"
 msgstr "Unlinked to capital"
 
-#: src/components/_other/shop/SkinPackModal.tsx:322
+#: src/components/_other/shop/SkinPackModal.tsx:307
 msgid "Unlock"
 msgstr "Unlock"
 
 #. placeholder {0}: estimate.notOwnedCount
 #. placeholder {1}: estimate.notOwnedCount > 1 ? 's' : ''
-#: src/components/_other/shop/SkinPackModal.tsx:317
+#: src/components/_other/shop/SkinPackModal.tsx:302
 msgid "Unlock {0} skin{1}"
 msgstr "Unlock {0} skin{1}"
 
@@ -6357,7 +6371,7 @@ msgstr "user"
 msgid "User Actions"
 msgstr "User Actions"
 
-#: src/components/_other/shop/SkinPackModal.tsx:298
+#: src/components/_other/shop/SkinPackModal.tsx:283
 msgid "User already owns all skins"
 msgstr "User already owns all skins"
 
@@ -6366,8 +6380,8 @@ msgid "User blocked"
 msgstr "User blocked"
 
 #: src/components/_other/shop/SkinPackModal.tsx:247
-msgid "User not found"
-msgstr "User not found"
+#~ msgid "User not found"
+#~ msgstr "User not found"
 
 #: src/components/_military/damageRanking/DamageRankingSides.tsx:122
 msgid "User participation to the ground points."
@@ -6381,7 +6395,7 @@ msgstr "User removed from family group"
 msgid "User unblocked"
 msgstr "User unblocked"
 
-#: src/components/_political/government/NominateForm.tsx:58
+#: src/components/_political/government/NominateForm.tsx:46
 #: src/components/_user/auth/WelcomeModal.tsx:142
 #: src/components/_user/user/UserForm.tsx:45
 #: src/components/_user/user/UserForm.tsx:46

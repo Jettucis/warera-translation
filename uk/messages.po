@@ -117,7 +117,7 @@ msgstr "{roundsToWin} раунди, щоб перемогти"
 msgid "{score}/{0} Rounds"
 msgstr "{score}/{0} раундів"
 
-#: src/components/_other/shop/SkinPackModal.tsx:224
+#: src/components/_other/shop/SkinPackModal.tsx:214
 msgid "*If the user already owns some pieces of the set, the price will be reduced"
 msgstr "*Якщо гравець вже володіє частиною набору, ціну буде зменшено"
 
@@ -1107,7 +1107,7 @@ msgstr "Вартість прийняття усіх законів збільш
 msgid "All Parties"
 msgstr "Усі партії"
 
-#: src/components/_other/shop/SkinPackModal.tsx:300
+#: src/components/_other/shop/SkinPackModal.tsx:285
 msgid "All skins owned"
 msgstr "Придбано усі скіни"
 
@@ -2620,8 +2620,8 @@ msgid "Enter the code we sent to your email."
 msgstr "Введіть код, який ми надіслали на вашу пошту."
 
 #: src/components/_political/government/NominateForm.tsx:60
-msgid "Enter the username you want to nominate"
-msgstr "Введіть прізвисько користувача для призначення"
+#~ msgid "Enter the username you want to nominate"
+#~ msgstr "Введіть прізвисько користувача для призначення"
 
 #: src/components/_user/user/skills.frontConfig.tsx:168
 #: src/components/_user/user/skills.frontConfig.tsx:169
@@ -2946,7 +2946,7 @@ msgstr "Стати підписником"
 msgid "Gift from Vatou, don't tell anyone"
 msgstr "Подарунок від Vatou, нікому не кажи"
 
-#: src/components/_other/shop/SkinPackModal.tsx:99
+#: src/components/_other/shop/SkinPackModal.tsx:98
 msgid "Gift sent! Skin pack unlocked for recipient!"
 msgstr ""
 
@@ -2958,7 +2958,7 @@ msgstr "Подарунок відправлено! Дякуємо за підт�
 msgid "Gift Supporter Plan"
 msgstr "Подарувати підписку"
 
-#: src/components/_other/shop/SkinPackModal.tsx:235
+#: src/components/_other/shop/SkinPackModal.tsx:225
 msgid "Gift this pack to someone"
 msgstr ""
 
@@ -3696,7 +3696,7 @@ msgstr "Згадано у повідомленні"
 #~ msgid "Mercenary contracts"
 #~ msgstr "Наймитські контракти"
 
-#: src/components/_other/shop/SkinPackModal.tsx:252
+#: src/components/_other/shop/SkinPackModal.tsx:237
 msgid "Message (Optional)"
 msgstr "Повідомлення (за бажанням)"
 
@@ -4174,7 +4174,7 @@ msgid "No work offers"
 msgstr "Вакансій немає"
 
 #: src/components/_political/government/Government.tsx:187
-#: src/components/_political/government/NominateForm.tsx:73
+#: src/components/_political/government/NominateForm.tsx:61
 msgid "Nominate"
 msgstr "Призначити"
 
@@ -4335,7 +4335,7 @@ msgid "Overview"
 msgstr "Огляд"
 
 #: src/components/_other/shop/SkinPackItem.tsx:136
-#: src/components/_other/shop/SkinPackModal.tsx:279
+#: src/components/_other/shop/SkinPackModal.tsx:264
 msgid "Owned"
 msgstr "Придбано"
 
@@ -4829,9 +4829,13 @@ msgstr "Недавні заявки"
 msgid "Recipe"
 msgstr "Рецепт"
 
+#: src/components/_other/shop/SkinPackModal.tsx:232
+msgid "Recipient"
+msgstr ""
+
 #: src/components/_other/shop/SkinPackModal.tsx:242
-msgid "Recipient Username"
-msgstr "Прізвисько отримувача"
+#~ msgid "Recipient Username"
+#~ msgstr "Прізвисько отримувача"
 
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:84
 msgid "Recommended regions"
@@ -5231,6 +5235,14 @@ msgstr "Роби скріншот, інакше ніхто не повірить
 msgid "Search countries..."
 msgstr "Знайти державу..."
 
+#: src/components/_other/shop/SkinPackModal.tsx:234
+msgid "Search recipient username..."
+msgstr ""
+
+#: src/components/_political/government/NominateForm.tsx:49
+msgid "Search username to nominate..."
+msgstr ""
+
 #: src/components/_user/premium/PremiumFeatureList.tsx:44
 msgid "See all your workers and companies stats"
 msgstr "Переглядайте статистику ваших робітників та фабрик"
@@ -5341,7 +5353,7 @@ msgstr "Надіслати повідомлення"
 msgid "Send a message to complete the tutorial. Welcome to the community!"
 msgstr "Надішліть повідомлення, щоб завершити навчання. Вітаємо у спільноті!"
 
-#: src/components/_other/shop/SkinPackModal.tsx:315
+#: src/components/_other/shop/SkinPackModal.tsx:300
 msgid "Send Gift"
 msgstr ""
 
@@ -5442,6 +5454,8 @@ msgid "Show Inventory"
 msgstr "Показати інвентар"
 
 #: src/components/_military/damageRanking/DamageRankingList.tsx:216
+#: src/components/_social/ArticleTags.tsx:235
+#: src/components/_social/ArticleTags.tsx:343
 msgid "Show more"
 msgstr "Більше"
 
@@ -5475,7 +5489,7 @@ msgstr ""
 msgid "Skin pack gift sent"
 msgstr ""
 
-#: src/components/_other/shop/SkinPackModal.tsx:86
+#: src/components/_other/shop/SkinPackModal.tsx:85
 msgid "Skin pack unlocked! All skins equipped!"
 msgstr ""
 
@@ -5488,7 +5502,7 @@ msgstr ""
 msgid "Skins"
 msgstr ""
 
-#: src/components/_other/shop/SkinPackModal.tsx:265
+#: src/components/_other/shop/SkinPackModal.tsx:250
 msgid "Skins in this pack"
 msgstr ""
 
@@ -6014,13 +6028,13 @@ msgstr "Не з'єднаний"
 msgid "Unlinked to capital"
 msgstr "Не з'єднаний зі столицею"
 
-#: src/components/_other/shop/SkinPackModal.tsx:322
+#: src/components/_other/shop/SkinPackModal.tsx:307
 msgid "Unlock"
 msgstr "Розблокувати"
 
 #. placeholder {0}: estimate.notOwnedCount
 #. placeholder {1}: estimate.notOwnedCount > 1 ? 's' : ''
-#: src/components/_other/shop/SkinPackModal.tsx:317
+#: src/components/_other/shop/SkinPackModal.tsx:302
 msgid "Unlock {0} skin{1}"
 msgstr ""
 
@@ -6209,7 +6223,7 @@ msgstr "користувачів"
 msgid "User Actions"
 msgstr "Дії користувача"
 
-#: src/components/_other/shop/SkinPackModal.tsx:298
+#: src/components/_other/shop/SkinPackModal.tsx:283
 msgid "User already owns all skins"
 msgstr ""
 
@@ -6218,8 +6232,8 @@ msgid "User blocked"
 msgstr "Користувача заблоковано"
 
 #: src/components/_other/shop/SkinPackModal.tsx:247
-msgid "User not found"
-msgstr "Користувача не знайдено"
+#~ msgid "User not found"
+#~ msgstr "Користувача не знайдено"
 
 #: src/components/_military/damageRanking/DamageRankingSides.tsx:122
 msgid "User participation to the ground points."
@@ -6233,7 +6247,7 @@ msgstr "Користувача прибрано з сімейної групи"
 msgid "User unblocked"
 msgstr "Користувача розблоковано"
 
-#: src/components/_political/government/NominateForm.tsx:58
+#: src/components/_political/government/NominateForm.tsx:46
 #: src/components/_user/auth/WelcomeModal.tsx:142
 #: src/components/_user/user/UserForm.tsx:45
 #: src/components/_user/user/UserForm.tsx:46

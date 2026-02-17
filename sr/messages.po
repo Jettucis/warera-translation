@@ -117,7 +117,7 @@ msgstr "{roundsToWin} Рунди потребно за победу"
 msgid "{score}/{0} Rounds"
 msgstr "{score}/{0} Рунди"
 
-#: src/components/_other/shop/SkinPackModal.tsx:224
+#: src/components/_other/shop/SkinPackModal.tsx:214
 msgid "*If the user already owns some pieces of the set, the price will be reduced"
 msgstr "*Ако корисник већ поседује неке делове комплета, цена ће бити смањена"
 
@@ -1045,7 +1045,7 @@ msgstr "Сви трошкови доношења закона се множе с
 msgid "All Parties"
 msgstr "Све партије"
 
-#: src/components/_other/shop/SkinPackModal.tsx:300
+#: src/components/_other/shop/SkinPackModal.tsx:285
 msgid "All skins owned"
 msgstr "Поседујеш све скинове"
 
@@ -2520,8 +2520,8 @@ msgid "Enter the code we sent to your email."
 msgstr "Унеси код који смо послали на твој имејл."
 
 #: src/components/_political/government/NominateForm.tsx:60
-msgid "Enter the username you want to nominate"
-msgstr "Унеси корисничко име које желиш да номинујеш"
+#~ msgid "Enter the username you want to nominate"
+#~ msgstr "Унеси корисничко име које желиш да номинујеш"
 
 #: src/components/_user/user/skills.frontConfig.tsx:168
 #: src/components/_user/user/skills.frontConfig.tsx:169
@@ -2823,7 +2823,7 @@ msgstr "Узми план подршке"
 msgid "Gift from Vatou, don't tell anyone"
 msgstr "Поклон од Vatou-а, не реци никоме"
 
-#: src/components/_other/shop/SkinPackModal.tsx:99
+#: src/components/_other/shop/SkinPackModal.tsx:98
 msgid "Gift sent! Skin pack unlocked for recipient!"
 msgstr "Поклон послат! Скин пакет је откључан за примаоца!"
 
@@ -2835,7 +2835,7 @@ msgstr "Поклон послат! Хвала на подршци игре <3"
 msgid "Gift Supporter Plan"
 msgstr "Поклони план подршке"
 
-#: src/components/_other/shop/SkinPackModal.tsx:235
+#: src/components/_other/shop/SkinPackModal.tsx:225
 msgid "Gift this pack to someone"
 msgstr "Поклоните овај пакет некоме"
 
@@ -3559,7 +3559,7 @@ msgstr "Споменут у поруци"
 #~ msgid "Mercenary contracts"
 #~ msgstr "Плаћенички уговори"
 
-#: src/components/_other/shop/SkinPackModal.tsx:252
+#: src/components/_other/shop/SkinPackModal.tsx:237
 msgid "Message (Optional)"
 msgstr "Порука (опционо)"
 
@@ -4035,7 +4035,7 @@ msgid "No work offers"
 msgstr "Нема понуда за рад"
 
 #: src/components/_political/government/Government.tsx:187
-#: src/components/_political/government/NominateForm.tsx:73
+#: src/components/_political/government/NominateForm.tsx:61
 msgid "Nominate"
 msgstr "Номинуј"
 
@@ -4191,7 +4191,7 @@ msgid "Overview"
 msgstr "Преглед"
 
 #: src/components/_other/shop/SkinPackItem.tsx:136
-#: src/components/_other/shop/SkinPackModal.tsx:279
+#: src/components/_other/shop/SkinPackModal.tsx:264
 msgid "Owned"
 msgstr "У власништву"
 
@@ -4676,9 +4676,13 @@ msgstr "Скорашње апликације"
 msgid "Recipe"
 msgstr "Рецепт"
 
+#: src/components/_other/shop/SkinPackModal.tsx:232
+msgid "Recipient"
+msgstr ""
+
 #: src/components/_other/shop/SkinPackModal.tsx:242
-msgid "Recipient Username"
-msgstr "Корисничко име примаоца"
+#~ msgid "Recipient Username"
+#~ msgstr "Корисничко име примаоца"
 
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:84
 msgid "Recommended regions"
@@ -5065,6 +5069,14 @@ msgstr "Скриншотуј ово или ти нико неће вероват
 msgid "Search countries..."
 msgstr "Тражи земље..."
 
+#: src/components/_other/shop/SkinPackModal.tsx:234
+msgid "Search recipient username..."
+msgstr ""
+
+#: src/components/_political/government/NominateForm.tsx:49
+msgid "Search username to nominate..."
+msgstr ""
+
 #: src/components/_user/premium/PremiumFeatureList.tsx:44
 msgid "See all your workers and companies stats"
 msgstr "Види статистику свих својих радника и компанија"
@@ -5167,7 +5179,7 @@ msgstr "Пошаљи поруку"
 msgid "Send a message to complete the tutorial. Welcome to the community!"
 msgstr "Пошаљи поруку да завршиш туториал. Добродошао у заједницу!"
 
-#: src/components/_other/shop/SkinPackModal.tsx:315
+#: src/components/_other/shop/SkinPackModal.tsx:300
 msgid "Send Gift"
 msgstr "Пошаљи поклон"
 
@@ -5267,6 +5279,8 @@ msgid "Show Inventory"
 msgstr "Отвори инвентар"
 
 #: src/components/_military/damageRanking/DamageRankingList.tsx:216
+#: src/components/_social/ArticleTags.tsx:235
+#: src/components/_social/ArticleTags.tsx:343
 msgid "Show more"
 msgstr "Прикажи више"
 
@@ -5300,7 +5314,7 @@ msgstr "Поклон скин послат"
 msgid "Skin pack gift sent"
 msgstr "Послат поклон пакет скинова"
 
-#: src/components/_other/shop/SkinPackModal.tsx:86
+#: src/components/_other/shop/SkinPackModal.tsx:85
 msgid "Skin pack unlocked! All skins equipped!"
 msgstr "Пакет скинова је откључан! Сви скинови су опремљени!"
 
@@ -5313,7 +5327,7 @@ msgstr "Пакети скинова"
 msgid "Skins"
 msgstr "Скинови"
 
-#: src/components/_other/shop/SkinPackModal.tsx:265
+#: src/components/_other/shop/SkinPackModal.tsx:250
 msgid "Skins in this pack"
 msgstr "Скинови у овом пакету"
 
@@ -5839,13 +5853,13 @@ msgstr "Неповезано"
 msgid "Unlinked to capital"
 msgstr "Неповезано са престоницом"
 
-#: src/components/_other/shop/SkinPackModal.tsx:322
+#: src/components/_other/shop/SkinPackModal.tsx:307
 msgid "Unlock"
 msgstr "Откључај"
 
 #. placeholder {0}: estimate.notOwnedCount
 #. placeholder {1}: estimate.notOwnedCount > 1 ? 's' : ''
-#: src/components/_other/shop/SkinPackModal.tsx:317
+#: src/components/_other/shop/SkinPackModal.tsx:302
 msgid "Unlock {0} skin{1}"
 msgstr "Откључај {0} скин{1}"
 
@@ -6028,7 +6042,7 @@ msgstr "корисник"
 msgid "User Actions"
 msgstr "Акције корисника"
 
-#: src/components/_other/shop/SkinPackModal.tsx:298
+#: src/components/_other/shop/SkinPackModal.tsx:283
 msgid "User already owns all skins"
 msgstr "Корисник поседује све скинове"
 
@@ -6037,8 +6051,8 @@ msgid "User blocked"
 msgstr "Корисник блокиран"
 
 #: src/components/_other/shop/SkinPackModal.tsx:247
-msgid "User not found"
-msgstr "Корисник није пронађен"
+#~ msgid "User not found"
+#~ msgstr "Корисник није пронађен"
 
 #: src/components/_military/damageRanking/DamageRankingSides.tsx:122
 msgid "User participation to the ground points."
@@ -6052,7 +6066,7 @@ msgstr "Корисник уклоњен из породичне групе"
 msgid "User unblocked"
 msgstr "Корисник деблокиран"
 
-#: src/components/_political/government/NominateForm.tsx:58
+#: src/components/_political/government/NominateForm.tsx:46
 #: src/components/_user/auth/WelcomeModal.tsx:142
 #: src/components/_user/user/UserForm.tsx:45
 #: src/components/_user/user/UserForm.tsx:46

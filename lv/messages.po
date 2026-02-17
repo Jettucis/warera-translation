@@ -121,7 +121,7 @@ msgstr "{roundsToWin} Raundi līdz uzvarai"
 msgid "{score}/{0} Rounds"
 msgstr "{score}/{0} Raundi"
 
-#: src/components/_other/shop/SkinPackModal.tsx:224
+#: src/components/_other/shop/SkinPackModal.tsx:214
 msgid "*If the user already owns some pieces of the set, the price will be reduced"
 msgstr "*Ja lietotājam jau ir dažas lietas no komplekta, cena būs mazāka"
 
@@ -1122,7 +1122,7 @@ msgstr "Visiem likumiem, ieviešanas maksa palielinas {0}x reizes."
 msgid "All Parties"
 msgstr "Visas Partijas"
 
-#: src/components/_other/shop/SkinPackModal.tsx:300
+#: src/components/_other/shop/SkinPackModal.tsx:285
 msgid "All skins owned"
 msgstr "Visi piederošie veidoli"
 
@@ -2711,8 +2711,8 @@ msgid "Enter the code we sent to your email."
 msgstr "Ievadi kodu, kuru nosūtījām tev uz e-pastu."
 
 #: src/components/_political/government/NominateForm.tsx:60
-msgid "Enter the username you want to nominate"
-msgstr "Ievadi lietotājvārdu, kuru vēlies nominēt"
+#~ msgid "Enter the username you want to nominate"
+#~ msgstr "Ievadi lietotājvārdu, kuru vēlies nominēt"
 
 #: src/components/_user/user/skills.frontConfig.tsx:168
 #: src/components/_user/user/skills.frontConfig.tsx:169
@@ -3045,7 +3045,7 @@ msgstr "Iegūt atbalstītāja plānu"
 msgid "Gift from Vatou, don't tell anyone"
 msgstr "Dāvana no Vatou, nestāsti nevienam"
 
-#: src/components/_other/shop/SkinPackModal.tsx:99
+#: src/components/_other/shop/SkinPackModal.tsx:98
 msgid "Gift sent! Skin pack unlocked for recipient!"
 msgstr "Dāvana nosūtīta! Saņēmējs ir ieguvis veidolu komplektu!"
 
@@ -3057,7 +3057,7 @@ msgstr "Dāvana nosūtīta! Paldies, ka atbalsti spēli <3"
 msgid "Gift Supporter Plan"
 msgstr "Dāvināt Atbalstītāja Plānu"
 
-#: src/components/_other/shop/SkinPackModal.tsx:235
+#: src/components/_other/shop/SkinPackModal.tsx:225
 msgid "Gift this pack to someone"
 msgstr "Uzdāvini šo komplektu kādam"
 
@@ -3811,7 +3811,7 @@ msgstr "Tu esi pieminēts ziņā"
 #~ msgid "Mercenary contracts"
 #~ msgstr "Algotņu kontrakti"
 
-#: src/components/_other/shop/SkinPackModal.tsx:252
+#: src/components/_other/shop/SkinPackModal.tsx:237
 msgid "Message (Optional)"
 msgstr "Ziņa, ko nodot (neobligāti)"
 
@@ -4293,7 +4293,7 @@ msgid "No work offers"
 msgstr "Nav darba piedāvājumu"
 
 #: src/components/_political/government/Government.tsx:187
-#: src/components/_political/government/NominateForm.tsx:73
+#: src/components/_political/government/NominateForm.tsx:61
 msgid "Nominate"
 msgstr "Nominēt"
 
@@ -4454,7 +4454,7 @@ msgid "Overview"
 msgstr "Pārskats"
 
 #: src/components/_other/shop/SkinPackItem.tsx:136
-#: src/components/_other/shop/SkinPackModal.tsx:279
+#: src/components/_other/shop/SkinPackModal.tsx:264
 msgid "Owned"
 msgstr "Piederošie"
 
@@ -4956,9 +4956,13 @@ msgstr "Pēdejie Pieteikumi"
 msgid "Recipe"
 msgstr "Ražošanas recepte"
 
+#: src/components/_other/shop/SkinPackModal.tsx:232
+msgid "Recipient"
+msgstr ""
+
 #: src/components/_other/shop/SkinPackModal.tsx:242
-msgid "Recipient Username"
-msgstr "Adresāta Lietotājvārds"
+#~ msgid "Recipient Username"
+#~ msgstr "Adresāta Lietotājvārds"
 
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:84
 msgid "Recommended regions"
@@ -5362,6 +5366,14 @@ msgstr "Labāk nobildē, savādāk neviens neticēs"
 msgid "Search countries..."
 msgstr "Meklēt valstis..."
 
+#: src/components/_other/shop/SkinPackModal.tsx:234
+msgid "Search recipient username..."
+msgstr ""
+
+#: src/components/_political/government/NominateForm.tsx:49
+msgid "Search username to nominate..."
+msgstr ""
+
 #: src/components/_user/premium/PremiumFeatureList.tsx:44
 msgid "See all your workers and companies stats"
 msgstr "Vari aplūkot visus savu darbinieku un uzņēmumu statistiku"
@@ -5472,7 +5484,7 @@ msgstr "Nosūtīt ziņu"
 msgid "Send a message to complete the tutorial. Welcome to the community!"
 msgstr "Nosūti ziņu, lai pabeigtu apmācību. Sveicināts kopienā!"
 
-#: src/components/_other/shop/SkinPackModal.tsx:315
+#: src/components/_other/shop/SkinPackModal.tsx:300
 msgid "Send Gift"
 msgstr "Nosūti Dāvanu"
 
@@ -5573,6 +5585,8 @@ msgid "Show Inventory"
 msgstr "Rādīt Inventāru"
 
 #: src/components/_military/damageRanking/DamageRankingList.tsx:216
+#: src/components/_social/ArticleTags.tsx:235
+#: src/components/_social/ArticleTags.tsx:343
 msgid "Show more"
 msgstr "Rādīt vairāk"
 
@@ -5606,7 +5620,7 @@ msgstr "Veidola dāvana nosūtīta"
 msgid "Skin pack gift sent"
 msgstr "Veidolu komplekta dāvana nosūtīta"
 
-#: src/components/_other/shop/SkinPackModal.tsx:86
+#: src/components/_other/shop/SkinPackModal.tsx:85
 msgid "Skin pack unlocked! All skins equipped!"
 msgstr "Veidolu komplekts iegūts! Visi veidoli ir nomainīti!"
 
@@ -5619,7 +5633,7 @@ msgstr "Veidolu Komplekti"
 msgid "Skins"
 msgstr "Veidoli"
 
-#: src/components/_other/shop/SkinPackModal.tsx:265
+#: src/components/_other/shop/SkinPackModal.tsx:250
 msgid "Skins in this pack"
 msgstr "Veidoli šajā komplektā"
 
@@ -6149,13 +6163,13 @@ msgstr "Nesavienots"
 msgid "Unlinked to capital"
 msgstr "Nesavienots ar galvaspilsētu"
 
-#: src/components/_other/shop/SkinPackModal.tsx:322
+#: src/components/_other/shop/SkinPackModal.tsx:307
 msgid "Unlock"
 msgstr "Iegūt"
 
 #. placeholder {0}: estimate.notOwnedCount
 #. placeholder {1}: estimate.notOwnedCount > 1 ? 's' : ''
-#: src/components/_other/shop/SkinPackModal.tsx:317
+#: src/components/_other/shop/SkinPackModal.tsx:302
 msgid "Unlock {0} skin{1}"
 msgstr "Iegūt {0} veidolu{1}"
 
@@ -6344,7 +6358,7 @@ msgstr "lietotājs"
 msgid "User Actions"
 msgstr "Lietotāja Darbības"
 
-#: src/components/_other/shop/SkinPackModal.tsx:298
+#: src/components/_other/shop/SkinPackModal.tsx:283
 msgid "User already owns all skins"
 msgstr "Lietotājam jau ir visi komplekti"
 
@@ -6353,8 +6367,8 @@ msgid "User blocked"
 msgstr "Lietotājs nobloķēts"
 
 #: src/components/_other/shop/SkinPackModal.tsx:247
-msgid "User not found"
-msgstr "Lietotājs nav atrasts"
+#~ msgid "User not found"
+#~ msgstr "Lietotājs nav atrasts"
 
 #: src/components/_military/damageRanking/DamageRankingSides.tsx:122
 msgid "User participation to the ground points."
@@ -6368,7 +6382,7 @@ msgstr "Lietotājs noņemts no ģimenes grupas"
 msgid "User unblocked"
 msgstr "Lietotājs atbloķēts"
 
-#: src/components/_political/government/NominateForm.tsx:58
+#: src/components/_political/government/NominateForm.tsx:46
 #: src/components/_user/auth/WelcomeModal.tsx:142
 #: src/components/_user/user/UserForm.tsx:45
 #: src/components/_user/user/UserForm.tsx:46

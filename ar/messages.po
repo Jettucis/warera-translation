@@ -121,7 +121,7 @@ msgstr "{roundsToWin} جولات للفوز"
 msgid "{score}/{0} Rounds"
 msgstr "{score}/{0} جولات"
 
-#: src/components/_other/shop/SkinPackModal.tsx:224
+#: src/components/_other/shop/SkinPackModal.tsx:214
 msgid "*If the user already owns some pieces of the set, the price will be reduced"
 msgstr "*إذا كان المستخدم يمتلك بالفعل بعض القطع من المجموعة، فسيتم تخفيض السعر"
 
@@ -1127,7 +1127,7 @@ msgstr "تُضرب جميع تكاليف سن القوانين في {0}."
 msgid "All Parties"
 msgstr "جميع الأحزاب"
 
-#: src/components/_other/shop/SkinPackModal.tsx:300
+#: src/components/_other/shop/SkinPackModal.tsx:285
 msgid "All skins owned"
 msgstr "تمتلك جميع المظاهر"
 
@@ -2716,8 +2716,8 @@ msgid "Enter the code we sent to your email."
 msgstr "أدخل الرمز الذي أرسلناه إلى بريدك الإلكتروني."
 
 #: src/components/_political/government/NominateForm.tsx:60
-msgid "Enter the username you want to nominate"
-msgstr "أدخل اسم المستخدم الذي تريد ترشيحه"
+#~ msgid "Enter the username you want to nominate"
+#~ msgstr "أدخل اسم المستخدم الذي تريد ترشيحه"
 
 #: src/components/_user/user/skills.frontConfig.tsx:168
 #: src/components/_user/user/skills.frontConfig.tsx:169
@@ -3050,7 +3050,7 @@ msgstr "احصل على خطة الداعم"
 msgid "Gift from Vatou, don't tell anyone"
 msgstr "هدية من Vatou، لا تخبر أحداً"
 
-#: src/components/_other/shop/SkinPackModal.tsx:99
+#: src/components/_other/shop/SkinPackModal.tsx:98
 msgid "Gift sent! Skin pack unlocked for recipient!"
 msgstr "تم إرسال الهدية! تم فتح حزمة المظاهر للمستلم!"
 
@@ -3062,7 +3062,7 @@ msgstr "تم إرسال الهدية! شكراً لدعمك اللعبة <3"
 msgid "Gift Supporter Plan"
 msgstr "إهداء خطة الداعم"
 
-#: src/components/_other/shop/SkinPackModal.tsx:235
+#: src/components/_other/shop/SkinPackModal.tsx:225
 msgid "Gift this pack to someone"
 msgstr "أهدِ هذه الحزمة لشخص ما"
 
@@ -3824,7 +3824,7 @@ msgstr "تمت الإشارة إليك في رسالة"
 #~ msgid "Mercenary contracts"
 #~ msgstr "عقود المرتزقة"
 
-#: src/components/_other/shop/SkinPackModal.tsx:252
+#: src/components/_other/shop/SkinPackModal.tsx:237
 msgid "Message (Optional)"
 msgstr "الرسالة (اختياري)"
 
@@ -4306,7 +4306,7 @@ msgid "No work offers"
 msgstr "لا توجد عروض عمل"
 
 #: src/components/_political/government/Government.tsx:187
-#: src/components/_political/government/NominateForm.tsx:73
+#: src/components/_political/government/NominateForm.tsx:61
 msgid "Nominate"
 msgstr "ترشيح"
 
@@ -4467,7 +4467,7 @@ msgid "Overview"
 msgstr "نظرة عامة"
 
 #: src/components/_other/shop/SkinPackItem.tsx:136
-#: src/components/_other/shop/SkinPackModal.tsx:279
+#: src/components/_other/shop/SkinPackModal.tsx:264
 msgid "Owned"
 msgstr "مملوكة"
 
@@ -4969,9 +4969,13 @@ msgstr "الطلبات الأخيرة"
 msgid "Recipe"
 msgstr "الوصفة"
 
+#: src/components/_other/shop/SkinPackModal.tsx:232
+msgid "Recipient"
+msgstr ""
+
 #: src/components/_other/shop/SkinPackModal.tsx:242
-msgid "Recipient Username"
-msgstr "اسم مستخدم المستلم"
+#~ msgid "Recipient Username"
+#~ msgstr "اسم مستخدم المستلم"
 
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:84
 msgid "Recommended regions"
@@ -5375,6 +5379,14 @@ msgstr "صوّر هذا وإلا لن يصدقك أحد"
 msgid "Search countries..."
 msgstr "ابحث عن دول..."
 
+#: src/components/_other/shop/SkinPackModal.tsx:234
+msgid "Search recipient username..."
+msgstr ""
+
+#: src/components/_political/government/NominateForm.tsx:49
+msgid "Search username to nominate..."
+msgstr ""
+
 #: src/components/_user/premium/PremiumFeatureList.tsx:44
 msgid "See all your workers and companies stats"
 msgstr "شاهد إحصائيات جميع عمالك وشركاتك"
@@ -5485,7 +5497,7 @@ msgstr "أرسل رسالة"
 msgid "Send a message to complete the tutorial. Welcome to the community!"
 msgstr "أرسل رسالة لإكمال الدرس التعليمي. مرحباً بك في المجتمع!"
 
-#: src/components/_other/shop/SkinPackModal.tsx:315
+#: src/components/_other/shop/SkinPackModal.tsx:300
 msgid "Send Gift"
 msgstr "إرسال هدية"
 
@@ -5586,6 +5598,8 @@ msgid "Show Inventory"
 msgstr "عرض المخزون"
 
 #: src/components/_military/damageRanking/DamageRankingList.tsx:216
+#: src/components/_social/ArticleTags.tsx:235
+#: src/components/_social/ArticleTags.tsx:343
 msgid "Show more"
 msgstr "عرض المزيد"
 
@@ -5619,7 +5633,7 @@ msgstr "تم إرسال هدية المظهر"
 msgid "Skin pack gift sent"
 msgstr "تم إرسال هدية حزمة المظاهر"
 
-#: src/components/_other/shop/SkinPackModal.tsx:86
+#: src/components/_other/shop/SkinPackModal.tsx:85
 msgid "Skin pack unlocked! All skins equipped!"
 msgstr "تم فتح حزمة المظاهر! تم تجهيز جميع المظاهر!"
 
@@ -5632,7 +5646,7 @@ msgstr "حزم المظاهر"
 msgid "Skins"
 msgstr "المظاهر"
 
-#: src/components/_other/shop/SkinPackModal.tsx:265
+#: src/components/_other/shop/SkinPackModal.tsx:250
 msgid "Skins in this pack"
 msgstr "المظاهر في هذه الحزمة"
 
@@ -6162,13 +6176,13 @@ msgstr "غير مرتبط"
 msgid "Unlinked to capital"
 msgstr "غير مرتبطة بالعاصمة"
 
-#: src/components/_other/shop/SkinPackModal.tsx:322
+#: src/components/_other/shop/SkinPackModal.tsx:307
 msgid "Unlock"
 msgstr "فتح"
 
 #. placeholder {0}: estimate.notOwnedCount
 #. placeholder {1}: estimate.notOwnedCount > 1 ? 's' : ''
-#: src/components/_other/shop/SkinPackModal.tsx:317
+#: src/components/_other/shop/SkinPackModal.tsx:302
 msgid "Unlock {0} skin{1}"
 msgstr "فتح {0} مظهر{1}"
 
@@ -6357,7 +6371,7 @@ msgstr "مستخدم"
 msgid "User Actions"
 msgstr "إجراءات المستخدم"
 
-#: src/components/_other/shop/SkinPackModal.tsx:298
+#: src/components/_other/shop/SkinPackModal.tsx:283
 msgid "User already owns all skins"
 msgstr "المستخدم يمتلك بالفعل جميع المظاهر"
 
@@ -6366,8 +6380,8 @@ msgid "User blocked"
 msgstr "تم حظر المستخدم"
 
 #: src/components/_other/shop/SkinPackModal.tsx:247
-msgid "User not found"
-msgstr "المستخدم غير موجود"
+#~ msgid "User not found"
+#~ msgstr "المستخدم غير موجود"
 
 #: src/components/_military/damageRanking/DamageRankingSides.tsx:122
 msgid "User participation to the ground points."
@@ -6381,7 +6395,7 @@ msgstr "تمت إزالة المستخدم من المجموعة العائلي�
 msgid "User unblocked"
 msgstr "تم إلغاء حظر المستخدم"
 
-#: src/components/_political/government/NominateForm.tsx:58
+#: src/components/_political/government/NominateForm.tsx:46
 #: src/components/_user/auth/WelcomeModal.tsx:142
 #: src/components/_user/user/UserForm.tsx:45
 #: src/components/_user/user/UserForm.tsx:46

@@ -117,7 +117,7 @@ msgstr "還要 {roundsToWin} 回合獲勝"
 msgid "{score}/{0} Rounds"
 msgstr "{score}/{0} 回合"
 
-#: src/components/_other/shop/SkinPackModal.tsx:224
+#: src/components/_other/shop/SkinPackModal.tsx:214
 msgid "*If the user already owns some pieces of the set, the price will be reduced"
 msgstr ""
 
@@ -1048,7 +1048,7 @@ msgstr ""
 msgid "All Parties"
 msgstr ""
 
-#: src/components/_other/shop/SkinPackModal.tsx:300
+#: src/components/_other/shop/SkinPackModal.tsx:285
 msgid "All skins owned"
 msgstr ""
 
@@ -2523,8 +2523,8 @@ msgid "Enter the code we sent to your email."
 msgstr "輸入我們傳送至你電子郵件的驗證碼"
 
 #: src/components/_political/government/NominateForm.tsx:60
-msgid "Enter the username you want to nominate"
-msgstr "輸入你想指派的用戶名稱"
+#~ msgid "Enter the username you want to nominate"
+#~ msgstr "輸入你想指派的用戶名稱"
 
 #: src/components/_user/user/skills.frontConfig.tsx:168
 #: src/components/_user/user/skills.frontConfig.tsx:169
@@ -2829,7 +2829,7 @@ msgstr "獲取支持者計畫"
 msgid "Gift from Vatou, don't tell anyone"
 msgstr "來自 Vatou 的禮物，別告訴任何人"
 
-#: src/components/_other/shop/SkinPackModal.tsx:99
+#: src/components/_other/shop/SkinPackModal.tsx:98
 msgid "Gift sent! Skin pack unlocked for recipient!"
 msgstr ""
 
@@ -2841,7 +2841,7 @@ msgstr "禮物已送出！謝謝你支持這個遊戲 <3"
 msgid "Gift Supporter Plan"
 msgstr "贈送支持者計畫"
 
-#: src/components/_other/shop/SkinPackModal.tsx:235
+#: src/components/_other/shop/SkinPackModal.tsx:225
 msgid "Gift this pack to someone"
 msgstr ""
 
@@ -3567,7 +3567,7 @@ msgstr "在訊息中提及"
 #~ msgid "Mercenary contracts"
 #~ msgstr "傭兵合約"
 
-#: src/components/_other/shop/SkinPackModal.tsx:252
+#: src/components/_other/shop/SkinPackModal.tsx:237
 msgid "Message (Optional)"
 msgstr ""
 
@@ -4045,7 +4045,7 @@ msgid "No work offers"
 msgstr "找不到職缺"
 
 #: src/components/_political/government/Government.tsx:187
-#: src/components/_political/government/NominateForm.tsx:73
+#: src/components/_political/government/NominateForm.tsx:61
 msgid "Nominate"
 msgstr "指派"
 
@@ -4201,7 +4201,7 @@ msgid "Overview"
 msgstr "總覽"
 
 #: src/components/_other/shop/SkinPackItem.tsx:136
-#: src/components/_other/shop/SkinPackModal.tsx:279
+#: src/components/_other/shop/SkinPackModal.tsx:264
 msgid "Owned"
 msgstr ""
 
@@ -4687,9 +4687,13 @@ msgstr ""
 msgid "Recipe"
 msgstr "配方"
 
-#: src/components/_other/shop/SkinPackModal.tsx:242
-msgid "Recipient Username"
+#: src/components/_other/shop/SkinPackModal.tsx:232
+msgid "Recipient"
 msgstr ""
+
+#: src/components/_other/shop/SkinPackModal.tsx:242
+#~ msgid "Recipient Username"
+#~ msgstr ""
 
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:84
 msgid "Recommended regions"
@@ -5077,6 +5081,14 @@ msgstr "截圖這個，不然沒人會相信你"
 msgid "Search countries..."
 msgstr "搜尋國家..."
 
+#: src/components/_other/shop/SkinPackModal.tsx:234
+msgid "Search recipient username..."
+msgstr ""
+
+#: src/components/_political/government/NominateForm.tsx:49
+msgid "Search username to nominate..."
+msgstr ""
+
 #: src/components/_user/premium/PremiumFeatureList.tsx:44
 msgid "See all your workers and companies stats"
 msgstr "查看所有員工與公司的統計資料"
@@ -5179,7 +5191,7 @@ msgstr "傳送一則訊息"
 msgid "Send a message to complete the tutorial. Welcome to the community!"
 msgstr "傳送訊息以完成教學。歡迎來到這個社群！"
 
-#: src/components/_other/shop/SkinPackModal.tsx:315
+#: src/components/_other/shop/SkinPackModal.tsx:300
 msgid "Send Gift"
 msgstr ""
 
@@ -5280,6 +5292,8 @@ msgid "Show Inventory"
 msgstr ""
 
 #: src/components/_military/damageRanking/DamageRankingList.tsx:216
+#: src/components/_social/ArticleTags.tsx:235
+#: src/components/_social/ArticleTags.tsx:343
 msgid "Show more"
 msgstr "顯示更多"
 
@@ -5313,7 +5327,7 @@ msgstr ""
 msgid "Skin pack gift sent"
 msgstr ""
 
-#: src/components/_other/shop/SkinPackModal.tsx:86
+#: src/components/_other/shop/SkinPackModal.tsx:85
 msgid "Skin pack unlocked! All skins equipped!"
 msgstr ""
 
@@ -5326,7 +5340,7 @@ msgstr ""
 msgid "Skins"
 msgstr ""
 
-#: src/components/_other/shop/SkinPackModal.tsx:265
+#: src/components/_other/shop/SkinPackModal.tsx:250
 msgid "Skins in this pack"
 msgstr ""
 
@@ -5852,13 +5866,13 @@ msgstr "未連接"
 msgid "Unlinked to capital"
 msgstr "未與首都連接"
 
-#: src/components/_other/shop/SkinPackModal.tsx:322
+#: src/components/_other/shop/SkinPackModal.tsx:307
 msgid "Unlock"
 msgstr ""
 
 #. placeholder {0}: estimate.notOwnedCount
 #. placeholder {1}: estimate.notOwnedCount > 1 ? 's' : ''
-#: src/components/_other/shop/SkinPackModal.tsx:317
+#: src/components/_other/shop/SkinPackModal.tsx:302
 msgid "Unlock {0} skin{1}"
 msgstr ""
 
@@ -6043,7 +6057,7 @@ msgstr "用戶"
 msgid "User Actions"
 msgstr "用戶行為"
 
-#: src/components/_other/shop/SkinPackModal.tsx:298
+#: src/components/_other/shop/SkinPackModal.tsx:283
 msgid "User already owns all skins"
 msgstr ""
 
@@ -6052,8 +6066,8 @@ msgid "User blocked"
 msgstr "用戶遭屏蔽"
 
 #: src/components/_other/shop/SkinPackModal.tsx:247
-msgid "User not found"
-msgstr ""
+#~ msgid "User not found"
+#~ msgstr ""
 
 #: src/components/_military/damageRanking/DamageRankingSides.tsx:122
 msgid "User participation to the ground points."
@@ -6067,7 +6081,7 @@ msgstr "用戶已從家庭群組中被移除"
 msgid "User unblocked"
 msgstr "已解除用戶屏蔽"
 
-#: src/components/_political/government/NominateForm.tsx:58
+#: src/components/_political/government/NominateForm.tsx:46
 #: src/components/_user/auth/WelcomeModal.tsx:142
 #: src/components/_user/user/UserForm.tsx:45
 #: src/components/_user/user/UserForm.tsx:46
