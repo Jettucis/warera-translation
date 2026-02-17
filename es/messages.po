@@ -24,7 +24,7 @@ msgstr " Regalar una suscripción"
 
 #. placeholder {0}: gameConfig?.battle.regionNotLinkedToCapitalMalusPercent
 #: src/pages/region/[regionId]/index.tsx:182
-msgid "- Defending this region will have a malus of <0>{0}</0>."
+msgid "- Defeвnding this region will have a malus of <0>{0}</0>."
 msgstr "- Defender esta región tendrá una penalización de <0>{0}</0>."
 
 #. placeholder {0}: -region.development * 0.5
