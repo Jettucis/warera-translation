@@ -249,7 +249,7 @@ msgstr "<0/> bij jouw bedrijf begonnen <1/> voor <2>{0}</2> loon"
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:34
 msgid "<0/> kicked <1/> from the conversation"
-msgstr "<0/> heeft <1/> uit het gesprek gegooid"
+msgstr "<0/> heeft <1/> uit het gesprek verwijderd"
 
 #. placeholder {0}: data.company && <CompanyNameById companyId={data.company} />
 #: src/components/_user/notification/notification.frontConfig.tsx:531
