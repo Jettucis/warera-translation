@@ -1968,7 +1968,7 @@ msgstr "Kopieer"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:125
 msgid "Copy this token now. You won't be able to see it again! Use it in the <0>X-API-Key</0> header."
-msgstr "Kopieer deze token nu. Je zult het niet meer kunnen zien! Gebruik het in de header <0>X-API-Key</0>."
+msgstr "Kopieer deze token nu. Je zult hem nooit meer kunnen zien! Gebruik het in de header <0>X-API-Key</0>."
 
 #: src/pages/country/[countryId]/regions.tsx:28
 msgid "Core regions"
