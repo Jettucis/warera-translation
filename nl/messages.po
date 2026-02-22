@@ -525,7 +525,7 @@ msgstr "<0>Gevuld met <1>Productiepunten</1> door medewerkers en vanuit de geaut
 #. placeholder {7}: gameConfig?.unrest.contributionCooldownAfterRevolutionHours
 #: src/components/_political/unrest/UnrestBar.tsx:25
 msgid "<0>Unrest</0> represents internal tension in the country.<1/><2/>Citizens can contribute by spending <3>{0}</3> or <4>{1}</4> to add <5>{2}</5> to the bar. Unrest decays daily by <6>{3}-{4}%</6>.<7/><8/>When the bar is full, any party can vote via motion to start a <9>Civil war</9> (cost: <10>development × 10</10>, cooldown: {5}h). The battle takes place in the capital region, and <11>only citizens</11> can fight.<12/><13/>If revolutionaries win:<14/>- Government is impeached<15/>- Borders are opened for {6} days<16/>- Presidential elections begin<17/><18/>After a revolution, contributions are disabled for {7}h."
-msgstr "<0>Onrust</0> vertegenwoordigt interne spanningen in het land.<1/><2/>Burgers kunnen bijdragen door <3>{0}</3> of <4>{1}</4> uit te geven om <5>{2}</5> aan de bar toe te voegen. De onrust neemt dagelijks af met <6>{3}-{4}%</6>,<7/><8/>Wanneer de balk vol is, kan elke partij via een motie stemmen om een <9>Burgeroorlog</9> te starten (kosten: <10>ontwikkeling × 10</10>, cooldown: {5}h). De strijd vindt plaats in de hoofdstedelijke regio en <11>alleen burgers</11> kunnen vechten.<12/><13/>Als revolutionairen winnen:<14/>- Regering wordt afgezet<15/>- Grenzen worden voor {6} dagen geopend<16/>- Presidentsverkiezingen beginnen<17/><18/>Na een revolutie worden de bijdragen voor {7} uur uitgeschakeld."
+msgstr "<0>Onrust</0> vertegenwoordigt interne spanningen in het land.<1/><2/>Burgers kunnen bijdragen door <3>{0}</3> of <4>{1}</4> uit te geven om <5>{2}</5> aan de balk toe te voegen. De onrust neemt dagelijks af met <6>{3}-{4}%</6>,<7/><8/>Wanneer de balk vol is, kan elke partij via een motie stemmen om een <9>Burgeroorlog</9> te starten (kosten: <10>ontwikkeling × 10</10>, cooldown: {5}h). De strijd vindt plaats in de hoofdstedelijke regio en <11>alleen burgers</11> kunnen vechten.<12/><13/>Als revolutionairen winnen:<14/>- Regering wordt afgezet<15/>- Grenzen worden voor {6} dagen geopend<16/>- Presidentsverkiezingen beginnen<17/><18/>Na een revolutie worden de bijdragen voor {7} uur uitgeschakeld."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:86
 msgid "1 legendary down, 5 more to go for a full stuff, keep gambling!"
@@ -661,7 +661,7 @@ msgstr "2★ Kapitein"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:73
 msgid "2★ Chief"
-msgstr "2★ Chief"
+msgstr "2★ Chef"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:108
 msgid "2★ Colonel"
@@ -773,7 +773,7 @@ msgstr "3★ Kapitein"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:74
 msgid "3★ Chief"
-msgstr "3★ Chief"
+msgstr "3★ Chef"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:109
 msgid "3★ Colonel"
@@ -947,7 +947,7 @@ msgstr "Geaccepteerd"
 
 #: src/components/_military/battle/BattleHeader.tsx:161
 msgid "Access war"
-msgstr ""
+msgstr "Naar oorlog"
 
 #: src/components/_political/country/CountryHeader.tsx:70
 #: src/components/_user/user/UserHeader.tsx:162
@@ -1859,7 +1859,7 @@ msgstr "Gefeliciteerd! Je bent gepromoveerd tot <0/> met een aanvalsbonus van <1
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1527
 msgid "Congratulations! You won the giveaway and received cases!"
-msgstr "Gefeliciteerd! Je hebt de weggeefactie gewonnen en koffers ontvangen!"
+msgstr "Gefeliciteerd! Je hebt de weggeefactie gewonnen en kisten ontvangen!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:365
 #: src/components/_user/notification/notification.frontConfig.tsx:1204
@@ -1892,7 +1892,7 @@ msgstr "De verkiezing voor het Congres is afgelopen in <0/>. Bekijk de resultate
 
 #: src/components/_user/notification/notification.frontConfig.tsx:158
 msgid "Congress election vote open"
-msgstr "Congresverkiezingen openstaan"
+msgstr "Congresverkiezing stemming geopend"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:167
 msgid "Congress election voting is now open in <0/>"
@@ -2931,7 +2931,7 @@ msgstr "Grondpunten"
 
 #: src/utils/translations.tsx:23
 msgid "Gun"
-msgstr "Gun"
+msgstr "Pistool"
 
 #: src/components/_user/user/skills.frontConfig.tsx:77
 #: src/components/_user/user/skills.frontConfig.tsx:78
@@ -3420,11 +3420,11 @@ msgstr "Loot kans"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:491
 msgid "Looted case"
-msgstr "Geplunderde koffer"
+msgstr "Geplunderde kist"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:489
 msgid "Looted cases"
-msgstr "Geplunderde koffers"
+msgstr "Geplunderde kisten"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:726
 msgid "Looted money"
@@ -4258,7 +4258,7 @@ msgstr "De verkiezingen voor de partijraad zijn afgelopen in <0/>. Bekijk de res
 
 #: src/components/_user/notification/notification.frontConfig.tsx:267
 msgid "Party Council election vote open"
-msgstr "Partijraadsverkiezingen openstaan"
+msgstr "Partijraadsverkiezing stemming geopend"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:276
 msgid "Party Council election voting is now open in <0/>"
@@ -4294,7 +4294,7 @@ msgstr "De verkiezing van partijleider is afgelopen op <0/>. Bekijk de resultate
 
 #: src/components/_user/notification/notification.frontConfig.tsx:265
 msgid "Party Leader election vote open"
-msgstr "Partijleiderverkiezing, stemming open"
+msgstr "Partijleiderverkiezing stemming geopend"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:271
 msgid "Party Leader election voting is now open in <0/>"
@@ -5124,7 +5124,7 @@ msgstr "Verkoop voor <0>{count}</0> geld op de markt"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:54
 msgid "Sell it, you need to buy more cases to gamble!"
-msgstr "Verkoop het, je moet meer koffers kopen om te gokken!"
+msgstr "Verkoop het, je moet meer kisten kopen om te gokken!"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:194
 msgid "Sell Items"
@@ -5728,7 +5728,7 @@ msgstr "Totaal"
 
 #: src/components/_economy/inventory/case/OpenCaseModal.tsx:436
 msgid "Total cases opened:"
-msgstr "Totaal aantal geopende zaken:"
+msgstr "Totaal aantal geopende kisten:"
 
 #: src/components/_user/user/UserRankingsPanel.tsx:27
 msgid "Total damages"
