@@ -116,7 +116,7 @@ msgstr ""
 msgid "{battleIcon}War battle for {regionName} {score}"
 msgstr ""
 
-#: src/components/_user/mission/MissionsList.tsx:162
+#: src/components/_user/mission/MissionsList.tsx:171
 msgid "{completedCount}/{totalCount} completed"
 msgstr "{completedCount}/{totalCount} завршено"
 
@@ -2093,7 +2093,7 @@ msgstr "Укупно тренутно:"
 msgid "Custom username font"
 msgstr "Прилагођен фонт корисничког имена"
 
-#: src/components/_user/mission/MissionsList.tsx:180
+#: src/components/_user/mission/MissionsList.tsx:189
 msgid "Daily"
 msgstr "Дневне"
 
@@ -2812,7 +2812,7 @@ msgstr "Драгуљи се користе за куповину средста�
 msgid "General"
 msgstr "Генерал"
 
-#: src/components/_user/mission/MissionsList.tsx:232
+#: src/components/_user/mission/MissionsList.tsx:241
 msgid "Generate Missions"
 msgstr "Генериши мисије"
 
@@ -3621,7 +3621,7 @@ msgstr "Министар спољних послова"
 
 #: src/components/_layout/LayoutRightIcons.tsx:254
 #: src/components/_layout/MoreButtonNav.tsx:103
-#: src/components/_user/mission/MissionsList.tsx:159
+#: src/components/_user/mission/MissionsList.tsx:168
 msgid "Missions"
 msgstr "Мисије"
 
@@ -3773,7 +3773,7 @@ msgstr "Никад не одустај!"
 msgid "Never stop gambling"
 msgstr "Никад не одустај од коцкања"
 
-#: src/components/_other/shop/SkinItem.tsx:95
+#: src/components/_other/shop/SkinItem.tsx:119
 #: src/components/_other/shop/SkinPackItem.tsx:83
 #: src/components/_social/ArticleList.tsx:133
 msgid "New"
@@ -3963,7 +3963,7 @@ msgstr "Још увек нема закона"
 msgid "No military units found"
 msgstr "Нису пронађене војне јединице"
 
-#: src/components/_user/mission/MissionsList.tsx:222
+#: src/components/_user/mission/MissionsList.tsx:231
 msgid "No missions available"
 msgstr "Нема доступних мисија"
 
@@ -5400,7 +5400,7 @@ msgstr "Започни револуцију"
 msgid "Started <0/>"
 msgstr "Започето <0/>"
 
-#: src/components/_user/mission/MissionsList.tsx:205
+#: src/components/_user/mission/MissionsList.tsx:214
 msgid "Starting"
 msgstr "Почетничке"
 
@@ -6229,7 +6229,7 @@ msgstr "Богатсво"
 msgid "Weapon"
 msgstr "Оружје"
 
-#: src/components/_user/mission/MissionsList.tsx:193
+#: src/components/_user/mission/MissionsList.tsx:202
 msgid "Weekly"
 msgstr "Недељнe"
 

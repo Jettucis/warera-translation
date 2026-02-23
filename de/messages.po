@@ -116,7 +116,7 @@ msgstr "{battleIcon}Turnierschlacht um {tournamentName} {score}"
 msgid "{battleIcon}War battle for {regionName} {score}"
 msgstr "{battleIcon}Kriegsschlacht um {regionName} {score}"
 
-#: src/components/_user/mission/MissionsList.tsx:162
+#: src/components/_user/mission/MissionsList.tsx:171
 msgid "{completedCount}/{totalCount} completed"
 msgstr "{completedCount}/{totalCount} abgeschlossen"
 
@@ -2093,7 +2093,7 @@ msgstr "Aktuelle Gesamtsumme:"
 msgid "Custom username font"
 msgstr "Benutzerdefinierte Schriftart des Benutzernamens"
 
-#: src/components/_user/mission/MissionsList.tsx:180
+#: src/components/_user/mission/MissionsList.tsx:189
 msgid "Daily"
 msgstr "Täglich"
 
@@ -2812,7 +2812,7 @@ msgstr "Edelsteine werden verwendet, um Gegenstände im Shop zu kaufen und Suppo
 msgid "General"
 msgstr "General"
 
-#: src/components/_user/mission/MissionsList.tsx:232
+#: src/components/_user/mission/MissionsList.tsx:241
 msgid "Generate Missions"
 msgstr "Missionen generieren"
 
@@ -3621,7 +3621,7 @@ msgstr "Außenminister"
 
 #: src/components/_layout/LayoutRightIcons.tsx:254
 #: src/components/_layout/MoreButtonNav.tsx:103
-#: src/components/_user/mission/MissionsList.tsx:159
+#: src/components/_user/mission/MissionsList.tsx:168
 msgid "Missions"
 msgstr "Missionen"
 
@@ -3773,7 +3773,7 @@ msgstr "Niemals aufgeben!"
 msgid "Never stop gambling"
 msgstr "Hör niemals auf zu spielen"
 
-#: src/components/_other/shop/SkinItem.tsx:95
+#: src/components/_other/shop/SkinItem.tsx:119
 #: src/components/_other/shop/SkinPackItem.tsx:83
 #: src/components/_social/ArticleList.tsx:133
 msgid "New"
@@ -3963,7 +3963,7 @@ msgstr "Noch keine Gesetze"
 msgid "No military units found"
 msgstr "Keine Militäreinheiten gefunden"
 
-#: src/components/_user/mission/MissionsList.tsx:222
+#: src/components/_user/mission/MissionsList.tsx:231
 msgid "No missions available"
 msgstr "Keine Missionen verfügbar"
 
@@ -5400,7 +5400,7 @@ msgstr "Revolution starten"
 msgid "Started <0/>"
 msgstr "Gestartet <0/>"
 
-#: src/components/_user/mission/MissionsList.tsx:205
+#: src/components/_user/mission/MissionsList.tsx:214
 msgid "Starting"
 msgstr "Startet"
 
@@ -6229,7 +6229,7 @@ msgstr "Reichtum"
 msgid "Weapon"
 msgstr "Waffe"
 
-#: src/components/_user/mission/MissionsList.tsx:193
+#: src/components/_user/mission/MissionsList.tsx:202
 msgid "Weekly"
 msgstr "Wöchentlich"
 

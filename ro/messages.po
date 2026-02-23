@@ -114,7 +114,7 @@ msgstr ""
 msgid "{battleIcon}War battle for {regionName} {score}"
 msgstr ""
 
-#: src/components/_user/mission/MissionsList.tsx:162
+#: src/components/_user/mission/MissionsList.tsx:171
 msgid "{completedCount}/{totalCount} completed"
 msgstr "{completedCount}/{totalCount} completate"
 
@@ -2091,7 +2091,7 @@ msgstr "Total până acum:"
 msgid "Custom username font"
 msgstr "Font personalizat pentru numele utilizatorului"
 
-#: src/components/_user/mission/MissionsList.tsx:180
+#: src/components/_user/mission/MissionsList.tsx:189
 msgid "Daily"
 msgstr "Zilnice"
 
@@ -2810,7 +2810,7 @@ msgstr "Diamantele sunt folosite pentru a cumpăra resurse cosmetice din magazin
 msgid "General"
 msgstr "General"
 
-#: src/components/_user/mission/MissionsList.tsx:232
+#: src/components/_user/mission/MissionsList.tsx:241
 msgid "Generate Missions"
 msgstr "Generează Misiuni"
 
@@ -3619,7 +3619,7 @@ msgstr "Ministrul Externelor"
 
 #: src/components/_layout/LayoutRightIcons.tsx:254
 #: src/components/_layout/MoreButtonNav.tsx:103
-#: src/components/_user/mission/MissionsList.tsx:159
+#: src/components/_user/mission/MissionsList.tsx:168
 msgid "Missions"
 msgstr "Misiuni"
 
@@ -3771,7 +3771,7 @@ msgstr "Nu renunța niciodată!"
 msgid "Never stop gambling"
 msgstr "Nu riști, nu câștigi!"
 
-#: src/components/_other/shop/SkinItem.tsx:95
+#: src/components/_other/shop/SkinItem.tsx:119
 #: src/components/_other/shop/SkinPackItem.tsx:83
 #: src/components/_social/ArticleList.tsx:133
 msgid "New"
@@ -3961,7 +3961,7 @@ msgstr "Nicio lege"
 msgid "No military units found"
 msgstr "Fără unități militare"
 
-#: src/components/_user/mission/MissionsList.tsx:222
+#: src/components/_user/mission/MissionsList.tsx:231
 msgid "No missions available"
 msgstr "Nu există misiuni disponibile"
 
@@ -5398,7 +5398,7 @@ msgstr ""
 msgid "Started <0/>"
 msgstr "Început <0/>"
 
-#: src/components/_user/mission/MissionsList.tsx:205
+#: src/components/_user/mission/MissionsList.tsx:214
 msgid "Starting"
 msgstr "Inițiere"
 
@@ -6227,7 +6227,7 @@ msgstr "Avere"
 msgid "Weapon"
 msgstr "Armă"
 
-#: src/components/_user/mission/MissionsList.tsx:193
+#: src/components/_user/mission/MissionsList.tsx:202
 msgid "Weekly"
 msgstr "Săptămânale"
 

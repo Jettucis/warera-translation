@@ -116,7 +116,7 @@ msgstr "{battleIcon}Turnīra kauja {tournamentName} {score}"
 msgid "{battleIcon}War battle for {regionName} {score}"
 msgstr "{battleIcon}Kara kauja {regionName} {score}"
 
-#: src/components/_user/mission/MissionsList.tsx:162
+#: src/components/_user/mission/MissionsList.tsx:171
 msgid "{completedCount}/{totalCount} completed"
 msgstr "{completedCount}/{totalCount} pabeigti"
 
@@ -2093,7 +2093,7 @@ msgstr "Kopā raundā:"
 msgid "Custom username font"
 msgstr "Pielāgots lietotājvārda fonts"
 
-#: src/components/_user/mission/MissionsList.tsx:180
+#: src/components/_user/mission/MissionsList.tsx:189
 msgid "Daily"
 msgstr "Dienas"
 
@@ -2812,7 +2812,7 @@ msgstr "Ar dārgakmeņiem var nopirkt profila noformējumu un uzdāvināt atbals
 msgid "General"
 msgstr "Ģenerālis"
 
-#: src/components/_user/mission/MissionsList.tsx:232
+#: src/components/_user/mission/MissionsList.tsx:241
 msgid "Generate Missions"
 msgstr "Ģenerēt Uzdevumus"
 
@@ -3621,7 +3621,7 @@ msgstr "Ārlietu Ministrs"
 
 #: src/components/_layout/LayoutRightIcons.tsx:254
 #: src/components/_layout/MoreButtonNav.tsx:103
-#: src/components/_user/mission/MissionsList.tsx:159
+#: src/components/_user/mission/MissionsList.tsx:168
 msgid "Missions"
 msgstr "Uzdevumi"
 
@@ -3773,7 +3773,7 @@ msgstr "Nekad nepadodies!"
 msgid "Never stop gambling"
 msgstr "Nekad neatmet spēlēt azartspēles"
 
-#: src/components/_other/shop/SkinItem.tsx:95
+#: src/components/_other/shop/SkinItem.tsx:119
 #: src/components/_other/shop/SkinPackItem.tsx:83
 #: src/components/_social/ArticleList.tsx:133
 msgid "New"
@@ -3963,7 +3963,7 @@ msgstr "Pagaidām nav neviena likuma"
 msgid "No military units found"
 msgstr "Nav militāru vienību"
 
-#: src/components/_user/mission/MissionsList.tsx:222
+#: src/components/_user/mission/MissionsList.tsx:231
 msgid "No missions available"
 msgstr "Nav neviena uzdevuma"
 
@@ -5400,7 +5400,7 @@ msgstr "Uzsākt revolūciju"
 msgid "Started <0/>"
 msgstr "Uzsākts <0/>"
 
-#: src/components/_user/mission/MissionsList.tsx:205
+#: src/components/_user/mission/MissionsList.tsx:214
 msgid "Starting"
 msgstr "Iesācēja"
 
@@ -6229,7 +6229,7 @@ msgstr "Bagātība"
 msgid "Weapon"
 msgstr "Ierocis"
 
-#: src/components/_user/mission/MissionsList.tsx:193
+#: src/components/_user/mission/MissionsList.tsx:202
 msgid "Weekly"
 msgstr "Nedēļas"
 

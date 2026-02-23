@@ -116,7 +116,7 @@ msgstr ""
 msgid "{battleIcon}War battle for {regionName} {score}"
 msgstr ""
 
-#: src/components/_user/mission/MissionsList.tsx:162
+#: src/components/_user/mission/MissionsList.tsx:171
 msgid "{completedCount}/{totalCount} completed"
 msgstr "{completedCount}/{totalCount} ukończonych"
 
@@ -2093,7 +2093,7 @@ msgstr "Aktualny wynik:"
 msgid "Custom username font"
 msgstr "Niestandardowa czcionka nazwy użytkownika"
 
-#: src/components/_user/mission/MissionsList.tsx:180
+#: src/components/_user/mission/MissionsList.tsx:189
 msgid "Daily"
 msgstr "Dzienne"
 
@@ -2812,7 +2812,7 @@ msgstr "Klejnoty służą do kupowania przedmiotów w sklepie i obdarowywania in
 msgid "General"
 msgstr "Generał"
 
-#: src/components/_user/mission/MissionsList.tsx:232
+#: src/components/_user/mission/MissionsList.tsx:241
 msgid "Generate Missions"
 msgstr "Generuj misje"
 
@@ -3621,7 +3621,7 @@ msgstr "Minister Spraw Zagranicznych"
 
 #: src/components/_layout/LayoutRightIcons.tsx:254
 #: src/components/_layout/MoreButtonNav.tsx:103
-#: src/components/_user/mission/MissionsList.tsx:159
+#: src/components/_user/mission/MissionsList.tsx:168
 msgid "Missions"
 msgstr "Misje"
 
@@ -3773,7 +3773,7 @@ msgstr "Nigdy się nie poddawaj!"
 msgid "Never stop gambling"
 msgstr "Nigdy nie przestawaj grać"
 
-#: src/components/_other/shop/SkinItem.tsx:95
+#: src/components/_other/shop/SkinItem.tsx:119
 #: src/components/_other/shop/SkinPackItem.tsx:83
 #: src/components/_social/ArticleList.tsx:133
 msgid "New"
@@ -3963,7 +3963,7 @@ msgstr "Brak praw"
 msgid "No military units found"
 msgstr "Nie znaleziono jednostek wojskowych"
 
-#: src/components/_user/mission/MissionsList.tsx:222
+#: src/components/_user/mission/MissionsList.tsx:231
 msgid "No missions available"
 msgstr "Brak dostępnych misji"
 
@@ -5400,7 +5400,7 @@ msgstr ""
 msgid "Started <0/>"
 msgstr "Rozpoczęto <0/>"
 
-#: src/components/_user/mission/MissionsList.tsx:205
+#: src/components/_user/mission/MissionsList.tsx:214
 msgid "Starting"
 msgstr "Rozpoczynanie"
 
@@ -6229,7 +6229,7 @@ msgstr "Majątek"
 msgid "Weapon"
 msgstr "Broń"
 
-#: src/components/_user/mission/MissionsList.tsx:193
+#: src/components/_user/mission/MissionsList.tsx:202
 msgid "Weekly"
 msgstr "Tygodniowe"
 
