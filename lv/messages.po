@@ -4,8 +4,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-11-16 20:49+0200\n"
 "PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"Last-Translator: Patriots\n"
+"Language-Team: Patriots, EriksR, AriDev\n"
 "Language: lv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -102,11 +102,11 @@ msgstr "{0}% no ieguldītā"
 
 #: src/components/_military/battle/BattleName.tsx:141
 msgid "{battleIcon}Resistance battle for {regionName} {score}"
-msgstr "{battleIcon}Sacelšanās kauja {regionName} {score}"
+msgstr "{battleIcon}Sacelšanās {regionName} {score}"
 
 #: src/components/_military/battle/BattleName.tsx:146
 msgid "{battleIcon}Revolution battle {score}"
-msgstr "{battleIcon}Revolūcijas kauja {score}"
+msgstr "{battleIcon}Revolūcija {score}"
 
 #: src/components/_military/battle/BattleName.tsx:151
 msgid "{battleIcon}Tournament battle for {tournamentName} {score}"
@@ -114,7 +114,7 @@ msgstr "{battleIcon}Turnīra kauja {tournamentName} {score}"
 
 #: src/components/_military/battle/BattleName.tsx:136
 msgid "{battleIcon}War battle for {regionName} {score}"
-msgstr "{battleIcon}Kara kauja {regionName} {score}"
+msgstr "{battleIcon}Uzbrukums {regionName} {score}"
 
 #: src/components/_user/mission/MissionsList.tsx:171
 msgid "{completedCount}/{totalCount} completed"
@@ -525,7 +525,7 @@ msgstr "<0>Piepildās ar <1>Ražošanas Punktiem</1> strādājot, kā arī no au
 #. placeholder {7}: gameConfig?.unrest.contributionCooldownAfterRevolutionHours
 #: src/components/_political/unrest/UnrestBar.tsx:25
 msgid "<0>Unrest</0> represents internal tension in the country.<1/><2/>Citizens can contribute by spending <3>{0}</3> or <4>{1}</4> to add <5>{2}</5> to the bar. Unrest decays daily by <6>{3}-{4}%</6>.<7/><8/>When the bar is full, any party can vote via motion to start a <9>Civil war</9> (cost: <10>development × 10</10>, cooldown: {5}h). The battle takes place in the capital region, and <11>only citizens</11> can fight.<12/><13/>If revolutionaries win:<14/>- Government is impeached<15/>- Borders are opened for {6} days<16/>- Presidential elections begin<17/><18/>After a revolution, contributions are disabled for {7}h."
-msgstr "<0>Nemieri</0> atspoguļo iekšējo spriedzi valstī.<1><2/>Pilsoņi var to palielināt, tērējot <3>{0}</3> vai <4>{1}</4>, lai papildinātu stabiņu ar <5>{2}</5>. Nemieri sarūk katru dienu par <6>{3}-{4}%</6>.<7/><8/>Kad stabiņš ir pilns, jebkura partija var iesniegt priekšlikumu, lai uzsāktu <9>Pilsoņu karu</9> (maksa: <10>attīstība × 10</10>, atdzišanas periods: {5}h). Kauja norisinās galvaspilsētā un tajā var cīnīties <11>tikai pilsoņi</11>.<12/><13/>Ja revolucionāri uzvar:<14/>- Valdība tiek atlaista<15/>- Valsts robežas tiek atvērtas uz {6} dienām<16/>- Sākas jaunas prezidenta vēlēšanas<17/><18/>Pēc revolūcijas, ieguldīšana nemieros ir liegta uz {7}h."
+msgstr "<0>Nemieri</0> atspoguļo iekšējo spriedzi valstī.<1/><2/>Pilsoņi var to palielināt, tērējot <3>{0}</3> vai <4>{1}</4>, lai papildinātu stabiņu ar <5>{2}</5>. Nemieri sarūk katru dienu par <6>{3}-{4}%</6>.<7/><8/>Kad stabiņš ir pilns, jebkura partija var iesniegt priekšlikumu, lai uzsāktu <9>Pilsoņu karu</9> (maksa: <10>attīstība × 10</10>, atdzišanas periods: {5}h). Kauja norisinās galvaspilsētā un tajā var cīnīties <11>tikai pilsoņi</11>.<12/><13/>Ja revolucionāri uzvar:<14/>- Valdība tiek atlaista<15/>- Valsts robežas tiek atvērtas uz {6} dienām<16/>- Sākas jaunas prezidenta vēlēšanas<17/><18/>Pēc revolūcijas, ieguldīšana nemieros ir liegta uz {7}h."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:86
 msgid "1 legendary down, 5 more to go for a full stuff, keep gambling!"
@@ -5863,7 +5863,7 @@ msgstr "Atklusināt lietotāju"
 
 #: src/components/_user/user/UserHeader.tsx:405
 msgid "Unmuted <0/>"
-msgstr "<0/> atklusināts"
+msgstr "Apklusināšana beigsies <0/>"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:93
 msgid "Unreal. This doesn't happen"
@@ -6152,7 +6152,7 @@ msgstr "Viceprezidents"
 
 #: src/components/_military/battle/BattleHeader.tsx:168
 msgid "View on map"
-msgstr "Apskatīt kartē"
+msgstr "Rādīt kartē"
 
 #: src/components/_military/war/WarComparison.tsx:45
 msgid "VS"
