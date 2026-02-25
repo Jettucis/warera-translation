@@ -3780,7 +3780,7 @@ msgstr "Kumar oynamayı bırakma"
 
 #: src/components/_other/shop/SkinItem.tsx:119
 #: src/components/_other/shop/SkinPackItem.tsx:83
-#: src/components/_social/ArticleList.tsx:157
+#: src/components/_social/ArticleList.tsx:161
 msgid "New"
 msgstr "Yeni"
 
@@ -5274,8 +5274,8 @@ msgstr "Envanteri Göster"
 msgid "Show more"
 msgstr "Daha fazla göster"
 
-#: src/components/_social/ArticleList.tsx:140
-msgid "Show only articles with positive score"
+#: src/components/_social/ArticleList.tsx:141
+msgid "Show only articles with positive score (score >= -5)"
 msgstr ""
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:19
@@ -5470,7 +5470,7 @@ msgstr "Stratejik kaynak"
 msgid "Strategic resources"
 msgstr "Stratejik kaynaklar"
 
-#: src/components/_social/ArticleList.tsx:185
+#: src/components/_social/ArticleList.tsx:189
 msgid "Subscribed"
 msgstr "Abone Olundu"
 
@@ -5694,15 +5694,15 @@ msgstr "Makaleye Bahşiş Ver"
 msgid "Token Name"
 msgstr "Token Adı"
 
-#: src/components/_social/ArticleList.tsx:177
+#: src/components/_social/ArticleList.tsx:181
 msgid "Top"
 msgstr "En İyi"
 
-#: src/components/_social/ArticleList.tsx:164
+#: src/components/_social/ArticleList.tsx:168
 msgid "Top (1d)"
 msgstr "En İyi (1g)"
 
-#: src/components/_social/ArticleList.tsx:171
+#: src/components/_social/ArticleList.tsx:175
 msgid "Top (1w)"
 msgstr "En İyi (1h)"
 
@@ -6784,6 +6784,6 @@ msgstr "Haftalık görevleriniz sıfırlandı! Ödüller almak için onları tam
 msgid "your@email.com"
 msgstr "senin@email.com"
 
-#: src/components/_social/ArticleList.tsx:191
+#: src/components/_social/ArticleList.tsx:195
 msgid "Yours"
 msgstr "Seninkiler"

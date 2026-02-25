@@ -3780,7 +3780,7 @@ msgstr "Nekad neatmet spēlēt azartspēles"
 
 #: src/components/_other/shop/SkinItem.tsx:119
 #: src/components/_other/shop/SkinPackItem.tsx:83
-#: src/components/_social/ArticleList.tsx:157
+#: src/components/_social/ArticleList.tsx:161
 msgid "New"
 msgstr "Jaunākie"
 
@@ -5274,8 +5274,8 @@ msgstr "Rādīt Inventāru"
 msgid "Show more"
 msgstr "Rādīt vairāk"
 
-#: src/components/_social/ArticleList.tsx:140
-msgid "Show only articles with positive score"
+#: src/components/_social/ArticleList.tsx:141
+msgid "Show only articles with positive score (score >= -5)"
 msgstr ""
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:19
@@ -5470,7 +5470,7 @@ msgstr "Stratēģiskais resurss"
 msgid "Strategic resources"
 msgstr "Stratēģiskie resursi"
 
-#: src/components/_social/ArticleList.tsx:185
+#: src/components/_social/ArticleList.tsx:189
 msgid "Subscribed"
 msgstr "Abonētie"
 
@@ -5694,15 +5694,15 @@ msgstr "Atstāt dzeramnaudu"
 msgid "Token Name"
 msgstr "Žetona nosaukums"
 
-#: src/components/_social/ArticleList.tsx:177
+#: src/components/_social/ArticleList.tsx:181
 msgid "Top"
 msgstr "Labākie"
 
-#: src/components/_social/ArticleList.tsx:164
+#: src/components/_social/ArticleList.tsx:168
 msgid "Top (1d)"
 msgstr "Labākie (dienas)"
 
-#: src/components/_social/ArticleList.tsx:171
+#: src/components/_social/ArticleList.tsx:175
 msgid "Top (1w)"
 msgstr "Labākie (nedēļas)"
 
@@ -6784,6 +6784,6 @@ msgstr "Tev ir jauni nedēļas uzdevumi! Izpildi tos, lai saņemtu atlīdzību."
 msgid "your@email.com"
 msgstr "tavs@e-pasts.lv"
 
-#: src/components/_social/ArticleList.tsx:191
+#: src/components/_social/ArticleList.tsx:195
 msgid "Yours"
 msgstr "Tavi"

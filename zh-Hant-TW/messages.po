@@ -3780,7 +3780,7 @@ msgstr "不要停止賭博"
 
 #: src/components/_other/shop/SkinItem.tsx:119
 #: src/components/_other/shop/SkinPackItem.tsx:83
-#: src/components/_social/ArticleList.tsx:157
+#: src/components/_social/ArticleList.tsx:161
 msgid "New"
 msgstr "最新"
 
@@ -5274,8 +5274,8 @@ msgstr "顯示倉庫"
 msgid "Show more"
 msgstr "顯示更多"
 
-#: src/components/_social/ArticleList.tsx:140
-msgid "Show only articles with positive score"
+#: src/components/_social/ArticleList.tsx:141
+msgid "Show only articles with positive score (score >= -5)"
 msgstr ""
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:19
@@ -5470,7 +5470,7 @@ msgstr "戰略資源"
 msgid "Strategic resources"
 msgstr "戰略資源"
 
-#: src/components/_social/ArticleList.tsx:185
+#: src/components/_social/ArticleList.tsx:189
 msgid "Subscribed"
 msgstr "已訂閱"
 
@@ -5694,15 +5694,15 @@ msgstr "給文章小費"
 msgid "Token Name"
 msgstr "Token 名稱"
 
-#: src/components/_social/ArticleList.tsx:177
+#: src/components/_social/ArticleList.tsx:181
 msgid "Top"
 msgstr "熱門"
 
-#: src/components/_social/ArticleList.tsx:164
+#: src/components/_social/ArticleList.tsx:168
 msgid "Top (1d)"
 msgstr "熱門 (1天)"
 
-#: src/components/_social/ArticleList.tsx:171
+#: src/components/_social/ArticleList.tsx:175
 msgid "Top (1w)"
 msgstr "熱門 (1周)"
 
@@ -6784,6 +6784,6 @@ msgstr "你的每週任務已重置，完成它們以賺取獎勵！"
 msgid "your@email.com"
 msgstr "your@email.com"
 
-#: src/components/_social/ArticleList.tsx:191
+#: src/components/_social/ArticleList.tsx:195
 msgid "Yours"
 msgstr "你的"

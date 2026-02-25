@@ -3780,7 +3780,7 @@ msgstr "Никад не одустај од коцкања"
 
 #: src/components/_other/shop/SkinItem.tsx:119
 #: src/components/_other/shop/SkinPackItem.tsx:83
-#: src/components/_social/ArticleList.tsx:157
+#: src/components/_social/ArticleList.tsx:161
 msgid "New"
 msgstr "Ново"
 
@@ -5274,8 +5274,8 @@ msgstr "Отвори инвентар"
 msgid "Show more"
 msgstr "Прикажи више"
 
-#: src/components/_social/ArticleList.tsx:140
-msgid "Show only articles with positive score"
+#: src/components/_social/ArticleList.tsx:141
+msgid "Show only articles with positive score (score >= -5)"
 msgstr ""
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:19
@@ -5470,7 +5470,7 @@ msgstr "Стратешки ресурс"
 msgid "Strategic resources"
 msgstr "Стратешки ресурс"
 
-#: src/components/_social/ArticleList.tsx:185
+#: src/components/_social/ArticleList.tsx:189
 msgid "Subscribed"
 msgstr "Претплаћен"
 
@@ -5694,15 +5694,15 @@ msgstr "Дај напојницу за чланак"
 msgid "Token Name"
 msgstr "Назив токена"
 
-#: src/components/_social/ArticleList.tsx:177
+#: src/components/_social/ArticleList.tsx:181
 msgid "Top"
 msgstr "Топ"
 
-#: src/components/_social/ArticleList.tsx:164
+#: src/components/_social/ArticleList.tsx:168
 msgid "Top (1d)"
 msgstr "Топ (1д)"
 
-#: src/components/_social/ArticleList.tsx:171
+#: src/components/_social/ArticleList.tsx:175
 msgid "Top (1w)"
 msgstr "Топ (1н)"
 
@@ -6784,6 +6784,6 @@ msgstr "Твоје недељне мисије су ресетоване! Зав
 msgid "your@email.com"
 msgstr "tvoj@email.com"
 
-#: src/components/_social/ArticleList.tsx:191
+#: src/components/_social/ArticleList.tsx:195
 msgid "Yours"
 msgstr "Твоје"

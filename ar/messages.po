@@ -3780,7 +3780,7 @@ msgstr "لا تتوقف عن المقامرة أبدًا"
 
 #: src/components/_other/shop/SkinItem.tsx:119
 #: src/components/_other/shop/SkinPackItem.tsx:83
-#: src/components/_social/ArticleList.tsx:157
+#: src/components/_social/ArticleList.tsx:161
 msgid "New"
 msgstr "جديد"
 
@@ -5274,8 +5274,8 @@ msgstr "عرض المخزون"
 msgid "Show more"
 msgstr "عرض المزيد"
 
-#: src/components/_social/ArticleList.tsx:140
-msgid "Show only articles with positive score"
+#: src/components/_social/ArticleList.tsx:141
+msgid "Show only articles with positive score (score >= -5)"
 msgstr ""
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:19
@@ -5470,7 +5470,7 @@ msgstr "مورد استراتيجي"
 msgid "Strategic resources"
 msgstr "الموارد الاستراتيجية"
 
-#: src/components/_social/ArticleList.tsx:185
+#: src/components/_social/ArticleList.tsx:189
 msgid "Subscribed"
 msgstr "مشترك"
 
@@ -5694,15 +5694,15 @@ msgstr "منح إكرامية للمقال"
 msgid "Token Name"
 msgstr "اسم الرمز"
 
-#: src/components/_social/ArticleList.tsx:177
+#: src/components/_social/ArticleList.tsx:181
 msgid "Top"
 msgstr "الأعلى"
 
-#: src/components/_social/ArticleList.tsx:164
+#: src/components/_social/ArticleList.tsx:168
 msgid "Top (1d)"
 msgstr "الأعلى (يوم واحد)"
 
-#: src/components/_social/ArticleList.tsx:171
+#: src/components/_social/ArticleList.tsx:175
 msgid "Top (1w)"
 msgstr "الأعلى (أسبوع واحد)"
 
@@ -6784,6 +6784,6 @@ msgstr "تم إعادة تعيين مهامك الأسبوعية! أكملها �
 msgid "your@email.com"
 msgstr "your@email.com"
 
-#: src/components/_social/ArticleList.tsx:191
+#: src/components/_social/ArticleList.tsx:195
 msgid "Yours"
 msgstr "الخاصة بك"

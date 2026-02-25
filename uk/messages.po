@@ -3780,7 +3780,7 @@ msgstr "Ніколи не переставай лудоманити"
 
 #: src/components/_other/shop/SkinItem.tsx:119
 #: src/components/_other/shop/SkinPackItem.tsx:83
-#: src/components/_social/ArticleList.tsx:157
+#: src/components/_social/ArticleList.tsx:161
 msgid "New"
 msgstr "Нове"
 
@@ -5274,8 +5274,8 @@ msgstr "Показати інвентар"
 msgid "Show more"
 msgstr "Більше"
 
-#: src/components/_social/ArticleList.tsx:140
-msgid "Show only articles with positive score"
+#: src/components/_social/ArticleList.tsx:141
+msgid "Show only articles with positive score (score >= -5)"
 msgstr ""
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:19
@@ -5470,7 +5470,7 @@ msgstr "Стратегічний ресурс"
 msgid "Strategic resources"
 msgstr "Стратегічні ресурси"
 
-#: src/components/_social/ArticleList.tsx:185
+#: src/components/_social/ArticleList.tsx:189
 msgid "Subscribed"
 msgstr "Підписки"
 
@@ -5694,15 +5694,15 @@ msgstr "Залишити чайові"
 msgid "Token Name"
 msgstr "Назва токену"
 
-#: src/components/_social/ArticleList.tsx:177
+#: src/components/_social/ArticleList.tsx:181
 msgid "Top"
 msgstr "Найкращі"
 
-#: src/components/_social/ArticleList.tsx:164
+#: src/components/_social/ArticleList.tsx:168
 msgid "Top (1d)"
 msgstr "Найкращі (1д)"
 
-#: src/components/_social/ArticleList.tsx:171
+#: src/components/_social/ArticleList.tsx:175
 msgid "Top (1w)"
 msgstr "Найкращі (7д)"
 
@@ -6784,6 +6784,6 @@ msgstr "Ваші щотижневі місії було скинуто! Заве
 msgid "your@email.com"
 msgstr "ваш@email.com"
 
-#: src/components/_social/ArticleList.tsx:191
+#: src/components/_social/ArticleList.tsx:195
 msgid "Yours"
 msgstr "Ваші"

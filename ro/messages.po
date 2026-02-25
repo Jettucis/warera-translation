@@ -3778,7 +3778,7 @@ msgstr "Nu riști, nu câștigi!"
 
 #: src/components/_other/shop/SkinItem.tsx:119
 #: src/components/_other/shop/SkinPackItem.tsx:83
-#: src/components/_social/ArticleList.tsx:157
+#: src/components/_social/ArticleList.tsx:161
 msgid "New"
 msgstr ""
 
@@ -5272,8 +5272,8 @@ msgstr ""
 msgid "Show more"
 msgstr "Mai multe"
 
-#: src/components/_social/ArticleList.tsx:140
-msgid "Show only articles with positive score"
+#: src/components/_social/ArticleList.tsx:141
+msgid "Show only articles with positive score (score >= -5)"
 msgstr ""
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:19
@@ -5468,7 +5468,7 @@ msgstr "Resursă strategică"
 msgid "Strategic resources"
 msgstr "Resurse strategice"
 
-#: src/components/_social/ArticleList.tsx:185
+#: src/components/_social/ArticleList.tsx:189
 msgid "Subscribed"
 msgstr "Abonamente"
 
@@ -5692,15 +5692,15 @@ msgstr "Sponsorizează articole"
 msgid "Token Name"
 msgstr "Nume Token"
 
-#: src/components/_social/ArticleList.tsx:177
+#: src/components/_social/ArticleList.tsx:181
 msgid "Top"
 msgstr "Top"
 
-#: src/components/_social/ArticleList.tsx:164
+#: src/components/_social/ArticleList.tsx:168
 msgid "Top (1d)"
 msgstr ""
 
-#: src/components/_social/ArticleList.tsx:171
+#: src/components/_social/ArticleList.tsx:175
 msgid "Top (1w)"
 msgstr ""
 
@@ -6782,6 +6782,6 @@ msgstr "Misiunile tale săptămânale au fost resetate! Completează-le pentru a
 msgid "your@email.com"
 msgstr "adresa_ta@email.com"
 
-#: src/components/_social/ArticleList.tsx:191
+#: src/components/_social/ArticleList.tsx:195
 msgid "Yours"
 msgstr "Ale tale"

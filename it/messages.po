@@ -3780,7 +3780,7 @@ msgstr "Non smettere mai di giocare d'azzardo"
 
 #: src/components/_other/shop/SkinItem.tsx:119
 #: src/components/_other/shop/SkinPackItem.tsx:83
-#: src/components/_social/ArticleList.tsx:157
+#: src/components/_social/ArticleList.tsx:161
 msgid "New"
 msgstr "Nuovo"
 
@@ -5274,8 +5274,8 @@ msgstr "Mostra inventario"
 msgid "Show more"
 msgstr "Mostra altro"
 
-#: src/components/_social/ArticleList.tsx:140
-msgid "Show only articles with positive score"
+#: src/components/_social/ArticleList.tsx:141
+msgid "Show only articles with positive score (score >= -5)"
 msgstr ""
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:19
@@ -5470,7 +5470,7 @@ msgstr "Risorsa strategica"
 msgid "Strategic resources"
 msgstr "Risorse strategiche"
 
-#: src/components/_social/ArticleList.tsx:185
+#: src/components/_social/ArticleList.tsx:189
 msgid "Subscribed"
 msgstr "Iscritto"
 
@@ -5694,15 +5694,15 @@ msgstr "Lascia mancia all'articolo"
 msgid "Token Name"
 msgstr "Nome token"
 
-#: src/components/_social/ArticleList.tsx:177
+#: src/components/_social/ArticleList.tsx:181
 msgid "Top"
 msgstr "Top"
 
-#: src/components/_social/ArticleList.tsx:164
+#: src/components/_social/ArticleList.tsx:168
 msgid "Top (1d)"
 msgstr "Top (1g)"
 
-#: src/components/_social/ArticleList.tsx:171
+#: src/components/_social/ArticleList.tsx:175
 msgid "Top (1w)"
 msgstr "Top (1sett)"
 
@@ -6784,6 +6784,6 @@ msgstr "Le tue missioni settimanali sono state reimpostate! Completale per otten
 msgid "your@email.com"
 msgstr "your@email.com"
 
-#: src/components/_social/ArticleList.tsx:191
+#: src/components/_social/ArticleList.tsx:195
 msgid "Yours"
 msgstr "Tuo"

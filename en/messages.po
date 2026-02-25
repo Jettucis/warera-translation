@@ -3780,7 +3780,7 @@ msgstr "Never stop gambling"
 
 #: src/components/_other/shop/SkinItem.tsx:119
 #: src/components/_other/shop/SkinPackItem.tsx:83
-#: src/components/_social/ArticleList.tsx:157
+#: src/components/_social/ArticleList.tsx:161
 msgid "New"
 msgstr "New"
 
@@ -5274,9 +5274,9 @@ msgstr "Show Inventory"
 msgid "Show more"
 msgstr "Show more"
 
-#: src/components/_social/ArticleList.tsx:140
-msgid "Show only articles with positive score"
-msgstr "Show only articles with positive score"
+#: src/components/_social/ArticleList.tsx:141
+msgid "Show only articles with positive score (score >= -5)"
+msgstr "Show only articles with positive score (score >= -5)"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:19
 msgid "Skill issue?"
@@ -5470,7 +5470,7 @@ msgstr "Strategic resource"
 msgid "Strategic resources"
 msgstr "Strategic resources"
 
-#: src/components/_social/ArticleList.tsx:185
+#: src/components/_social/ArticleList.tsx:189
 msgid "Subscribed"
 msgstr "Subscribed"
 
@@ -5694,15 +5694,15 @@ msgstr "Tip Article"
 msgid "Token Name"
 msgstr "Token Name"
 
-#: src/components/_social/ArticleList.tsx:177
+#: src/components/_social/ArticleList.tsx:181
 msgid "Top"
 msgstr "Top"
 
-#: src/components/_social/ArticleList.tsx:164
+#: src/components/_social/ArticleList.tsx:168
 msgid "Top (1d)"
 msgstr "Top (1d)"
 
-#: src/components/_social/ArticleList.tsx:171
+#: src/components/_social/ArticleList.tsx:175
 msgid "Top (1w)"
 msgstr "Top (1w)"
 
@@ -6784,6 +6784,6 @@ msgstr "Your weekly missions have been reset! Complete them to earn rewards."
 msgid "your@email.com"
 msgstr "your@email.com"
 
-#: src/components/_social/ArticleList.tsx:191
+#: src/components/_social/ArticleList.tsx:195
 msgid "Yours"
 msgstr "Yours"
