@@ -1007,7 +1007,7 @@ msgstr "Додаткова вартість"
 msgid "Admin"
 msgstr "Адмін"
 
-#: src/pages/user/[userId]/bans.tsx:135
+#: src/pages/user/[userId]/bans.tsx:261
 msgid "Admin Actions"
 msgstr "Дії адміна"
 
@@ -1049,7 +1049,7 @@ msgstr "Аграризм"
 msgid "All"
 msgstr "Усі"
 
-#: src/components/_social/ArticleList.tsx:119
+#: src/components/_social/ArticleList.tsx:130
 msgid "All categories"
 msgstr "Усі категорії"
 
@@ -1075,7 +1075,7 @@ msgstr "Усі компанії в межах вашої держави отри
 msgid "All event types"
 msgstr "Усі типи подій"
 
-#: src/components/_social/ArticleList.tsx:109
+#: src/components/_social/ArticleList.tsx:120
 msgid "All languages"
 msgstr "Усі мови"
 
@@ -1494,6 +1494,10 @@ msgstr "Побудувати підрозділ"
 #: src/components/_military/mu/MuFormModal.tsx:139
 msgid "Build the military unit"
 msgstr "Побудувати підрозділ"
+
+#: src/pages/user/[userId]/bans.tsx:180
+msgid "Buy"
+msgstr ""
 
 #: src/components/_user/mission/mission.frontConfig.tsx:166
 msgid "Buy for <0>{count}</0> money on market"
@@ -1921,7 +1925,7 @@ msgstr "Увійти через Діскорд"
 msgid "Connect with email"
 msgstr "Увійти через електронну пошту"
 
-#: src/pages/user/[userId]/bans.tsx:127
+#: src/pages/user/[userId]/bans.tsx:253
 msgid "Connection"
 msgstr "Підключення"
 
@@ -2483,7 +2487,7 @@ msgstr "Елітний шолом"
 msgid "Elite Pants"
 msgstr "Елітні штани"
 
-#: src/pages/user/[userId]/bans.tsx:60
+#: src/pages/user/[userId]/bans.tsx:73
 msgid "Email"
 msgstr "Електронна пошта"
 
@@ -2757,7 +2761,7 @@ msgid "Fish"
 msgstr "Риба"
 
 #: src/components/_layout/LayoutMapOptions.tsx:276
-#: src/pages/user/[userId]/bans.tsx:90
+#: src/pages/user/[userId]/bans.tsx:103
 msgid "Flags"
 msgstr "Прапори"
 
@@ -3102,7 +3106,6 @@ msgstr "Новобранець"
 #: src/pages/country/[countryId]/account.tsx:24
 #: src/pages/market/index.tsx:49
 #: src/pages/user/[userId]/account.tsx:19
-#: src/pages/user/[userId]/bans.tsx:100
 #: src/pages/user/[userId]/companies.tsx:46
 #: src/pages/user/[userId]/index.tsx:192
 #: src/pages/user/[userId]/inventory.tsx:30
@@ -3777,7 +3780,7 @@ msgstr "Ніколи не переставай лудоманити"
 
 #: src/components/_other/shop/SkinItem.tsx:119
 #: src/components/_other/shop/SkinPackItem.tsx:83
-#: src/components/_social/ArticleList.tsx:133
+#: src/components/_social/ArticleList.tsx:157
 msgid "New"
 msgstr "Нове"
 
@@ -3945,7 +3948,7 @@ msgstr "Рейтингу за шкодою ще немає."
 msgid "No donations yet"
 msgstr "Пожертв ще немає"
 
-#: src/pages/user/[userId]/bans.tsx:68
+#: src/pages/user/[userId]/bans.tsx:81
 msgid "No email found"
 msgstr "Електронну пошту не знайдено"
 
@@ -5017,7 +5020,7 @@ msgstr "Правляча партія"
 msgid "Running low on health?"
 msgstr "Мало здоров'я?"
 
-#: src/pages/user/[userId]/bans.tsx:153
+#: src/pages/user/[userId]/bans.tsx:279
 msgid "Sanction History"
 msgstr "Історія покарань"
 
@@ -5115,6 +5118,10 @@ msgstr "Самостійна робота"
 #: src/components/_user/mission/mission.frontConfig.tsx:62
 msgid "Self work <0>{count}</0> times in your companies"
 msgstr "Попрацюйте <0>{count}</0> разів у своїй фабриці"
+
+#: src/pages/user/[userId]/bans.tsx:205
+msgid "Sell"
+msgstr ""
 
 #: src/components/_economy/company/CompanyDropdown.tsx:253
 msgid "Sell company?"
@@ -5257,7 +5264,7 @@ msgstr "Налаштування"
 msgid "Shop"
 msgstr "Магазин"
 
-#: src/pages/user/[userId]/bans.tsx:119
+#: src/pages/user/[userId]/bans.tsx:245
 msgid "Show Inventory"
 msgstr "Показати інвентар"
 
@@ -5266,6 +5273,10 @@ msgstr "Показати інвентар"
 #: src/components/_social/ArticleTags.tsx:343
 msgid "Show more"
 msgstr "Більше"
+
+#: src/components/_social/ArticleList.tsx:140
+msgid "Show only articles with positive score"
+msgstr ""
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:19
 msgid "Skill issue?"
@@ -5459,7 +5470,7 @@ msgstr "Стратегічний ресурс"
 msgid "Strategic resources"
 msgstr "Стратегічні ресурси"
 
-#: src/components/_social/ArticleList.tsx:161
+#: src/components/_social/ArticleList.tsx:185
 msgid "Subscribed"
 msgstr "Підписки"
 
@@ -5683,15 +5694,15 @@ msgstr "Залишити чайові"
 msgid "Token Name"
 msgstr "Назва токену"
 
-#: src/components/_social/ArticleList.tsx:153
+#: src/components/_social/ArticleList.tsx:177
 msgid "Top"
 msgstr "Найкращі"
 
-#: src/components/_social/ArticleList.tsx:140
+#: src/components/_social/ArticleList.tsx:164
 msgid "Top (1d)"
 msgstr "Найкращі (1д)"
 
-#: src/components/_social/ArticleList.tsx:147
+#: src/components/_social/ArticleList.tsx:171
 msgid "Top (1w)"
 msgstr "Найкращі (7д)"
 
@@ -6012,7 +6023,7 @@ msgstr "Використовується для покращення фабри�
 msgid "user"
 msgstr "користувачів"
 
-#: src/pages/user/[userId]/bans.tsx:144
+#: src/pages/user/[userId]/bans.tsx:270
 msgid "User Actions"
 msgstr "Дії користувача"
 
@@ -6773,6 +6784,6 @@ msgstr "Ваші щотижневі місії було скинуто! Заве
 msgid "your@email.com"
 msgstr "ваш@email.com"
 
-#: src/components/_social/ArticleList.tsx:167
+#: src/components/_social/ArticleList.tsx:191
 msgid "Yours"
 msgstr "Ваші"

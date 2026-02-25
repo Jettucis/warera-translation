@@ -1007,7 +1007,7 @@ msgstr "Ek maliyet"
 msgid "Admin"
 msgstr "Admin"
 
-#: src/pages/user/[userId]/bans.tsx:135
+#: src/pages/user/[userId]/bans.tsx:261
 msgid "Admin Actions"
 msgstr "Admin Eylemleri"
 
@@ -1049,7 +1049,7 @@ msgstr "Tarımcılık"
 msgid "All"
 msgstr "Tümü"
 
-#: src/components/_social/ArticleList.tsx:119
+#: src/components/_social/ArticleList.tsx:130
 msgid "All categories"
 msgstr "Tüm kategoriler"
 
@@ -1075,7 +1075,7 @@ msgstr "Sınırlarınız içindeki tüm şirketler, mühimmat veya inşaat uzman
 msgid "All event types"
 msgstr "Tüm olay türleri"
 
-#: src/components/_social/ArticleList.tsx:109
+#: src/components/_social/ArticleList.tsx:120
 msgid "All languages"
 msgstr "Tüm diller"
 
@@ -1494,6 +1494,10 @@ msgstr "Askeri birlik kur"
 #: src/components/_military/mu/MuFormModal.tsx:139
 msgid "Build the military unit"
 msgstr "Askeri birliği kur"
+
+#: src/pages/user/[userId]/bans.tsx:180
+msgid "Buy"
+msgstr ""
 
 #: src/components/_user/mission/mission.frontConfig.tsx:166
 msgid "Buy for <0>{count}</0> money on market"
@@ -1921,7 +1925,7 @@ msgstr "Discord ile bağlan"
 msgid "Connect with email"
 msgstr "E-posta ile bağlan"
 
-#: src/pages/user/[userId]/bans.tsx:127
+#: src/pages/user/[userId]/bans.tsx:253
 msgid "Connection"
 msgstr "Bağlantı"
 
@@ -2483,7 +2487,7 @@ msgstr "Elit Miğfer"
 msgid "Elite Pants"
 msgstr "Elit Pantolon"
 
-#: src/pages/user/[userId]/bans.tsx:60
+#: src/pages/user/[userId]/bans.tsx:73
 msgid "Email"
 msgstr "E-posta"
 
@@ -2757,7 +2761,7 @@ msgid "Fish"
 msgstr "Balık"
 
 #: src/components/_layout/LayoutMapOptions.tsx:276
-#: src/pages/user/[userId]/bans.tsx:90
+#: src/pages/user/[userId]/bans.tsx:103
 msgid "Flags"
 msgstr "Bayraklar"
 
@@ -3102,7 +3106,6 @@ msgstr "Acemi"
 #: src/pages/country/[countryId]/account.tsx:24
 #: src/pages/market/index.tsx:49
 #: src/pages/user/[userId]/account.tsx:19
-#: src/pages/user/[userId]/bans.tsx:100
 #: src/pages/user/[userId]/companies.tsx:46
 #: src/pages/user/[userId]/index.tsx:192
 #: src/pages/user/[userId]/inventory.tsx:30
@@ -3777,7 +3780,7 @@ msgstr "Kumar oynamayı bırakma"
 
 #: src/components/_other/shop/SkinItem.tsx:119
 #: src/components/_other/shop/SkinPackItem.tsx:83
-#: src/components/_social/ArticleList.tsx:133
+#: src/components/_social/ArticleList.tsx:157
 msgid "New"
 msgstr "Yeni"
 
@@ -3945,7 +3948,7 @@ msgstr "Henüz hasar sıralaması yok."
 msgid "No donations yet"
 msgstr "Henüz bağış yok"
 
-#: src/pages/user/[userId]/bans.tsx:68
+#: src/pages/user/[userId]/bans.tsx:81
 msgid "No email found"
 msgstr "E-posta bulunamadı"
 
@@ -5017,7 +5020,7 @@ msgstr "İktidar Partisi"
 msgid "Running low on health?"
 msgstr "Sağlık mı azalıyor?"
 
-#: src/pages/user/[userId]/bans.tsx:153
+#: src/pages/user/[userId]/bans.tsx:279
 msgid "Sanction History"
 msgstr "Yaptırım Geçmişi"
 
@@ -5115,6 +5118,10 @@ msgstr "Kendi İşin"
 #: src/components/_user/mission/mission.frontConfig.tsx:62
 msgid "Self work <0>{count}</0> times in your companies"
 msgstr "Şirketlerinde <0>{count}</0> kez kendi işini yap"
+
+#: src/pages/user/[userId]/bans.tsx:205
+msgid "Sell"
+msgstr ""
 
 #: src/components/_economy/company/CompanyDropdown.tsx:253
 msgid "Sell company?"
@@ -5257,7 +5264,7 @@ msgstr "Ayarlar"
 msgid "Shop"
 msgstr "Mağaza"
 
-#: src/pages/user/[userId]/bans.tsx:119
+#: src/pages/user/[userId]/bans.tsx:245
 msgid "Show Inventory"
 msgstr "Envanteri Göster"
 
@@ -5266,6 +5273,10 @@ msgstr "Envanteri Göster"
 #: src/components/_social/ArticleTags.tsx:343
 msgid "Show more"
 msgstr "Daha fazla göster"
+
+#: src/components/_social/ArticleList.tsx:140
+msgid "Show only articles with positive score"
+msgstr ""
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:19
 msgid "Skill issue?"
@@ -5459,7 +5470,7 @@ msgstr "Stratejik kaynak"
 msgid "Strategic resources"
 msgstr "Stratejik kaynaklar"
 
-#: src/components/_social/ArticleList.tsx:161
+#: src/components/_social/ArticleList.tsx:185
 msgid "Subscribed"
 msgstr "Abone Olundu"
 
@@ -5683,15 +5694,15 @@ msgstr "Makaleye Bahşiş Ver"
 msgid "Token Name"
 msgstr "Token Adı"
 
-#: src/components/_social/ArticleList.tsx:153
+#: src/components/_social/ArticleList.tsx:177
 msgid "Top"
 msgstr "En İyi"
 
-#: src/components/_social/ArticleList.tsx:140
+#: src/components/_social/ArticleList.tsx:164
 msgid "Top (1d)"
 msgstr "En İyi (1g)"
 
-#: src/components/_social/ArticleList.tsx:147
+#: src/components/_social/ArticleList.tsx:171
 msgid "Top (1w)"
 msgstr "En İyi (1h)"
 
@@ -6012,7 +6023,7 @@ msgstr "Şirketleri, AB'leri ve tahkimatları yükseltmek için kullanılır"
 msgid "user"
 msgstr "kullanıcı"
 
-#: src/pages/user/[userId]/bans.tsx:144
+#: src/pages/user/[userId]/bans.tsx:270
 msgid "User Actions"
 msgstr "Kullanıcı Eylemleri"
 
@@ -6773,6 +6784,6 @@ msgstr "Haftalık görevleriniz sıfırlandı! Ödüller almak için onları tam
 msgid "your@email.com"
 msgstr "senin@email.com"
 
-#: src/components/_social/ArticleList.tsx:167
+#: src/components/_social/ArticleList.tsx:191
 msgid "Yours"
 msgstr "Seninkiler"

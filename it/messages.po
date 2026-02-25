@@ -1007,7 +1007,7 @@ msgstr "Costo aggiuntivo"
 msgid "Admin"
 msgstr "Admin"
 
-#: src/pages/user/[userId]/bans.tsx:135
+#: src/pages/user/[userId]/bans.tsx:261
 msgid "Admin Actions"
 msgstr "Azioni admin"
 
@@ -1049,7 +1049,7 @@ msgstr "Agrario"
 msgid "All"
 msgstr "Tutto"
 
-#: src/components/_social/ArticleList.tsx:119
+#: src/components/_social/ArticleList.tsx:130
 msgid "All categories"
 msgstr "Tutte le categorie"
 
@@ -1075,7 +1075,7 @@ msgstr "Tutte le aziende nei tuoi confini ottengono un bonus di <0>+{0}</0> per 
 msgid "All event types"
 msgstr "Tutti i tipi di evento"
 
-#: src/components/_social/ArticleList.tsx:109
+#: src/components/_social/ArticleList.tsx:120
 msgid "All languages"
 msgstr "Tutte le lingue"
 
@@ -1494,6 +1494,10 @@ msgstr "Crea un'unità militare"
 #: src/components/_military/mu/MuFormModal.tsx:139
 msgid "Build the military unit"
 msgstr "Crea l'unità militare"
+
+#: src/pages/user/[userId]/bans.tsx:180
+msgid "Buy"
+msgstr ""
 
 #: src/components/_user/mission/mission.frontConfig.tsx:166
 msgid "Buy for <0>{count}</0> money on market"
@@ -1921,7 +1925,7 @@ msgstr "Connetti con Discord"
 msgid "Connect with email"
 msgstr "Connetti con email"
 
-#: src/pages/user/[userId]/bans.tsx:127
+#: src/pages/user/[userId]/bans.tsx:253
 msgid "Connection"
 msgstr "Connessione"
 
@@ -2483,7 +2487,7 @@ msgstr "Elmo élite"
 msgid "Elite Pants"
 msgstr "Pantaloni élite"
 
-#: src/pages/user/[userId]/bans.tsx:60
+#: src/pages/user/[userId]/bans.tsx:73
 msgid "Email"
 msgstr "Email"
 
@@ -2757,7 +2761,7 @@ msgid "Fish"
 msgstr "Pesce"
 
 #: src/components/_layout/LayoutMapOptions.tsx:276
-#: src/pages/user/[userId]/bans.tsx:90
+#: src/pages/user/[userId]/bans.tsx:103
 msgid "Flags"
 msgstr "Bandiere"
 
@@ -3102,7 +3106,6 @@ msgstr "Iniziato"
 #: src/pages/country/[countryId]/account.tsx:24
 #: src/pages/market/index.tsx:49
 #: src/pages/user/[userId]/account.tsx:19
-#: src/pages/user/[userId]/bans.tsx:100
 #: src/pages/user/[userId]/companies.tsx:46
 #: src/pages/user/[userId]/index.tsx:192
 #: src/pages/user/[userId]/inventory.tsx:30
@@ -3777,7 +3780,7 @@ msgstr "Non smettere mai di giocare d'azzardo"
 
 #: src/components/_other/shop/SkinItem.tsx:119
 #: src/components/_other/shop/SkinPackItem.tsx:83
-#: src/components/_social/ArticleList.tsx:133
+#: src/components/_social/ArticleList.tsx:157
 msgid "New"
 msgstr "Nuovo"
 
@@ -3945,7 +3948,7 @@ msgstr "Nessuna classifica danni ancora."
 msgid "No donations yet"
 msgstr "Nessuna donazione ancora"
 
-#: src/pages/user/[userId]/bans.tsx:68
+#: src/pages/user/[userId]/bans.tsx:81
 msgid "No email found"
 msgstr "Nessuna email trovata"
 
@@ -5017,7 +5020,7 @@ msgstr "Partito al governo"
 msgid "Running low on health?"
 msgstr "Salute quasi finita?"
 
-#: src/pages/user/[userId]/bans.tsx:153
+#: src/pages/user/[userId]/bans.tsx:279
 msgid "Sanction History"
 msgstr "Cronologia sanzioni"
 
@@ -5115,6 +5118,10 @@ msgstr "Lavora in proprio"
 #: src/components/_user/mission/mission.frontConfig.tsx:62
 msgid "Self work <0>{count}</0> times in your companies"
 msgstr "Lavora in proprio <0>{count}</0> volte nelle tue aziende"
+
+#: src/pages/user/[userId]/bans.tsx:205
+msgid "Sell"
+msgstr ""
 
 #: src/components/_economy/company/CompanyDropdown.tsx:253
 msgid "Sell company?"
@@ -5257,7 +5264,7 @@ msgstr "Impostazioni"
 msgid "Shop"
 msgstr "Negozio"
 
-#: src/pages/user/[userId]/bans.tsx:119
+#: src/pages/user/[userId]/bans.tsx:245
 msgid "Show Inventory"
 msgstr "Mostra inventario"
 
@@ -5266,6 +5273,10 @@ msgstr "Mostra inventario"
 #: src/components/_social/ArticleTags.tsx:343
 msgid "Show more"
 msgstr "Mostra altro"
+
+#: src/components/_social/ArticleList.tsx:140
+msgid "Show only articles with positive score"
+msgstr ""
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:19
 msgid "Skill issue?"
@@ -5459,7 +5470,7 @@ msgstr "Risorsa strategica"
 msgid "Strategic resources"
 msgstr "Risorse strategiche"
 
-#: src/components/_social/ArticleList.tsx:161
+#: src/components/_social/ArticleList.tsx:185
 msgid "Subscribed"
 msgstr "Iscritto"
 
@@ -5683,15 +5694,15 @@ msgstr "Lascia mancia all'articolo"
 msgid "Token Name"
 msgstr "Nome token"
 
-#: src/components/_social/ArticleList.tsx:153
+#: src/components/_social/ArticleList.tsx:177
 msgid "Top"
 msgstr "Top"
 
-#: src/components/_social/ArticleList.tsx:140
+#: src/components/_social/ArticleList.tsx:164
 msgid "Top (1d)"
 msgstr "Top (1g)"
 
-#: src/components/_social/ArticleList.tsx:147
+#: src/components/_social/ArticleList.tsx:171
 msgid "Top (1w)"
 msgstr "Top (1sett)"
 
@@ -6012,7 +6023,7 @@ msgstr "Usato per potenziare aziende, UM e fortificazioni"
 msgid "user"
 msgstr "utente"
 
-#: src/pages/user/[userId]/bans.tsx:144
+#: src/pages/user/[userId]/bans.tsx:270
 msgid "User Actions"
 msgstr "Azioni utente"
 
@@ -6773,6 +6784,6 @@ msgstr "Le tue missioni settimanali sono state reimpostate! Completale per otten
 msgid "your@email.com"
 msgstr "your@email.com"
 
-#: src/components/_social/ArticleList.tsx:167
+#: src/components/_social/ArticleList.tsx:191
 msgid "Yours"
 msgstr "Tuo"

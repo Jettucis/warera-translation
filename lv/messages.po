@@ -1007,7 +1007,7 @@ msgstr "Papildu maksa"
 msgid "Admin"
 msgstr "Administrators"
 
-#: src/pages/user/[userId]/bans.tsx:135
+#: src/pages/user/[userId]/bans.tsx:261
 msgid "Admin Actions"
 msgstr "Administratora Darbības"
 
@@ -1049,7 +1049,7 @@ msgstr "Agrārisms"
 msgid "All"
 msgstr "Viss"
 
-#: src/components/_social/ArticleList.tsx:119
+#: src/components/_social/ArticleList.tsx:130
 msgid "All categories"
 msgstr "Visas kategorijas"
 
@@ -1075,7 +1075,7 @@ msgstr "Visi uzņēmumi jūsu valstī saņem <0>+{0}</0> bonusu munīcijas vai c
 msgid "All event types"
 msgstr "Visi notikumi"
 
-#: src/components/_social/ArticleList.tsx:109
+#: src/components/_social/ArticleList.tsx:120
 msgid "All languages"
 msgstr "Visas valodas"
 
@@ -1494,6 +1494,10 @@ msgstr "Izveidot militāro vienību"
 #: src/components/_military/mu/MuFormModal.tsx:139
 msgid "Build the military unit"
 msgstr "Izveidot militāro vienību"
+
+#: src/pages/user/[userId]/bans.tsx:180
+msgid "Buy"
+msgstr ""
 
 #: src/components/_user/mission/mission.frontConfig.tsx:166
 msgid "Buy for <0>{count}</0> money on market"
@@ -1921,7 +1925,7 @@ msgstr "Pieslēgties ar Discord"
 msgid "Connect with email"
 msgstr "Pieslēgties ar e-pastu"
 
-#: src/pages/user/[userId]/bans.tsx:127
+#: src/pages/user/[userId]/bans.tsx:253
 msgid "Connection"
 msgstr "Savienojums"
 
@@ -2483,7 +2487,7 @@ msgstr "Violetā Ķivere"
 msgid "Elite Pants"
 msgstr "Violetās Bikses"
 
-#: src/pages/user/[userId]/bans.tsx:60
+#: src/pages/user/[userId]/bans.tsx:73
 msgid "Email"
 msgstr "E-pasts"
 
@@ -2757,7 +2761,7 @@ msgid "Fish"
 msgstr "Zivs"
 
 #: src/components/_layout/LayoutMapOptions.tsx:276
-#: src/pages/user/[userId]/bans.tsx:90
+#: src/pages/user/[userId]/bans.tsx:103
 msgid "Flags"
 msgstr "Karogi"
 
@@ -3102,7 +3106,6 @@ msgstr "Iesauktais"
 #: src/pages/country/[countryId]/account.tsx:24
 #: src/pages/market/index.tsx:49
 #: src/pages/user/[userId]/account.tsx:19
-#: src/pages/user/[userId]/bans.tsx:100
 #: src/pages/user/[userId]/companies.tsx:46
 #: src/pages/user/[userId]/index.tsx:192
 #: src/pages/user/[userId]/inventory.tsx:30
@@ -3777,7 +3780,7 @@ msgstr "Nekad neatmet spēlēt azartspēles"
 
 #: src/components/_other/shop/SkinItem.tsx:119
 #: src/components/_other/shop/SkinPackItem.tsx:83
-#: src/components/_social/ArticleList.tsx:133
+#: src/components/_social/ArticleList.tsx:157
 msgid "New"
 msgstr "Jaunākie"
 
@@ -3945,7 +3948,7 @@ msgstr "Nav bojājumu kopvērtējumā."
 msgid "No donations yet"
 msgstr "Vēl nav ziedojumu"
 
-#: src/pages/user/[userId]/bans.tsx:68
+#: src/pages/user/[userId]/bans.tsx:81
 msgid "No email found"
 msgstr "E-pasta adrese nav atrasta"
 
@@ -5017,7 +5020,7 @@ msgstr "Vadošā Partija"
 msgid "Running low on health?"
 msgstr "Maz dzīvību?"
 
-#: src/pages/user/[userId]/bans.tsx:153
+#: src/pages/user/[userId]/bans.tsx:279
 msgid "Sanction History"
 msgstr "Sankciju Vēsture"
 
@@ -5115,6 +5118,10 @@ msgstr "Pašdarbs"
 #: src/components/_user/mission/mission.frontConfig.tsx:62
 msgid "Self work <0>{count}</0> times in your companies"
 msgstr "Nostrādā savos uzņēmumos <0>{count}</0> reizes"
+
+#: src/pages/user/[userId]/bans.tsx:205
+msgid "Sell"
+msgstr ""
 
 #: src/components/_economy/company/CompanyDropdown.tsx:253
 msgid "Sell company?"
@@ -5257,7 +5264,7 @@ msgstr "Iestatījumi"
 msgid "Shop"
 msgstr "Veikals"
 
-#: src/pages/user/[userId]/bans.tsx:119
+#: src/pages/user/[userId]/bans.tsx:245
 msgid "Show Inventory"
 msgstr "Rādīt Inventāru"
 
@@ -5266,6 +5273,10 @@ msgstr "Rādīt Inventāru"
 #: src/components/_social/ArticleTags.tsx:343
 msgid "Show more"
 msgstr "Rādīt vairāk"
+
+#: src/components/_social/ArticleList.tsx:140
+msgid "Show only articles with positive score"
+msgstr ""
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:19
 msgid "Skill issue?"
@@ -5459,7 +5470,7 @@ msgstr "Stratēģiskais resurss"
 msgid "Strategic resources"
 msgstr "Stratēģiskie resursi"
 
-#: src/components/_social/ArticleList.tsx:161
+#: src/components/_social/ArticleList.tsx:185
 msgid "Subscribed"
 msgstr "Abonētie"
 
@@ -5683,15 +5694,15 @@ msgstr "Atstāt dzeramnaudu"
 msgid "Token Name"
 msgstr "Žetona nosaukums"
 
-#: src/components/_social/ArticleList.tsx:153
+#: src/components/_social/ArticleList.tsx:177
 msgid "Top"
 msgstr "Labākie"
 
-#: src/components/_social/ArticleList.tsx:140
+#: src/components/_social/ArticleList.tsx:164
 msgid "Top (1d)"
 msgstr "Labākie (dienas)"
 
-#: src/components/_social/ArticleList.tsx:147
+#: src/components/_social/ArticleList.tsx:171
 msgid "Top (1w)"
 msgstr "Labākie (nedēļas)"
 
@@ -6012,7 +6023,7 @@ msgstr "Uzņēmumu, MV un celtņu uzlabošanai"
 msgid "user"
 msgstr "lietotāju"
 
-#: src/pages/user/[userId]/bans.tsx:144
+#: src/pages/user/[userId]/bans.tsx:270
 msgid "User Actions"
 msgstr "Lietotāja Darbības"
 
@@ -6773,6 +6784,6 @@ msgstr "Tev ir jauni nedēļas uzdevumi! Izpildi tos, lai saņemtu atlīdzību."
 msgid "your@email.com"
 msgstr "tavs@e-pasts.lv"
 
-#: src/components/_social/ArticleList.tsx:167
+#: src/components/_social/ArticleList.tsx:191
 msgid "Yours"
 msgstr "Tavi"

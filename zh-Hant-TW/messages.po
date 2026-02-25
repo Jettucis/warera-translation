@@ -1007,7 +1007,7 @@ msgstr "額外花費"
 msgid "Admin"
 msgstr "管理員"
 
-#: src/pages/user/[userId]/bans.tsx:135
+#: src/pages/user/[userId]/bans.tsx:261
 msgid "Admin Actions"
 msgstr "管理員行為"
 
@@ -1049,7 +1049,7 @@ msgstr "農業主義"
 msgid "All"
 msgstr "全部"
 
-#: src/components/_social/ArticleList.tsx:119
+#: src/components/_social/ArticleList.tsx:130
 msgid "All categories"
 msgstr "全部分類"
 
@@ -1075,7 +1075,7 @@ msgstr "所有在你國境內生產子彈或建築用特產的公司皆會獲得
 msgid "All event types"
 msgstr "全部活動類型"
 
-#: src/components/_social/ArticleList.tsx:109
+#: src/components/_social/ArticleList.tsx:120
 msgid "All languages"
 msgstr "全部語言"
 
@@ -1494,6 +1494,10 @@ msgstr "建造一個軍團"
 #: src/components/_military/mu/MuFormModal.tsx:139
 msgid "Build the military unit"
 msgstr "建造一個軍團"
+
+#: src/pages/user/[userId]/bans.tsx:180
+msgid "Buy"
+msgstr ""
 
 #: src/components/_user/mission/mission.frontConfig.tsx:166
 msgid "Buy for <0>{count}</0> money on market"
@@ -1921,7 +1925,7 @@ msgstr "與 Discord 連結"
 msgid "Connect with email"
 msgstr "與電子郵件連結"
 
-#: src/pages/user/[userId]/bans.tsx:127
+#: src/pages/user/[userId]/bans.tsx:253
 msgid "Connection"
 msgstr "連線"
 
@@ -2483,7 +2487,7 @@ msgstr "精英頭盔"
 msgid "Elite Pants"
 msgstr "精英褲子"
 
-#: src/pages/user/[userId]/bans.tsx:60
+#: src/pages/user/[userId]/bans.tsx:73
 msgid "Email"
 msgstr "電子郵件"
 
@@ -2757,7 +2761,7 @@ msgid "Fish"
 msgstr "魚"
 
 #: src/components/_layout/LayoutMapOptions.tsx:276
-#: src/pages/user/[userId]/bans.tsx:90
+#: src/pages/user/[userId]/bans.tsx:103
 msgid "Flags"
 msgstr "旗幟"
 
@@ -3102,7 +3106,6 @@ msgstr "新兵"
 #: src/pages/country/[countryId]/account.tsx:24
 #: src/pages/market/index.tsx:49
 #: src/pages/user/[userId]/account.tsx:19
-#: src/pages/user/[userId]/bans.tsx:100
 #: src/pages/user/[userId]/companies.tsx:46
 #: src/pages/user/[userId]/index.tsx:192
 #: src/pages/user/[userId]/inventory.tsx:30
@@ -3777,7 +3780,7 @@ msgstr "不要停止賭博"
 
 #: src/components/_other/shop/SkinItem.tsx:119
 #: src/components/_other/shop/SkinPackItem.tsx:83
-#: src/components/_social/ArticleList.tsx:133
+#: src/components/_social/ArticleList.tsx:157
 msgid "New"
 msgstr "最新"
 
@@ -3945,7 +3948,7 @@ msgstr "還沒有傷害排名"
 msgid "No donations yet"
 msgstr "尚無捐款"
 
-#: src/pages/user/[userId]/bans.tsx:68
+#: src/pages/user/[userId]/bans.tsx:81
 msgid "No email found"
 msgstr "找不到電子郵件"
 
@@ -5017,7 +5020,7 @@ msgstr "執政黨"
 msgid "Running low on health?"
 msgstr "生命值要用完了嗎？"
 
-#: src/pages/user/[userId]/bans.tsx:153
+#: src/pages/user/[userId]/bans.tsx:279
 msgid "Sanction History"
 msgstr "懲罰歷史"
 
@@ -5115,6 +5118,10 @@ msgstr "在自己公司工作"
 #: src/components/_user/mission/mission.frontConfig.tsx:62
 msgid "Self work <0>{count}</0> times in your companies"
 msgstr "在自己公司工作 <0>{count}</0> 次"
+
+#: src/pages/user/[userId]/bans.tsx:205
+msgid "Sell"
+msgstr ""
 
 #: src/components/_economy/company/CompanyDropdown.tsx:253
 msgid "Sell company?"
@@ -5257,7 +5264,7 @@ msgstr "設定"
 msgid "Shop"
 msgstr "商店"
 
-#: src/pages/user/[userId]/bans.tsx:119
+#: src/pages/user/[userId]/bans.tsx:245
 msgid "Show Inventory"
 msgstr "顯示倉庫"
 
@@ -5266,6 +5273,10 @@ msgstr "顯示倉庫"
 #: src/components/_social/ArticleTags.tsx:343
 msgid "Show more"
 msgstr "顯示更多"
+
+#: src/components/_social/ArticleList.tsx:140
+msgid "Show only articles with positive score"
+msgstr ""
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:19
 msgid "Skill issue?"
@@ -5459,7 +5470,7 @@ msgstr "戰略資源"
 msgid "Strategic resources"
 msgstr "戰略資源"
 
-#: src/components/_social/ArticleList.tsx:161
+#: src/components/_social/ArticleList.tsx:185
 msgid "Subscribed"
 msgstr "已訂閱"
 
@@ -5683,15 +5694,15 @@ msgstr "給文章小費"
 msgid "Token Name"
 msgstr "Token 名稱"
 
-#: src/components/_social/ArticleList.tsx:153
+#: src/components/_social/ArticleList.tsx:177
 msgid "Top"
 msgstr "熱門"
 
-#: src/components/_social/ArticleList.tsx:140
+#: src/components/_social/ArticleList.tsx:164
 msgid "Top (1d)"
 msgstr "熱門 (1天)"
 
-#: src/components/_social/ArticleList.tsx:147
+#: src/components/_social/ArticleList.tsx:171
 msgid "Top (1w)"
 msgstr "熱門 (1周)"
 
@@ -6012,7 +6023,7 @@ msgstr "用於升級公司、軍團和防禦工事"
 msgid "user"
 msgstr "用戶"
 
-#: src/pages/user/[userId]/bans.tsx:144
+#: src/pages/user/[userId]/bans.tsx:270
 msgid "User Actions"
 msgstr "用戶行為"
 
@@ -6773,6 +6784,6 @@ msgstr "你的每週任務已重置，完成它們以賺取獎勵！"
 msgid "your@email.com"
 msgstr "your@email.com"
 
-#: src/components/_social/ArticleList.tsx:167
+#: src/components/_social/ArticleList.tsx:191
 msgid "Yours"
 msgstr "你的"
