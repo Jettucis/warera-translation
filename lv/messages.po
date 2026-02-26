@@ -1489,7 +1489,7 @@ msgstr "Izveidot militāro vienību"
 
 #: src/pages/user/[userId]/bans.tsx:180
 msgid "Buy"
-msgstr ""
+msgstr "Pirkt"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:166
 msgid "Buy for <0>{count}</0> money on market"
@@ -2848,7 +2848,7 @@ msgstr "uzdāvināja"
 
 #: src/components/_user/user/UserDropdown.tsx:333
 msgid "Give badge"
-msgstr ""
+msgstr "Iedot medaļu"
 
 #: src/components/_user/user/UserDropdown.tsx:312
 msgid "Give money"
@@ -5109,7 +5109,7 @@ msgstr "Nostrādā savos uzņēmumos <0>{count}</0> reizes"
 
 #: src/pages/user/[userId]/bans.tsx:205
 msgid "Sell"
-msgstr ""
+msgstr "Pārdot"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:253
 msgid "Sell company?"
@@ -5264,7 +5264,7 @@ msgstr "Rādīt vairāk"
 
 #: src/components/_social/ArticleList.tsx:140
 msgid "Show only articles with positive score (score >= -5)"
-msgstr ""
+msgstr "Rādīt tikai rakstus ar pozitīvu vērtējumu (vismaz -5)"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:19
 msgid "Skill issue?"
