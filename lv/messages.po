@@ -1323,7 +1323,7 @@ msgstr "Centrisms - Nav modifikātoru"
 
 #: src/pages/user/[userId]/bans.tsx:288
 msgid "Ban History"
-msgstr ""
+msgstr "Banu Vēsture"
 
 #: src/components/_user/user/UserDropdown.tsx:264
 msgid "Ban user"
