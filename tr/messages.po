@@ -9,7 +9,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: papiryus\n"
+"Last-Translator: HESEKKA\n"
 "Language: tr\n"
 "Language-Team: \n"
 
