@@ -43,7 +43,7 @@ msgid "{0} active citizens required"
 msgstr "Se requieren al menos {0} ciudadanos activos"
 
 #. placeholder {0}: data.userId && ( <UserUsername userId={data.userId} withAvatar withFlag /> )
-#: src/components/_user/notification/notification.frontConfig.tsx:607
+#: src/components/_user/notification/notification.frontConfig.tsx:608
 msgid "{0} bought your item offer"
 msgstr "{0} compró tu oferta de objeto"
 
@@ -65,7 +65,7 @@ msgid "{0} hours"
 msgstr "{0} horas"
 
 #. placeholder {0}: data.userId && ( <UserUsername userId={data.userId} withAvatar withFlag /> )
-#: src/components/_user/notification/notification.frontConfig.tsx:630
+#: src/components/_user/notification/notification.frontConfig.tsx:631
 msgid "{0} proposed a law, check it out!"
 msgstr "¡{0} propuso una ley, échale un vistazo!"
 
@@ -141,8 +141,8 @@ msgstr "*Si el usuario ya posee algunas piezas del set, el precio se reducirá"
 msgid "*May burn"
 msgstr "*Puede arder"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:393
-#: src/components/_user/notification/notification.frontConfig.tsx:1224
+#: src/components/_user/notification/notification.frontConfig.tsx:394
+#: src/components/_user/notification/notification.frontConfig.tsx:1225
 msgid "<0/> applied to join <1/>"
 msgstr "<0/> solicitó unirse a <1/>"
 
@@ -157,11 +157,11 @@ msgstr "<0/> a <1>{0}</1> de salario.{1}"
 msgid "<0/> buys your region <1/> for <2>{0}</2>"
 msgstr "<0/> compra tu región <1/> por <2>{0}</2>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:917
+#: src/components/_user/notification/notification.frontConfig.tsx:918
 msgid "<0/> commented on your article <1/>"
 msgstr "<0/> comentó en tu artículo <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:823
+#: src/components/_user/notification/notification.frontConfig.tsx:824
 msgid "<0/> conquered the region in <1/>"
 msgstr "<0/> conquistó la región en <1/>"
 
@@ -169,18 +169,18 @@ msgstr "<0/> conquistó la región en <1/>"
 msgid "<0/> created the conversation"
 msgstr ""
 
-#: src/components/_user/notification/notification.frontConfig.tsx:818
+#: src/components/_user/notification/notification.frontConfig.tsx:819
 msgid "<0/> defended in <1/>"
 msgstr "<0/> defendió en <1/>"
 
 #. placeholder {0}: data.amount
-#: src/components/_user/notification/notification.frontConfig.tsx:407
-#: src/components/_user/notification/notification.frontConfig.tsx:1298
+#: src/components/_user/notification/notification.frontConfig.tsx:408
+#: src/components/_user/notification/notification.frontConfig.tsx:1299
 msgid "<0/> donated <1>{0}</1> to <2/>"
 msgstr "<0/> donó <1>{0}</1> a <2/>"
 
 #. placeholder {0}: data.wage
-#: src/components/_user/notification/notification.frontConfig.tsx:547
+#: src/components/_user/notification/notification.frontConfig.tsx:548
 msgid "<0/> fired you from your <1>{0}</1> wage job in <2/>"
 msgstr "<0/> te despidió de tu trabajo asalariado de <1>{0}</1> en <2/>"
 
@@ -188,49 +188,49 @@ msgstr "<0/> te despidió de tu trabajo asalariado de <1>{0}</1> en <2/>"
 msgid "<0/> gifted a sub to <1/>"
 msgstr ""
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1161
+#: src/components/_user/notification/notification.frontConfig.tsx:1162
 msgid "<0/> gifted you a premium subscription!"
 msgstr "¡<0/> te regaló una suscripción premium!"
 
 #. placeholder {0}: data.bannerTitle
-#: src/components/_user/notification/notification.frontConfig.tsx:1601
+#: src/components/_user/notification/notification.frontConfig.tsx:1602
 msgid "<0/> gifted you the banner \"{0}\"!"
 msgstr "¡<0/> te regaló el banner \"{0}\"!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1702
+#: src/components/_user/notification/notification.frontConfig.tsx:1719
 msgid "<0/> gifted you the skin \"{skinTitle}\"!"
 msgstr "¡<0/> te regaló la skin \"{skinTitle}\"!"
 
 #. placeholder {0}: data.skinPackTitle
-#: src/components/_user/notification/notification.frontConfig.tsx:1765
+#: src/components/_user/notification/notification.frontConfig.tsx:1782
 msgid "<0/> gifted you the skin pack \"{0}\"!"
 msgstr "¡<0/> te regaló el skin pack \"{0}\"!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1431
+#: src/components/_user/notification/notification.frontConfig.tsx:1432
 msgid "<0/> has been created, it gonna start soon!"
 msgstr "¡<0/> ha sido creado, comenzará pronto!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:226
+#: src/components/_user/notification/notification.frontConfig.tsx:227
 msgid "<0/> has been elected president of <1/>"
 msgstr "<0/> ha sido elegido/a presidente de <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1078
+#: src/components/_user/notification/notification.frontConfig.tsx:1079
 msgid "<0/> has started a revolution in <1/>"
 msgstr "<0/> ha iniciado una revuelta en <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1444
+#: src/components/_user/notification/notification.frontConfig.tsx:1445
 msgid "<0/> has started! Let the battles begin!"
 msgstr "¡<0/> ha comenzado! ¡Que comiencen las batallas!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1034
+#: src/components/_user/notification/notification.frontConfig.tsx:1035
 msgid "<0/> is attacking <1/> in <2/>"
 msgstr "<0/> está atacando a <1/> en <2/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1020
+#: src/components/_user/notification/notification.frontConfig.tsx:1021
 msgid "<0/> is attacking your country in <1/>"
 msgstr "<0/> está atacando tu país en <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1049
+#: src/components/_user/notification/notification.frontConfig.tsx:1050
 msgid "<0/> is revolting in <1/> against your country"
 msgstr "<0/> se está rebelando en <1/> contra tu país"
 
@@ -238,12 +238,12 @@ msgstr "<0/> se está rebelando en <1/> contra tu país"
 msgid "<0/> joined the conversation"
 msgstr ""
 
-#: src/components/_user/notification/notification.frontConfig.tsx:687
+#: src/components/_user/notification/notification.frontConfig.tsx:688
 msgid "<0/> joined the game with your referral link!"
 msgstr "¡<0/> se unió al juego con tu enlace de referido!"
 
 #. placeholder {0}: data.wage
-#: src/components/_user/notification/notification.frontConfig.tsx:516
+#: src/components/_user/notification/notification.frontConfig.tsx:517
 msgid "<0/> joined your company <1/> for <2>{0}</2> wage"
 msgstr "<0/> se unió a tu empresa <1/> por un salario de <2>{0}</2>"
 
@@ -252,7 +252,7 @@ msgid "<0/> kicked <1/> from the conversation"
 msgstr ""
 
 #. placeholder {0}: data.company && <CompanyNameById companyId={data.company} />
-#: src/components/_user/notification/notification.frontConfig.tsx:532
+#: src/components/_user/notification/notification.frontConfig.tsx:533
 msgid "<0/> left his job in your company {0}"
 msgstr "<0/> dejó su trabajo en tu empresa {0}"
 
@@ -260,15 +260,15 @@ msgstr "<0/> dejó su trabajo en tu empresa {0}"
 msgid "<0/> left the conversation"
 msgstr ""
 
-#: src/components/_user/notification/notification.frontConfig.tsx:902
+#: src/components/_user/notification/notification.frontConfig.tsx:903
 msgid "<0/> liked your article <1/>"
 msgstr "A <0/> le gustó tu artículo <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:965
+#: src/components/_user/notification/notification.frontConfig.tsx:966
 msgid "<0/> liked your message <1/>"
 msgstr "A <0/> le gustó tu mensaje <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1312
+#: src/components/_user/notification/notification.frontConfig.tsx:1313
 msgid "<0/> mentioned you in a message <1/>"
 msgstr "<0/> te mencionó en un mensaje <1/>"
 
@@ -276,24 +276,24 @@ msgstr "<0/> te mencionó en un mensaje <1/>"
 msgid "<0/> Priority ends in <1/>"
 msgstr "Prioridad de <0/> termina en <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:886
+#: src/components/_user/notification/notification.frontConfig.tsx:887
 msgid "<0/> published a new article"
 msgstr "<0/> publicó un nuevo artículo"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:698
+#: src/components/_user/notification/notification.frontConfig.tsx:699
 msgid "<0/> referred you to the game."
 msgstr "<0/> te invitó al juego."
 
 #. placeholder {0}: data.messageId && <MessageItemById messageId={data.messageId} />
-#: src/components/_user/notification/notification.frontConfig.tsx:992
+#: src/components/_user/notification/notification.frontConfig.tsx:993
 msgid "<0/> responded to your message {0}"
 msgstr "<0/> respondió a tu mensaje {0}"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:951
+#: src/components/_user/notification/notification.frontConfig.tsx:952
 msgid "<0/> subscribed to you on your article <1/>"
 msgstr "<0/> se suscribió a ti en tu artículo <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:932
+#: src/components/_user/notification/notification.frontConfig.tsx:933
 msgid "<0/> tipped your article <1/>"
 msgstr "<0/> dio propina a tu artículo <1/>"
 
@@ -306,7 +306,7 @@ msgid "<0/> wants to make peace with your country"
 msgstr "<0/> propone un tratado de paz con tu país"
 
 #. placeholder {0}: ts[data.governmentRole]
-#: src/components/_user/notification/notification.frontConfig.tsx:664
+#: src/components/_user/notification/notification.frontConfig.tsx:665
 msgid "<0/> was nominated as <1>{0}</1>"
 msgstr "<0/> fue nombrado como <1>{0}</1>"
 
@@ -321,17 +321,17 @@ msgstr ""
 msgid "<0/> won the battle ({0}-{1})"
 msgstr ""
 
-#: src/components/_user/notification/notification.frontConfig.tsx:350
+#: src/components/_user/notification/notification.frontConfig.tsx:351
 msgid "<0/> won the primary election in <1/> and can now run for president!"
 msgstr "¡<0/> ganó las elecciones primarias en <1/> y ahora puede postularse a la presidencia!"
 
 #. placeholder {0}: data.roundNumber
-#: src/components/_user/notification/notification.frontConfig.tsx:782
+#: src/components/_user/notification/notification.frontConfig.tsx:783
 msgid "<0/> won the round <1>#{0}</1> in <2/>"
 msgstr "<0/> ganó la ronda <1>#{0}</1> en <2/>"
 
 #. placeholder {0}: data.roundNumber
-#: src/components/_user/notification/notification.frontConfig.tsx:788
+#: src/components/_user/notification/notification.frontConfig.tsx:789
 msgid "<0/> won the round <1>#{0}</1> in <2/>!"
 msgstr "¡<0/> ganó la ronda <1>#{0}</1> en <2/>!"
 
@@ -896,7 +896,7 @@ msgid "A deposit has been found in this region, it can be exploited by companies
 msgstr "Se ha encontrado un depósito en esta región, puede ser explotado por empresas para producir materias primas."
 
 #. placeholder {0}: data.prize
-#: src/components/_user/notification/notification.frontConfig.tsx:1549
+#: src/components/_user/notification/notification.frontConfig.tsx:1550
 msgid "A new giveaway for {0} cases has started! Join now!"
 msgstr "¡Un nuevo sorteo de {0} cajas ha comenzado! ¡Únete ahora!"
 
@@ -1011,7 +1011,7 @@ msgstr "Administrador"
 msgid "Admin Actions"
 msgstr "Acciones de administrador"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1099
+#: src/components/_user/notification/notification.frontConfig.tsx:1100
 msgid "Admin notification"
 msgstr "Notificación de administrador"
 
@@ -1230,7 +1230,7 @@ msgstr "Armadura"
 msgid "Article ID"
 msgstr "ID de artículo"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:900
+#: src/components/_user/notification/notification.frontConfig.tsx:901
 msgid "Article liked"
 msgstr "Artículo gustado"
 
@@ -1238,7 +1238,7 @@ msgstr "Artículo gustado"
 msgid "Article Tip"
 msgstr "Propina al artículo"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:930
+#: src/components/_user/notification/notification.frontConfig.tsx:931
 msgid "Article tipped"
 msgstr "Propina al artículo"
 
@@ -1305,7 +1305,7 @@ msgstr "Avatar eliminado"
 msgid "Badge won"
 msgstr "Insignia ganada"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:107
+#: src/components/_user/notification/notification.frontConfig.tsx:108
 msgid "Badge Won"
 msgstr "Insignia ganada"
 
@@ -1337,15 +1337,15 @@ msgstr "Bancarrota"
 msgid "Banned"
 msgstr "Baneado"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1629
+#: src/components/_user/notification/notification.frontConfig.tsx:1646
 msgid "Banner Accepted!"
 msgstr "¡Portada aceptada!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1598
+#: src/components/_user/notification/notification.frontConfig.tsx:1599
 msgid "Banner gift received"
 msgstr "Portada de regalo recibida"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1567
+#: src/components/_user/notification/notification.frontConfig.tsx:1568
 msgid "Banner gift sent"
 msgstr "Portada de regalo enviada"
 
@@ -1384,7 +1384,7 @@ msgid "Battle"
 msgstr "Batalla"
 
 #: src/components/_political/event/EventList.tsx:65
-#: src/components/_user/notification/notification.frontConfig.tsx:815
+#: src/components/_user/notification/notification.frontConfig.tsx:816
 msgid "Battle ended"
 msgstr "Batalla terminada"
 
@@ -1392,7 +1392,7 @@ msgstr "Batalla terminada"
 msgid "Battle opened"
 msgstr "Batalla abierta"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1358
+#: src/components/_user/notification/notification.frontConfig.tsx:1359
 msgid "Battle Ranking Reward"
 msgstr "Recompensa de clasificación de batalla"
 
@@ -1471,11 +1471,11 @@ msgstr "Brigadier"
 msgid "Browse Packs"
 msgstr "Explorar paquetes"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:857
+#: src/components/_user/notification/notification.frontConfig.tsx:858
 msgid "Buff ended"
 msgstr "Buff terminado"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:838
+#: src/components/_user/notification/notification.frontConfig.tsx:839
 msgid "Buff started"
 msgstr "Buff iniciado"
 
@@ -1503,7 +1503,7 @@ msgstr "Compra por <0>{count}</0> de dinero en el mercado"
 msgid "Buy Items"
 msgstr "Comprar artículos"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:743
+#: src/components/_user/notification/notification.frontConfig.tsx:744
 msgid "Buy order match!"
 msgstr "¡Orden de compra coincidida!"
 
@@ -1771,6 +1771,11 @@ msgstr "Esquema de color"
 msgid "Commander"
 msgstr "Comandante"
 
+#: src/components/_user/notification/notification.frontConfig.tsx:1630
+#: src/components/_user/notification/notification.frontConfig.tsx:1821
+msgid "Commission earned"
+msgstr ""
+
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:116
 msgid "Commodore"
 msgstr "Comodoro"
@@ -1832,43 +1837,43 @@ msgid "Congrats"
 msgstr "Felicidades"
 
 #. placeholder {0}: data.level
-#: src/components/_user/notification/notification.frontConfig.tsx:424
+#: src/components/_user/notification/notification.frontConfig.tsx:425
 msgid "Congratulations, you leveled up to level {0}!"
 msgstr "¡Felicidades, has subido al nivel {0}!"
 
 #. placeholder {0}: data.countryName
-#: src/components/_user/notification/notification.frontConfig.tsx:213
+#: src/components/_user/notification/notification.frontConfig.tsx:214
 msgid "Congratulations! You have been elected as the new congress member of {0}"
 msgstr "¡Felicidades! Has sido elegido como nuevo miembro del congreso de {0}"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:317
+#: src/components/_user/notification/notification.frontConfig.tsx:318
 msgid "Congratulations! You have been elected as the new leader of <0/>"
 msgstr "¡Felicidades! Has sido elegido como el nuevo líder de <0/>"
 
 #. placeholder {0}: data.countryName
-#: src/components/_user/notification/notification.frontConfig.tsx:208
+#: src/components/_user/notification/notification.frontConfig.tsx:209
 msgid "Congratulations! You have been elected as the new president of {0}"
 msgstr "¡Felicidades! Has sido elegido como nuevo presidente de {0}"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:322
+#: src/components/_user/notification/notification.frontConfig.tsx:323
 msgid "Congratulations! You have been elected to the council of <0/>"
 msgstr "¡Felicidades! Has sido elegido al consejo de <0/>"
 
 #. placeholder {0}: militaryRankingConfig[data.rank].percentDamages
-#: src/components/_user/notification/notification.frontConfig.tsx:1337
+#: src/components/_user/notification/notification.frontConfig.tsx:1338
 msgid "Congratulations! You have been promoted to <0/> with an attack bonus of <1>{0}</1>"
 msgstr "¡Felicidades! Has sido ascendido a <0/> con un bonus de ataque de <1>{0}</1>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1533
+#: src/components/_user/notification/notification.frontConfig.tsx:1534
 msgid "Congratulations! You won the giveaway and received cases!"
 msgstr "¡Felicidades! ¡Ganaste el sorteo y recibiste cajas!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:366
-#: src/components/_user/notification/notification.frontConfig.tsx:1210
+#: src/components/_user/notification/notification.frontConfig.tsx:367
+#: src/components/_user/notification/notification.frontConfig.tsx:1211
 msgid "Congratulations! Your application to <0/> has been accepted"
 msgstr "¡Felicidades! Tu solicitud a <0/> ha sido aceptada"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1412
+#: src/components/_user/notification/notification.frontConfig.tsx:1413
 msgid "Congratulations! Your team <0/> won the tournament <1/>!"
 msgstr "¡Felicidades! ¡Tu equipo <0/> ganó el torneo <1/>!"
 
@@ -1876,27 +1881,27 @@ msgstr "¡Felicidades! ¡Tu equipo <0/> ganó el torneo <1/>!"
 msgid "Congress election"
 msgstr "Elección del congreso"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:143
+#: src/components/_user/notification/notification.frontConfig.tsx:144
 msgid "Congress election candidacy is now open in <0/>"
 msgstr "La candidatura para las elecciones del Congreso ya está abierta en <0/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:134
+#: src/components/_user/notification/notification.frontConfig.tsx:135
 msgid "Congress election candidate open"
 msgstr "Candidaturas al congreso abiertas"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:184
+#: src/components/_user/notification/notification.frontConfig.tsx:185
 msgid "Congress election ended"
 msgstr "Elección del congreso terminada"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:193
+#: src/components/_user/notification/notification.frontConfig.tsx:194
 msgid "Congress election has ended in <0/>. Check the results!"
 msgstr "Las elecciones del Congreso han terminado en <0/>. ¡Revisa los resultados!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:159
+#: src/components/_user/notification/notification.frontConfig.tsx:160
 msgid "Congress election vote open"
 msgstr "Votación al congreso abierta"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:168
+#: src/components/_user/notification/notification.frontConfig.tsx:169
 msgid "Congress election voting is now open in <0/>"
 msgstr "La votación de las elecciones del Congreso ya está abierta en <0/>"
 
@@ -1933,7 +1938,7 @@ msgstr "Regiones conquistadas"
 msgid "Consider giving it to your local moderator"
 msgstr "Considera dárselo a tu moderador local"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:644
+#: src/components/_user/notification/notification.frontConfig.tsx:645
 msgid "Construction started"
 msgstr "Construcción iniciada"
 
@@ -2103,11 +2108,11 @@ msgstr "Diarias"
 msgid "Daily maintenance"
 msgstr "Mantenimiento diario"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1642
+#: src/components/_user/notification/notification.frontConfig.tsx:1659
 msgid "Daily Missions Reset"
 msgstr "Reinicio de Misiones Diarias"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:437
+#: src/components/_user/notification/notification.frontConfig.tsx:438
 msgid "Daily XP available!"
 msgstr "¡XP diaria disponible!"
 
@@ -2191,7 +2196,7 @@ msgstr "Causa más daño"
 msgid "Deals some damages"
 msgstr "Causa algo de daño"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:871
+#: src/components/_user/notification/notification.frontConfig.tsx:872
 msgid "Debuff ended"
 msgstr "Debuff terminado"
 
@@ -2244,7 +2249,7 @@ msgstr "Eliminar cuenta"
 msgid "Delete your account"
 msgstr "Eliminar tu cuenta"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1264
+#: src/components/_user/notification/notification.frontConfig.tsx:1265
 msgid "Demoted from Commander"
 msgstr "Degradado de Comandante"
 
@@ -2398,16 +2403,16 @@ msgstr "Resumen de donación"
 msgid "Donations"
 msgstr "Donaciones"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:460
+#: src/components/_user/notification/notification.frontConfig.tsx:461
 msgid "Double XP Ended"
 msgstr "XP doble terminado"
 
 #. placeholder {0}: data.duration
-#: src/components/_user/notification/notification.frontConfig.tsx:453
+#: src/components/_user/notification/notification.frontConfig.tsx:454
 msgid "Double XP event has started for {0} hours!"
 msgstr "¡El evento de XP doble ha comenzado por {0} horas!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:451
+#: src/components/_user/notification/notification.frontConfig.tsx:452
 msgid "Double XP Started"
 msgstr "XP doble iniciado"
 
@@ -2744,11 +2749,11 @@ msgstr "Destituir a un miembro del gobierno"
 msgid "Fire worker?"
 msgstr "¿Despedir trabajador?"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:545
+#: src/components/_user/notification/notification.frontConfig.tsx:546
 msgid "Fired from company"
 msgstr "Despedido de la empresa"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:674
+#: src/components/_user/notification/notification.frontConfig.tsx:675
 msgid "Fired from government"
 msgstr "Destituido del gobierno"
 
@@ -2862,15 +2867,15 @@ msgstr "Dar dinero"
 msgid "Give your token a descriptive name so you can identify it later."
 msgstr "Dale a tu token un nombre descriptivo para identificarlo después."
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1559
+#: src/components/_user/notification/notification.frontConfig.tsx:1560
 msgid "Giveaway Ended"
 msgstr "Sorteo terminado"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1547
+#: src/components/_user/notification/notification.frontConfig.tsx:1548
 msgid "Giveaway Started"
 msgstr "Sorteo iniciado"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1531
+#: src/components/_user/notification/notification.frontConfig.tsx:1532
 msgid "Giveaway Won!"
 msgstr "¡Sorteo ganado!"
 
@@ -3125,7 +3130,7 @@ msgstr "Solo puede mejorar… quizás"
 msgid "It will not gain any production and its workers will not be able to work."
 msgstr "No ganará producción y sus trabajadores no podrán trabajar."
 
-#: src/components/_user/notification/notification.frontConfig.tsx:605
+#: src/components/_user/notification/notification.frontConfig.tsx:606
 msgid "Item bought"
 msgstr "Objeto comprado"
 
@@ -3249,7 +3254,7 @@ msgid "Law failed"
 msgstr "Ley fallida"
 
 #: src/components/_political/law/LawFormModal.tsx:76
-#: src/components/_user/notification/notification.frontConfig.tsx:628
+#: src/components/_user/notification/notification.frontConfig.tsx:629
 msgid "Law proposed"
 msgstr "Ley propuesta"
 
@@ -3309,7 +3314,7 @@ msgstr "Pantalones Legendarios"
 msgid "Level up your skills!"
 msgstr "¡Sube de nivel tus habilidades!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:421
+#: src/components/_user/notification/notification.frontConfig.tsx:422
 msgid "Level up!"
 msgstr "¡Subiste de nivel!"
 
@@ -3415,15 +3420,15 @@ msgstr "Conseguir cajas"
 msgid "Loot chance"
 msgstr "Probabilidad de botín"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:492
+#: src/components/_user/notification/notification.frontConfig.tsx:493
 msgid "Looted case"
 msgstr "Caja obtenida"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:490
+#: src/components/_user/notification/notification.frontConfig.tsx:491
 msgid "Looted cases"
 msgstr "Cajas obtenidas"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:727
+#: src/components/_user/notification/notification.frontConfig.tsx:728
 msgid "Looted money"
 msgstr "Dinero obtenido"
 
@@ -3551,7 +3556,7 @@ msgstr "Aplicaciones de miembros"
 msgid "Members"
 msgstr "Miembros"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1310
+#: src/components/_user/notification/notification.frontConfig.tsx:1311
 msgid "Mentioned in message"
 msgstr "Mencionado en mensaje"
 
@@ -3559,7 +3564,7 @@ msgstr "Mencionado en mensaje"
 msgid "Message (Optional)"
 msgstr "Enviar mensaje (opcional)"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:963
+#: src/components/_user/notification/notification.frontConfig.tsx:964
 msgid "Message liked"
 msgstr "Mensaje gustado"
 
@@ -3580,7 +3585,7 @@ msgstr "Leyes militares"
 msgid "Military Rank"
 msgstr "Rango militar"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1335
+#: src/components/_user/notification/notification.frontConfig.tsx:1336
 msgid "Military Rank Up!"
 msgstr "¡Ascenso militar!"
 
@@ -3684,7 +3689,7 @@ msgstr "Mover la empresa"
 msgid "Move to top"
 msgstr "Mover al principio"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:560
+#: src/components/_user/notification/notification.frontConfig.tsx:561
 msgid "Moved to a new company"
 msgstr "Transferido a una nueva empresa"
 
@@ -3693,19 +3698,19 @@ msgstr "Transferido a una nueva empresa"
 msgid "MU"
 msgstr "UM"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1208
+#: src/components/_user/notification/notification.frontConfig.tsx:1209
 msgid "MU Application Accepted"
 msgstr "Solicitud a UM aceptada"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1195
+#: src/components/_user/notification/notification.frontConfig.tsx:1196
 msgid "MU Application Rejected"
 msgstr "Solicitud a UM rechazada"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1296
+#: src/components/_user/notification/notification.frontConfig.tsx:1297
 msgid "MU Donation Received"
 msgstr "Donación a UM recibida"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1278
+#: src/components/_user/notification/notification.frontConfig.tsx:1279
 msgid "MU Ownership Transferred"
 msgstr "Propiedad de UM transferida"
 
@@ -3780,15 +3785,15 @@ msgstr "Nuevo"
 msgid "New API Token Created"
 msgstr "Nuevo Token de API Creado"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:883
+#: src/components/_user/notification/notification.frontConfig.tsx:884
 msgid "New article"
 msgstr "Nuevo artículo"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:915
+#: src/components/_user/notification/notification.frontConfig.tsx:916
 msgid "New comment"
 msgstr "Nuevo comentario"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:476
+#: src/components/_user/notification/notification.frontConfig.tsx:477
 msgid "New equipment"
 msgstr "Nuevo equipamiento"
 
@@ -3814,7 +3819,7 @@ msgstr "Nueva ubicación"
 msgid "New military unit"
 msgstr "Nueva unidad militar"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1222
+#: src/components/_user/notification/notification.frontConfig.tsx:1223
 msgid "New MU Application"
 msgstr "Nueva solicitud a UM"
 
@@ -3822,28 +3827,28 @@ msgstr "Nueva solicitud a UM"
 msgid "New name"
 msgstr "Nuevo nombre"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:391
+#: src/components/_user/notification/notification.frontConfig.tsx:392
 msgid "New Party Application"
 msgstr "Nueva solicitud de partido"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:334
+#: src/components/_user/notification/notification.frontConfig.tsx:335
 msgid "New Party Leader"
 msgstr "Nuevo líder del partido"
 
 #: src/components/_political/event/EventList.tsx:66
-#: src/components/_user/notification/notification.frontConfig.tsx:224
+#: src/components/_user/notification/notification.frontConfig.tsx:225
 msgid "New president"
 msgstr "Nuevo presidente"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:685
+#: src/components/_user/notification/notification.frontConfig.tsx:686
 msgid "New referred user"
 msgstr "Nuevo usuario referido"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:696
+#: src/components/_user/notification/notification.frontConfig.tsx:697
 msgid "New referrer"
 msgstr "Nuevo referidor"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:949
+#: src/components/_user/notification/notification.frontConfig.tsx:950
 msgid "New subscriber"
 msgstr "Nuevo suscriptor"
 
@@ -3851,11 +3856,11 @@ msgstr "Nuevo suscriptor"
 msgid "New supporters"
 msgstr "Nuevos supporters"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:468
+#: src/components/_user/notification/notification.frontConfig.tsx:469
 msgid "New weapon"
 msgstr "Nueva arma"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:514
+#: src/components/_user/notification/notification.frontConfig.tsx:515
 msgid "New worker"
 msgstr "Nuevo trabajador"
 
@@ -4033,7 +4038,7 @@ msgstr "Nombrar"
 msgid "Nominate a {title}"
 msgstr "Nombrar a {title}"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:662
+#: src/components/_user/notification/notification.frontConfig.tsx:663
 msgid "Nominated at government"
 msgstr "Nombrado en el gobierno"
 
@@ -4189,7 +4194,7 @@ msgstr "Propios"
 msgid "Owned Military Units"
 msgstr "Unidades militares propias"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1280
+#: src/components/_user/notification/notification.frontConfig.tsx:1281
 msgid "Ownership of <0/> has been transferred from <1/> to <2/>"
 msgstr "La propiedad de <0/> ha sido transferida de <1/> a <2/>"
 
@@ -4225,11 +4230,11 @@ msgstr "Partidos"
 msgid "Party"
 msgstr "Partido"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:364
+#: src/components/_user/notification/notification.frontConfig.tsx:365
 msgid "Party Application Accepted"
 msgstr "Solicitud de partido aceptada"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:378
+#: src/components/_user/notification/notification.frontConfig.tsx:379
 msgid "Party Application Rejected"
 msgstr "Solicitud de partido rechazada"
 
@@ -4237,27 +4242,27 @@ msgstr "Solicitud de partido rechazada"
 msgid "Party Council election"
 msgstr "Elección del consejo del partido"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:252
+#: src/components/_user/notification/notification.frontConfig.tsx:253
 msgid "Party Council election candidacy is now open in <0/>"
 msgstr "Las candidaturas para la elección del consejo del partido están abiertas en <0/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:243
+#: src/components/_user/notification/notification.frontConfig.tsx:244
 msgid "Party Council election candidate open"
 msgstr "Candidaturas abiertas para el consejo del partido"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:293
+#: src/components/_user/notification/notification.frontConfig.tsx:294
 msgid "Party Council election ended"
 msgstr "Elección del consejo del partido finalizada"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:302
+#: src/components/_user/notification/notification.frontConfig.tsx:303
 msgid "Party Council election has ended in <0/>. Check the results!"
 msgstr "La elección del consejo del partido ha finalizado en <0/>. ¡Consulta los resultados!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:268
+#: src/components/_user/notification/notification.frontConfig.tsx:269
 msgid "Party Council election vote open"
 msgstr "Votación abierta para el consejo del partido"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:277
+#: src/components/_user/notification/notification.frontConfig.tsx:278
 msgid "Party Council election voting is now open in <0/>"
 msgstr "La votación para la elección del consejo del partido está abierta en <0/>"
 
@@ -4265,7 +4270,7 @@ msgstr "La votación para la elección del consejo del partido está abierta en 
 msgid "Party created"
 msgstr "Partido creado"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:405
+#: src/components/_user/notification/notification.frontConfig.tsx:406
 msgid "Party Donation Received"
 msgstr "Donación al partido recibida"
 
@@ -4273,27 +4278,27 @@ msgstr "Donación al partido recibida"
 msgid "Party Leader election"
 msgstr "Elección del líder del partido"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:247
+#: src/components/_user/notification/notification.frontConfig.tsx:248
 msgid "Party Leader election candidacy is now open in <0/>"
 msgstr "Las candidaturas para la elección del líder del partido están abiertas en <0/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:241
+#: src/components/_user/notification/notification.frontConfig.tsx:242
 msgid "Party Leader election candidate open"
 msgstr "Candidaturas abiertas para el líder del partido"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:291
+#: src/components/_user/notification/notification.frontConfig.tsx:292
 msgid "Party Leader election ended"
 msgstr "Elección del líder del partido finalizada"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:297
+#: src/components/_user/notification/notification.frontConfig.tsx:298
 msgid "Party Leader election has ended in <0/>. Check the results!"
 msgstr "La elección del líder del partido ha finalizado en <0/>. ¡Consulta los resultados!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:266
+#: src/components/_user/notification/notification.frontConfig.tsx:267
 msgid "Party Leader election vote open"
 msgstr "Votación abierta para el líder del partido"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:272
+#: src/components/_user/notification/notification.frontConfig.tsx:273
 msgid "Party Leader election voting is now open in <0/>"
 msgstr "La votación para la elección del líder del partido está abierta en <0/>"
 
@@ -4364,23 +4369,23 @@ msgstr "Precisión"
 msgid "Premium"
 msgstr "Premium"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1127
+#: src/components/_user/notification/notification.frontConfig.tsx:1128
 msgid "Premium activated"
 msgstr "Premium activado"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1137
+#: src/components/_user/notification/notification.frontConfig.tsx:1138
 msgid "Premium expired"
 msgstr "Premium expirado"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1180
+#: src/components/_user/notification/notification.frontConfig.tsx:1181
 msgid "Premium gift expired"
 msgstr "Regalo premium expirado"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1158
+#: src/components/_user/notification/notification.frontConfig.tsx:1159
 msgid "Premium gift received"
 msgstr "Regalo premium recibido"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1145
+#: src/components/_user/notification/notification.frontConfig.tsx:1146
 msgid "Premium gift sent"
 msgstr "Regalo premium enviado"
 
@@ -4396,27 +4401,27 @@ msgstr "Presidente"
 msgid "Presidential election"
 msgstr "Elección presidencial"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:138
+#: src/components/_user/notification/notification.frontConfig.tsx:139
 msgid "Presidential election candidacy is now open in <0/>"
 msgstr "La candidatura para las elecciones presidenciales ya está abierta en <0/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:132
+#: src/components/_user/notification/notification.frontConfig.tsx:133
 msgid "Presidential election candidate open"
 msgstr "Candidaturas presidenciales abiertas"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:182
+#: src/components/_user/notification/notification.frontConfig.tsx:183
 msgid "Presidential election ended"
 msgstr "Elección presidencial terminada"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:188
+#: src/components/_user/notification/notification.frontConfig.tsx:189
 msgid "Presidential election has ended in <0/>. Check the results!"
 msgstr "Las elecciones presidenciales han terminado en <0/>. ¡Revisa los resultados!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:157
+#: src/components/_user/notification/notification.frontConfig.tsx:158
 msgid "Presidential election vote open"
 msgstr "Votación presidencial abierta"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:163
+#: src/components/_user/notification/notification.frontConfig.tsx:164
 msgid "Presidential election voting is now open in <0/>"
 msgstr "La votación de las elecciones presidenciales ya está abierta en <0/>"
 
@@ -4428,7 +4433,7 @@ msgstr "Elecciones presidenciales"
 msgid "Primary election"
 msgstr "Elección primaria"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:348
+#: src/components/_user/notification/notification.frontConfig.tsx:349
 msgid "Primary Election Ended"
 msgstr "Elección primaria concluida"
 
@@ -4488,11 +4493,11 @@ msgstr "Bono de producción"
 msgid "Production bonus:"
 msgstr "Bono de producción:"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:715
+#: src/components/_user/notification/notification.frontConfig.tsx:716
 msgid "Production in<0/> is full, you should start production!"
 msgstr "¡La producción en<0/> está llena, deberías iniciar la producción!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:713
+#: src/components/_user/notification/notification.frontConfig.tsx:714
 msgid "Production is full"
 msgstr "Producción llena"
 
@@ -4500,7 +4505,7 @@ msgstr "Producción llena"
 msgid "Profile"
 msgstr "Perfil"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1250
+#: src/components/_user/notification/notification.frontConfig.tsx:1251
 msgid "Promoted to Commander"
 msgstr "Ascendido a Comandante"
 
@@ -4580,7 +4585,7 @@ msgstr "Desmontar objetos rápidamente"
 msgid "Ranking loot chance"
 msgstr "Probabilidad de botín por ranking"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1490
+#: src/components/_user/notification/notification.frontConfig.tsx:1491
 msgid "Ranking Reward"
 msgstr "Recompensa de clasificación"
 
@@ -4731,7 +4736,7 @@ msgstr "Región"
 msgid "Region buy offer"
 msgstr "Oferta de compra de región"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1047
+#: src/components/_user/notification/notification.frontConfig.tsx:1048
 msgid "Region is revolting!"
 msgstr "¡La región se está rebelando!"
 
@@ -4839,7 +4844,7 @@ msgstr "Eliminar enemigo principal"
 msgid "Remove the current party leader from their position"
 msgstr "Remover al líder actual del Partido de su posición"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1236
+#: src/components/_user/notification/notification.frontConfig.tsx:1237
 msgid "Removed from Military Unit"
 msgstr "Eliminado de la Unidad Militar"
 
@@ -4926,7 +4931,7 @@ msgstr "Recursos"
 msgid "Resources reshuffled"
 msgstr "Recursos redistribuidos"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:990
+#: src/components/_user/notification/notification.frontConfig.tsx:991
 msgid "Response to message"
 msgstr "Respuesta a mensaje"
 
@@ -4942,7 +4947,7 @@ msgstr "Devolver una región a su país original"
 msgid "Revoke API token?"
 msgstr "¿Revocar token de API?"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1061
+#: src/components/_user/notification/notification.frontConfig.tsx:1062
 msgid "Revolt started!"
 msgstr "¡Rebelión iniciada!"
 
@@ -4954,7 +4959,7 @@ msgstr "La revuelta terminó"
 msgid "Revolution started"
 msgstr "Revuela iniciada"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1076
+#: src/components/_user/notification/notification.frontConfig.tsx:1077
 msgid "Revolution started!"
 msgstr "¡Revuelta iniciada!"
 
@@ -4974,15 +4979,15 @@ msgid "Round #{0}"
 msgstr "Ronda #{0}"
 
 #. placeholder {0}: data.roundNumber
-#: src/components/_user/notification/notification.frontConfig.tsx:803
+#: src/components/_user/notification/notification.frontConfig.tsx:804
 msgid "Round <0>#{0}</0> in <1/> is about to end!"
 msgstr "¡La ronda <0>#{0}</0> en <1/> está por terminar!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:801
+#: src/components/_user/notification/notification.frontConfig.tsx:802
 msgid "Round about to end"
 msgstr "Ronda por terminar"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:780
+#: src/components/_user/notification/notification.frontConfig.tsx:781
 msgid "Round ended"
 msgstr "Ronda terminada"
 
@@ -5131,7 +5136,7 @@ msgstr "¡Véndelo, necesitas comprar más cajas!"
 msgid "Sell Items"
 msgstr "Vender artículos"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:745
+#: src/components/_user/notification/notification.frontConfig.tsx:746
 msgid "Sell order match!"
 msgstr "¡Orden de venta coincidida!"
 
@@ -5288,15 +5293,15 @@ msgstr "Las habilidades te hacen más fuerte. ¡Mejoremos tus capacidades!"
 msgid "Skills saved!"
 msgstr "¡Habilidades guardadas!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1699
+#: src/components/_user/notification/notification.frontConfig.tsx:1716
 msgid "Skin gift received"
 msgstr "Skin de regalo recibida"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1667
+#: src/components/_user/notification/notification.frontConfig.tsx:1684
 msgid "Skin gift sent"
 msgstr "Skin de regalo enviada"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1731
+#: src/components/_user/notification/notification.frontConfig.tsx:1748
 msgid "Skin pack gift sent"
 msgstr "Skin pack de regalo enviada"
 
@@ -5601,15 +5606,15 @@ msgstr "El depósito otorga un bono de producción del siguiente porcentaje."
 msgid "The deposit will expire in the following amount of time."
 msgstr "El depósito expirará en el siguiente tiempo."
 
-#: src/components/_user/notification/notification.frontConfig.tsx:461
+#: src/components/_user/notification/notification.frontConfig.tsx:462
 msgid "The double XP event has ended."
 msgstr "El evento de XP doble ha terminado."
 
-#: src/components/_user/notification/notification.frontConfig.tsx:859
+#: src/components/_user/notification/notification.frontConfig.tsx:860
 msgid "The effect of your consumed buffs has ended. The debuff phase has begun and will last <0>{debuffDuration}h</0>."
 msgstr "El efecto de tus buffs consumidos ha terminado. La fase de debuff ha comenzado y durará <0>{debuffDuration}h</0>."
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1560
+#: src/components/_user/notification/notification.frontConfig.tsx:1561
 msgid "The giveaway has ended. Check if you won!"
 msgstr "El sorteo ha terminado. ¡Comprueba si ganaste!"
 
@@ -5617,7 +5622,7 @@ msgstr "El sorteo ha terminado. ¡Comprueba si ganaste!"
 msgid "The strategic resource will be reshuffled in the following amount of time."
 msgstr "El recurso estratégico será redistribuido en el siguiente tiempo."
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1457
+#: src/components/_user/notification/notification.frontConfig.tsx:1458
 msgid "The tournament has ended for your team <0/>. Check the results!"
 msgstr "El torneo ha terminado para tu equipo <0/>. ¡Revisa los resultados!"
 
@@ -5673,6 +5678,66 @@ msgstr "¡Es hora de luchar por tu país! Únete a la acción."
 #: src/components/_other/tour/tuto.frontConfig.tsx:45
 msgid "Time to produce!"
 msgstr "¡Es hora de producir!"
+
+#: src/components/_other/shop/skinPack.frontConfig.tsx:17
+msgid "Tiny Pixel"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:95
+msgid "Tiny Pixel Ammo"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:107
+msgid "Tiny Pixel Boots"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:104
+msgid "Tiny Pixel Chest"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:113
+msgid "Tiny Pixel Gloves"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:116
+msgid "Tiny Pixel Gun"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:98
+msgid "Tiny Pixel Heavy Ammo"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:101
+msgid "Tiny Pixel Helmet"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:128
+msgid "Tiny Pixel Jet"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:131
+msgid "Tiny Pixel Light Ammo"
+msgstr ""
+
+#: src/components/_other/shop/skinPack.frontConfig.tsx:16
+msgid "Tiny Pixel Pack"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:110
+msgid "Tiny Pixel Pants"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:119
+msgid "Tiny Pixel Rifle"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:122
+msgid "Tiny Pixel Sniper"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:125
+msgid "Tiny Pixel Tank"
+msgstr ""
 
 #: src/components/_user/mission/mission.frontConfig.tsx:288
 msgid "Tip <0>{count}</0> articles"
@@ -5749,27 +5814,27 @@ msgstr "Total donado:"
 msgid "Tournament"
 msgstr "Torneo"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1429
+#: src/components/_user/notification/notification.frontConfig.tsx:1430
 msgid "Tournament Created"
 msgstr "Torneo Creado"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1469
+#: src/components/_user/notification/notification.frontConfig.tsx:1470
 msgid "Tournament Eliminated"
 msgstr "Eliminado del torneo"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1455
+#: src/components/_user/notification/notification.frontConfig.tsx:1456
 msgid "Tournament Ended"
 msgstr "Torneo terminado"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1380
+#: src/components/_user/notification/notification.frontConfig.tsx:1381
 msgid "Tournament Round Won"
 msgstr "Ronda de torneo ganada"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1442
+#: src/components/_user/notification/notification.frontConfig.tsx:1443
 msgid "Tournament Started"
 msgstr "Torneo iniciado"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1410
+#: src/components/_user/notification/notification.frontConfig.tsx:1411
 msgid "Tournament Won!"
 msgstr "¡Torneo ganado!"
 
@@ -5858,7 +5923,7 @@ msgstr "Desbloquear botón Ayudar a todos"
 msgid "Unlock Produce all button"
 msgstr "Desbloquear botón Producir todo"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1762
+#: src/components/_user/notification/notification.frontConfig.tsx:1779
 msgid "Unlocked pack"
 msgstr "Pack desbloqueado"
 
@@ -6168,7 +6233,7 @@ msgstr "VS"
 msgid "Wage"
 msgstr "Salario"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:575
+#: src/components/_user/notification/notification.frontConfig.tsx:576
 msgid "Wage changed"
 msgstr "Salario cambiado"
 
@@ -6184,7 +6249,7 @@ msgstr "Salario por producción"
 msgid "Wage reduction accepted."
 msgstr "Reducción salarial aceptada."
 
-#: src/components/_user/notification/notification.frontConfig.tsx:590
+#: src/components/_user/notification/notification.frontConfig.tsx:591
 #: src/components/_user/worker/WageReductionAlert.tsx:66
 msgid "Wage reduction proposed"
 msgstr "Reducción salarial propuesta"
@@ -6246,11 +6311,11 @@ msgstr "Balance semanal"
 msgid "Weekly damages"
 msgstr "Daños semanales"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1654
+#: src/components/_user/notification/notification.frontConfig.tsx:1671
 msgid "Weekly Missions Reset"
 msgstr "Reinicio de Misiones Semanales"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1090
+#: src/components/_user/notification/notification.frontConfig.tsx:1091
 msgid "Welcome"
 msgstr "Bienvenido"
 
@@ -6259,7 +6324,7 @@ msgid "Welcome back {username}!"
 msgstr "¡Bienvenido de nuevo {username}!"
 
 #: src/components/_user/auth/WelcomeModal.tsx:113
-#: src/components/_user/notification/notification.frontConfig.tsx:1091
+#: src/components/_user/notification/notification.frontConfig.tsx:1092
 msgid "Welcome to War Era!"
 msgstr "¡Bienvenido a War Era!"
 
@@ -6313,7 +6378,7 @@ msgstr "¡Trabaja y gana!"
 msgid "Worker fired!"
 msgstr "¡Trabajador despedido!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:530
+#: src/components/_user/notification/notification.frontConfig.tsx:531
 msgid "Worker left"
 msgstr "Trabajador se fue"
 
@@ -6397,7 +6462,7 @@ msgstr "No estás participando"
 msgid "You are very skilled!"
 msgstr "¡Eres muy hábil!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:750
+#: src/components/_user/notification/notification.frontConfig.tsx:751
 msgid "You bought items."
 msgstr "Compraste objetos."
 
@@ -6425,7 +6490,19 @@ msgstr "No puedes cambiar de ciudadanía si eres miembro del gobierno o del parl
 msgid "You don't have permission to view applications."
 msgstr "No tienes permisos para ver las aplicaciones."
 
-#: src/components/_user/notification/notification.frontConfig.tsx:873
+#: src/components/_user/notification/notification.frontConfig.tsx:1632
+msgid "You earned gems from a banner sale!"
+msgstr ""
+
+#: src/components/_user/notification/notification.frontConfig.tsx:1823
+msgid "You earned gems from a sale of \"{skinTitle}\"!"
+msgstr ""
+
+#: src/components/_user/notification/notification.frontConfig.tsx:1827
+msgid "You earned gems from a skin pack sale!"
+msgstr ""
+
+#: src/components/_user/notification/notification.frontConfig.tsx:874
 msgid "You feel healthy, the debuff effect no longer affects you."
 msgstr "Te sientes saludable, el efecto de debuff ya no te afecta."
 
@@ -6437,33 +6514,33 @@ msgstr "Serás aprobado automáticamente porque la población de este país est�
 msgid "You have a case!"
 msgstr "¡Tienes una caja!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1266
+#: src/components/_user/notification/notification.frontConfig.tsx:1267
 msgid "You have been demoted from commander in <0/> by <1/>"
 msgstr "Has sido degradado de comandante en <0/> por <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:336
+#: src/components/_user/notification/notification.frontConfig.tsx:337
 msgid "You have been elected as the new leader of <0/>"
 msgstr "Haz sido elegido como el nuevo líder de <0/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1252
+#: src/components/_user/notification/notification.frontConfig.tsx:1253
 msgid "You have been promoted to commander in <0/> by <1/>"
 msgstr "Has sido ascendido a comandante en <0/> por <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1238
+#: src/components/_user/notification/notification.frontConfig.tsx:1239
 msgid "You have been removed from <0/> by <1/>"
 msgstr "Has sido eliminado de <0/> por <1/>"
 
 #. placeholder {0}: data.money
-#: src/components/_user/notification/notification.frontConfig.tsx:1360
+#: src/components/_user/notification/notification.frontConfig.tsx:1361
 msgid "You have been rewarded <0>{0}</0> for your contribution to the battle in <1/>"
 msgstr "Has sido recompensado con <0>{0}</0> por tu contribución a la batalla en <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:562
+#: src/components/_user/notification/notification.frontConfig.tsx:563
 msgid "You have been transferred from <0/> to <1/>"
 msgstr "Has sido transferido de <0/> a <1/>"
 
 #. placeholder {0}: 1
-#: src/components/_user/notification/notification.frontConfig.tsx:840
+#: src/components/_user/notification/notification.frontConfig.tsx:841
 msgid "You have consumed <0>{0}</0>, it's effect starts now and ends in <1>{buffDuration}h</1>."
 msgstr "Has consumido <0>{0}</0>, su efecto empieza ahora y termina en <1>{buffDuration}h</1>."
 
@@ -6495,19 +6572,19 @@ msgstr "¡Dejaste tu trabajo!"
 
 #. placeholder {0}: data.quantity
 #. placeholder {1}: data.lootChance
-#: src/components/_user/notification/notification.frontConfig.tsx:495
+#: src/components/_user/notification/notification.frontConfig.tsx:496
 msgid "You looted <0>{0}</0> with a loot chance of <1>{1}</1> in <2/>"
 msgstr "Obtuviste <0>{0}</0> con una probabilidad de <1>{1}</1> en <2/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:477
+#: src/components/_user/notification/notification.frontConfig.tsx:478
 msgid "You looted a new equipment!"
 msgstr "¡Obtuviste un nuevo equipamiento!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:469
+#: src/components/_user/notification/notification.frontConfig.tsx:470
 msgid "You looted a new weapon!"
 msgstr "¡Obtuviste una nueva arma!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:728
+#: src/components/_user/notification/notification.frontConfig.tsx:729
 msgid "You looted money on the battlefield."
 msgstr "Obtuviste dinero en el campo de batalla."
 
@@ -6530,35 +6607,35 @@ msgstr "Debes gastar los 3 puntos de ideología (quedan {pointsRemaining})."
 msgid "You need to equip a weapon first"
 msgstr "Primero necesitas equipar un arma"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1182
+#: src/components/_user/notification/notification.frontConfig.tsx:1183
 msgid "You premium gift from <0/> has expired! Would you consider subscribing and supporting the game? 👉👈"
 msgstr "¡Tu regalo premium de <0/> ha expirado! ¿Considerarías suscribirte y apoyar el juego? 👉👈"
 
 #. placeholder {0}: data.muId ? ( <MuName muId={data.muId} /> ) : data.countryId ? ( <CountryName countryId={data.countryId} /> ) : ( 'your' )
 #. placeholder {1}: data.rank && ( <> position{' '} <Typo fw='bold' color='text1'> #{data.rank} </Typo> </> )
-#: src/components/_user/notification/notification.frontConfig.tsx:1492
+#: src/components/_user/notification/notification.frontConfig.tsx:1493
 msgid "You received a reward for {0} {1} in<0/> tier in the ranking <1/>"
 msgstr "Recibiste una recompensa por {0} {1} en el nivel<0/> del ranking <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:752
+#: src/components/_user/notification/notification.frontConfig.tsx:753
 msgid "You sold items."
 msgstr "Vendiste objetos."
 
 #. placeholder {0}: data.bannerTitle
-#: src/components/_user/notification/notification.frontConfig.tsx:1570
+#: src/components/_user/notification/notification.frontConfig.tsx:1571
 msgid "You successfully gifted \"{0}\" to <0/>!"
 msgstr "¡Regalaste exitósamente \"{0}\" a <0/>!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1670
+#: src/components/_user/notification/notification.frontConfig.tsx:1687
 msgid "You successfully gifted \"{skinTitle}\" to <0/>!"
 msgstr "¡Regalaste exitósamente \"{skinTitle}\" a <0/>!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1147
+#: src/components/_user/notification/notification.frontConfig.tsx:1148
 msgid "You successfully gifted a premium subscription to <0/>!"
 msgstr "¡Regalaste exitosamente una suscripción premium a <0/>!"
 
 #. placeholder {0}: data.skinPackTitle
-#: src/components/_user/notification/notification.frontConfig.tsx:1734
+#: src/components/_user/notification/notification.frontConfig.tsx:1751
 msgid "You successfully gifted the skin pack \"{0}\" to <0/>!"
 msgstr "¡Regalaste exitósamente el skin pack \"{0}\" to <0/>!"
 
@@ -6566,12 +6643,12 @@ msgstr "¡Regalaste exitósamente el skin pack \"{0}\" to <0/>!"
 msgid "You very lucky"
 msgstr "Qué suertudo"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:676
+#: src/components/_user/notification/notification.frontConfig.tsx:677
 msgid "You was fired from the government by <0/>"
 msgstr "Fuiste destituido del gobierno por <0/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:205
-#: src/components/_user/notification/notification.frontConfig.tsx:314
+#: src/components/_user/notification/notification.frontConfig.tsx:206
+#: src/components/_user/notification/notification.frontConfig.tsx:315
 msgid "You were elected"
 msgstr "Fuiste elegido"
 
@@ -6632,13 +6709,13 @@ msgstr "Tu cuenta ha sido reportada automáticamente por hacer trampa"
 msgid "Your ancestors are proud"
 msgstr "Tus ancestros están orgullosos"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:380
-#: src/components/_user/notification/notification.frontConfig.tsx:1197
+#: src/components/_user/notification/notification.frontConfig.tsx:381
+#: src/components/_user/notification/notification.frontConfig.tsx:1198
 msgid "Your application to <0/> has been rejected"
 msgstr "Tu solicitud a <0/> ha sido rechazada"
 
 #. placeholder {0}: data.bannerTitle
-#: src/components/_user/notification/notification.frontConfig.tsx:1631
+#: src/components/_user/notification/notification.frontConfig.tsx:1648
 msgid "Your banner \"{0}\" has been accepted and is now available in the shop! It has been automatically unlocked for you."
 msgstr "¡Tu portada \"{0}\" ha sido aceptada, ahora está disponible en la tienda! Se ha desbloqueado automáticamente para tí."
 
@@ -6650,19 +6727,19 @@ msgstr "Tu ciudadanía va a cambiar"
 msgid "Your country"
 msgstr "Tu país"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1018
+#: src/components/_user/notification/notification.frontConfig.tsx:1019
 msgid "Your country is under attack!"
 msgstr "¡Tu país está bajo ataque!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1032
+#: src/components/_user/notification/notification.frontConfig.tsx:1033
 msgid "Your country launched an attack!"
 msgstr "¡Tu país lanzó un ataque!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1063
+#: src/components/_user/notification/notification.frontConfig.tsx:1064
 msgid "Your country started a revolt in <0/> against <1/>"
 msgstr "Tu país inició una rebelión en <0/> contra <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:646
+#: src/components/_user/notification/notification.frontConfig.tsx:647
 msgid "Your country started the construction of <0/> in <1/>"
 msgstr "Tu país inició la construcción de <0/> en <1/>"
 
@@ -6674,11 +6751,11 @@ msgstr "Tu trabajo actual"
 msgid "Your current order"
 msgstr "Tu orden actual"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1644
+#: src/components/_user/notification/notification.frontConfig.tsx:1661
 msgid "Your daily missions have been reset! Complete them to earn rewards."
 msgstr "¡Tus misiones diarias han sido reiniciadas! Completa las misiones para ganar recompensas."
 
-#: src/components/_user/notification/notification.frontConfig.tsx:439
+#: src/components/_user/notification/notification.frontConfig.tsx:440
 msgid "Your daily XP limit has been reset, you can now gain XP and get your daily reward!"
 msgstr "¡Tu límite de XP diario se ha reiniciado, ahora puedes ganar XP y obtener tu recompensa diaria!"
 
@@ -6698,7 +6775,7 @@ msgstr "Tu empleador quiere reducir tu salario de <0>{0}</0> a <1>{1}</1>."
 
 #. placeholder {0}: data.oldWage
 #. placeholder {1}: data.newWage
-#: src/components/_user/notification/notification.frontConfig.tsx:592
+#: src/components/_user/notification/notification.frontConfig.tsx:593
 msgid "Your employer wants to reduce your wage in <0/> from <1>{0}</1> to <2>{1}</2>. Accept or reject this change."
 msgstr "Tu empleador quiere reducir tu salario en <0/> de <1>{0}</1> a <2>{1}</2>. Acepta o rechaza este cambio."
 
@@ -6734,11 +6811,11 @@ msgstr "Tus ofertas"
 msgid "Your party name"
 msgstr "Nombre de tu partido"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1129
+#: src/components/_user/notification/notification.frontConfig.tsx:1130
 msgid "Your premium subscription has been activated!"
 msgstr "¡Tu suscripción premium ha sido activada!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1138
+#: src/components/_user/notification/notification.frontConfig.tsx:1139
 msgid "Your premium subscription has expired!"
 msgstr "¡Tu suscripción premium ha expirado!"
 
@@ -6750,11 +6827,11 @@ msgstr "Tu rango"
 msgid "Your referral link"
 msgstr "Tu enlace de referido"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1471
+#: src/components/_user/notification/notification.frontConfig.tsx:1472
 msgid "Your team <0/> has been eliminated from the <1/>"
 msgstr "Tu equipo <0/> ha sido eliminado del <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1382
+#: src/components/_user/notification/notification.frontConfig.tsx:1383
 msgid "Your team <0/> won a round in <1/>!"
 msgstr "¡Tu equipo <0/> ganó una ronda en <1/>!"
 
@@ -6764,11 +6841,11 @@ msgstr "Tu equipo:"
 
 #. placeholder {0}: data.oldWage
 #. placeholder {1}: data.newWage
-#: src/components/_user/notification/notification.frontConfig.tsx:577
+#: src/components/_user/notification/notification.frontConfig.tsx:578
 msgid "Your wage in <0/> changed from <1>{0}</1> to <2>{1}</2>"
 msgstr "Tu salario en <0/> cambió de <1>{0}</1> a <2>{1}</2>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1656
+#: src/components/_user/notification/notification.frontConfig.tsx:1673
 msgid "Your weekly missions have been reset! Complete them to earn rewards."
 msgstr "¡Tus misiones semanales han sido reiniciadas! Completa las misiones para ganar recompensas."
 
