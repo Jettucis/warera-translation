@@ -1774,7 +1774,7 @@ msgstr "Komandieris"
 #: src/components/_user/notification/notification.frontConfig.tsx:1630
 #: src/components/_user/notification/notification.frontConfig.tsx:1821
 msgid "Commission earned"
-msgstr ""
+msgstr "Komisijas maksa saņemta"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:116
 msgid "Commodore"
@@ -2976,7 +2976,7 @@ msgstr "Sist"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:90
 msgid "Hit <0>{count}</0> times in battles"
-msgstr "Kaujās iesit <0>{count}</0> reizes"
+msgstr "Kaujās veic <0>{count}</0> sitienus"
 
 #: src/components/_other/shop/ShopHeader.tsx:16
 #: src/components/_political/country/CountryHeader.tsx:57
@@ -5681,63 +5681,63 @@ msgstr "Laiks ražot!"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:17
 msgid "Tiny Pixel"
-msgstr ""
+msgstr "Pikselīši"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:95
 msgid "Tiny Pixel Ammo"
-msgstr ""
+msgstr "Zilais Eliksīrs"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:107
 msgid "Tiny Pixel Boots"
-msgstr ""
+msgstr "Dimanta Zābaki"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:104
 msgid "Tiny Pixel Chest"
-msgstr ""
+msgstr "Dimanta Bruņuveste"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:113
 msgid "Tiny Pixel Gloves"
-msgstr ""
+msgstr "Dimanta Cimdi"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:116
 msgid "Tiny Pixel Gun"
-msgstr ""
+msgstr "Dzelzs Zobens"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:98
 msgid "Tiny Pixel Heavy Ammo"
-msgstr ""
+msgstr "Violetais Eliksīrs"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:101
 msgid "Tiny Pixel Helmet"
-msgstr ""
+msgstr "Dimanta Ķivere"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:128
 msgid "Tiny Pixel Jet"
-msgstr ""
+msgstr "Nefrīta Zobens"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:131
 msgid "Tiny Pixel Light Ammo"
-msgstr ""
+msgstr "Zaļais Eliksīrs"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:16
 msgid "Tiny Pixel Pack"
-msgstr ""
+msgstr "Pikselīšu Komplekts"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:110
 msgid "Tiny Pixel Pants"
-msgstr ""
+msgstr "Dimanta Bikses"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:119
 msgid "Tiny Pixel Rifle"
-msgstr ""
+msgstr "Zelta Zobens"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:122
 msgid "Tiny Pixel Sniper"
-msgstr ""
+msgstr "Platīna Snaiperis"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:125
 msgid "Tiny Pixel Tank"
-msgstr ""
+msgstr "Dimanta Zobens"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:288
 msgid "Tip <0>{count}</0> articles"
@@ -6492,15 +6492,15 @@ msgstr "Tev nav pieejas apskatīt pieteikumus."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1632
 msgid "You earned gems from a banner sale!"
-msgstr ""
+msgstr "Tu saņēmi dārgakmeņus, jo kāds nopirka tavu baneri!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1823
 msgid "You earned gems from a sale of \"{skinTitle}\"!"
-msgstr ""
+msgstr "Tu saņēmi dārgakmeņus, jo kāds nopirka \"{skinTitle}\"!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1827
 msgid "You earned gems from a skin pack sale!"
-msgstr ""
+msgstr "Tu saņēmi dārgakmeņus, jo kāds nopirka tavu komplektu!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:874
 msgid "You feel healthy, the debuff effect no longer affects you."
