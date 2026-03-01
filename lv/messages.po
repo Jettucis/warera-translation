@@ -5733,7 +5733,7 @@ msgstr "Zelta Zobens"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:122
 msgid "Tiny Pixel Sniper"
-msgstr "Platīna Snaiperis"
+msgstr "Platīna Zobens"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:125
 msgid "Tiny Pixel Tank"
