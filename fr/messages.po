@@ -1395,7 +1395,7 @@ msgstr "À la fin du timer, <0>{actualTickPoints}</0> seront attribués au camp 
 #: src/components/_user/user/skills.frontConfig.tsx:42
 #: src/components/_user/user/skills.frontConfig.tsx:43
 msgid "Attack"
-msgstr "Attaque"
+msgstr "Attaquer"
 
 #: src/components/_military/war/WarComparison.tsx:41
 msgid "Attacker"
@@ -5953,39 +5953,39 @@ msgstr "Tiny Pixel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:95
 msgid "Tiny Pixel Ammo"
-msgstr "Tiny Pixel Munitions"
+msgstr "Munitions Tiny Pixel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:107
 msgid "Tiny Pixel Boots"
-msgstr "Tiny Pixel Bottes"
+msgstr "Bottes Tiny Pixel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:104
 msgid "Tiny Pixel Chest"
-msgstr "Tiny Pixel Plastron"
+msgstr "Plastron Tiny Pixel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:113
 msgid "Tiny Pixel Gloves"
-msgstr "Tiny Pixel Gants"
+msgstr "Gants Tiny Pixel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:116
 msgid "Tiny Pixel Gun"
-msgstr "Tiny Pixel Arme"
+msgstr "Pistolet Tiny Pixel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:98
 msgid "Tiny Pixel Heavy Ammo"
-msgstr "Tiny Pixel Munitions Lourdes"
+msgstr "Munitions Lourdes Tiny Pixel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:101
 msgid "Tiny Pixel Helmet"
-msgstr "Tiny Pixel Casque"
+msgstr "Casque Tiny Pixel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:128
 msgid "Tiny Pixel Jet"
-msgstr "Tiny Pixel Chasseur"
+msgstr "Chasseur Tiny Pixel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:131
 msgid "Tiny Pixel Light Ammo"
-msgstr "Tiny Pixel Munitions Légères"
+msgstr "Munitions Légères Tiny Pixel"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:16
 msgid "Tiny Pixel Pack"
@@ -5993,11 +5993,11 @@ msgstr "Pack Tiny Pixel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:110
 msgid "Tiny Pixel Pants"
-msgstr "Tiny Pixel Pantalons"
+msgstr "Pantalons Tiny Pixel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:119
 msgid "Tiny Pixel Rifle"
-msgstr "Tiny Pixel Fusil"
+msgstr "Fusil Tiny Pixel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:122
 msgid "Tiny Pixel Sniper"
@@ -6422,7 +6422,7 @@ msgstr "Gants de la Saint-Valentin"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:41
 msgid "Valentine Gun"
-msgstr "Arme de la Saint-Valentin"
+msgstr "Pistolet de la Saint-Valentin"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:14
 msgid "Valentine Heavy Ammo"
