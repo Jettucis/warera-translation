@@ -3796,7 +3796,7 @@ msgstr "Militārisms"
 
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:43
 msgid "Military base"
-msgstr "Militārā bāze"
+msgstr "Karabāze"
 
 #: src/components/_political/law/LawTypeSelect.tsx:73
 msgid "Military laws"
