@@ -1217,7 +1217,7 @@ msgstr "Alianse lauzta"
 
 #: src/components/_political/event/EventList.tsx:74
 msgid "Alliance formed"
-msgstr "Alianse izveidota"
+msgstr "Alianse noslēgta"
 
 #: src/pages/country/[countryId]/index.tsx:196
 msgid "Alliances"
@@ -1514,11 +1514,11 @@ msgstr "Kauja"
 #: src/components/_political/event/EventList.tsx:65
 #: src/components/_user/notification/notification.frontConfig.tsx:816
 msgid "Battle ended"
-msgstr "Kauja beigusies"
+msgstr "Beidzās kauja"
 
 #: src/components/_political/event/EventList.tsx:64
 msgid "Battle opened"
-msgstr "Kauja sākās"
+msgstr "Sākās kauja"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1359
 msgid "Battle Ranking Reward"
@@ -2420,7 +2420,7 @@ msgstr "Atradne"
 
 #: src/components/_political/event/EventList.tsx:71
 msgid "Deposit depleted"
-msgstr "Resursu atradne ir izsmelta"
+msgstr "Izsmelta resursu atradne"
 
 #: src/components/_political/event/EventList.tsx:70
 msgid "Deposit discovered"
@@ -3962,7 +3962,7 @@ msgstr "Mani Uzņēmumi"
 
 #: src/utils/translations.tsx:98
 msgid "Mysterious Plant"
-msgstr "Aizdomīgs Augs"
+msgstr "Noslēpumains Augs"
 
 #: src/utils/translations.tsx:186
 msgid "Mythic Boots"
@@ -5200,11 +5200,11 @@ msgstr "Sākās sacelšanās!"
 
 #: src/components/_political/event/EventList.tsx:77
 msgid "Revolution ended"
-msgstr "Revolūcija ir beigusies"
+msgstr "Beidzās revolūcija"
 
 #: src/components/_political/event/EventList.tsx:76
 msgid "Revolution started"
-msgstr "Revolūcija ir sākusies"
+msgstr "Sākās revolūcija"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1077
 msgid "Revolution started!"
@@ -6558,7 +6558,7 @@ msgstr "pērk"
 
 #: src/components/_political/event/EventList.tsx:62
 msgid "War declared"
-msgstr "Karš pasludināts"
+msgstr "Pasludināts karš"
 
 #: src/pages/war/[warId]/index.tsx:49
 msgid "War Ended"
