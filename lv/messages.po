@@ -1514,11 +1514,11 @@ msgstr "Kauja"
 #: src/components/_political/event/EventList.tsx:65
 #: src/components/_user/notification/notification.frontConfig.tsx:816
 msgid "Battle ended"
-msgstr "Beidzās kauja"
+msgstr "Kauja beidzās"
 
 #: src/components/_political/event/EventList.tsx:64
 msgid "Battle opened"
-msgstr "Sākās kauja"
+msgstr "Kauja sākās"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1359
 msgid "Battle Ranking Reward"
@@ -2420,11 +2420,11 @@ msgstr "Atradne"
 
 #: src/components/_political/event/EventList.tsx:71
 msgid "Deposit depleted"
-msgstr "Izsmelta resursu atradne"
+msgstr "Resursu atradne izsmelta"
 
 #: src/components/_political/event/EventList.tsx:70
 msgid "Deposit discovered"
-msgstr "Atrasta resursu atradne"
+msgstr "Resursu atradne atrasta"
 
 #. placeholder {0}: ts[data.itemCode]
 #: src/components/_political/event/event.frontConfig.tsx:292
@@ -4550,7 +4550,7 @@ msgstr "Maksājums ir izdevies! Paldies, ka atbalsti spēli <3"
 
 #: src/components/_political/event/EventList.tsx:63
 msgid "Peace made"
-msgstr "Pasludināts pamiers"
+msgstr "Pamiers pasludināts"
 
 #: src/components/_user/worker/WorkerEditFormModal.tsx:154
 msgid "Pending wage reduction"
@@ -5200,11 +5200,11 @@ msgstr "Sākās sacelšanās!"
 
 #: src/components/_political/event/EventList.tsx:77
 msgid "Revolution ended"
-msgstr "Beidzās revolūcija"
+msgstr "Revolūcija beidzās"
 
 #: src/components/_political/event/EventList.tsx:76
 msgid "Revolution started"
-msgstr "Sākās revolūcija"
+msgstr "Revolūcija sākās"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1077
 msgid "Revolution started!"
@@ -6558,7 +6558,7 @@ msgstr "pērk"
 
 #: src/components/_political/event/EventList.tsx:62
 msgid "War declared"
-msgstr "Karš pasludināts"
+msgstr "Karš pieteikts"
 
 #: src/pages/war/[warId]/index.tsx:49
 msgid "War Ended"
