@@ -298,11 +298,11 @@ msgstr "<0/> ir bankrotējusi. Visas alianses tiek atceltas un visi reģionu uzl
 
 #: src/components/_political/event/event.frontConfig.tsx:155
 msgid "<0/> is revolting <1/>"
-msgstr "<0/> saceļas pret <1/>"
+msgstr "<0/> uzsāka sacelšanos <1/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1050
 msgid "<0/> is revolting in <1/> against your country"
-msgstr "<0/> saceļas pret tavu valsti <1/> reģionā"
+msgstr "<0/> uzsāka sacelšanos <1/>"
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:16
 msgid "<0/> joined the conversation"
@@ -1272,7 +1272,7 @@ msgstr "Alianse tika lauzta"
 
 #: src/components/_political/event/event.frontConfig.tsx:324
 msgid "An alliance has been formed"
-msgstr "Alianse tika izveidota"
+msgstr "Alianse tika noslēgta"
 
 #: src/components/_user/auth/LoginFormModal.tsx:94
 msgid "An email with the verification code has been sent to {email}"
@@ -6558,7 +6558,7 @@ msgstr "pērk"
 
 #: src/components/_political/event/EventList.tsx:62
 msgid "War declared"
-msgstr "Pasludināts karš"
+msgstr "Karš pasludināts"
 
 #: src/pages/war/[warId]/index.tsx:49
 msgid "War Ended"
