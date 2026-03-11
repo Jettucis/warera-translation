@@ -3077,7 +3077,7 @@ msgstr "Dod <0>{0}</0>"
 
 #: src/components/_layout/LayoutMapOptions.tsx:220
 msgid "Globe (experimental)"
-msgstr "Planēta (eksperimentāls)"
+msgstr "Globuss (eksperimentāls)"
 
 #: src/components/_user/UserEquipments.tsx:196
 #: src/utils/translations.tsx:189
