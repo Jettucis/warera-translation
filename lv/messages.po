@@ -278,7 +278,7 @@ msgstr "<0/> apspieda pretošanos <1/>"
 #. placeholder {0}: data.money
 #: src/components/_political/event/event.frontConfig.tsx:261
 msgid "<0/> has transferred <1>{0}</1> to <2/>"
-msgstr "<0/> pārskaitīja <1>{0}</1> uz <2/>"
+msgstr "<0/> pārskaitīja <2/> <1>{0}</1>"
 
 #: src/components/_political/event/event.frontConfig.tsx:164
 msgid "<0/> is attacking <1/>"
@@ -2098,7 +2098,7 @@ msgstr "Tiek patērētas piedaloties kaujās"
 #. placeholder {1}: staticGameConfig.items.cocain.flatStats?.debuffDurationHours
 #: src/utils/translations.tsx:101
 msgid "Consuming it increases your <0>Attack</0> during {0}h.<1/> Then decrease the same amount during {1}h"
-msgstr "Tā patērēšana palielina tavu <0>Uzbrukumu</0> par 60% {0}h laikā.<1/> Pēc tam samazina to par tik pat {1}h laikā"
+msgstr "Tās lietošana palielina tavu <0>Uzbrukumu</0> par 60% uz {0}h.<1/> Pēc tam tas tiek samazināts par tik pat uz {1}h"
 
 #: src/components/_layout/LayoutMapOptions.tsx:260
 msgid "Contextual borders"
