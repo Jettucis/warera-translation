@@ -1491,7 +1491,6 @@ msgstr "Attacca"
 msgid "Attacker"
 msgstr "Attaccante"
 
-#: src/components/_military/battleLoot/BattleLootsCard.tsx:78
 #: src/components/_military/damageRanking/DamageRankingSides.tsx:164
 msgid "Attackers"
 msgstr "Attaccanti"
@@ -1617,7 +1616,6 @@ msgstr "Battaglia terminata"
 msgid "Battle Hero"
 msgstr ""
 
-#: src/components/_military/battleLoot/BattleLootsCard.tsx:42
 #: src/components/_military/damageRanking/DamageRankingList.tsx:220
 msgid "Battle loots"
 msgstr ""
@@ -2662,7 +2660,6 @@ msgstr "Difendi"
 msgid "Defender"
 msgstr "Difensore"
 
-#: src/components/_military/battleLoot/BattleLootsCard.tsx:63
 #: src/components/_military/damageRanking/DamageRankingSides.tsx:156
 msgid "Defenders"
 msgstr "Difensori"
@@ -3081,13 +3078,9 @@ msgstr "Punti etica:"
 msgid "Events"
 msgstr "Eventi"
 
-#: src/components/_military/battleLoot/BattleLootsCard.tsx:45
-msgid "Every <0/> damage dealt by a side rolls a <1/> into its round loot pool. On round end, {winnerPercent}% of rolled cases go to the winning side's battle pool and {loserPercent}% go to the losing side's battle pool. Items are ranked by estimated value and distributed in order: rank 1 receives the most valuable item, rank 2 the next, and so on."
-msgstr ""
-
 #. placeholder {0}: ts.case2
 #: src/components/_military/damageRanking/DamageRankingList.tsx:223
-msgid "Every <0/> damage dealt by each side rolls an <1>{0}</1> to its own side's loot pool.<2>On round end, that round's loot pool is distributed: rank 1 receives the most valuable item, rank 2 the next, and so on.</2><3>When the battle is over, the winning side gets an additional roll for every <4/> and the losing side for every <5/> total battle damage dealt by their own sides.</3>"
+msgid "Every <0/> damage dealt by each side rolls an <1>{0}</1> to its own side's loot pool.<2>On round end, that round's loot pool is distributed: rank 1 receives the most valuable item, rank 2 the next, and so on.</2><3>Additionally, at every round end, the winning side gets an additional roll for the whole battle ranking for every <4/> and the losing side for every <5/> total round damage dealt by their own sides.</3>"
 msgstr ""
 
 #: src/pages/tournament/[tournamentId]/index.tsx:42
@@ -4061,10 +4054,6 @@ msgstr "Casse ottenute"
 #: src/components/_user/notification/notification.frontConfig.tsx:754
 msgid "Looted money"
 msgstr "Denaro ottenuto"
-
-#: src/components/_military/battleLoot/BattleLootsCard.tsx:58
-msgid "Loots"
-msgstr ""
 
 #: src/components/_military/damageRanking/DamageRankingList.tsx:249
 msgid "Loots ({side})"

@@ -1491,7 +1491,6 @@ msgstr "Attack"
 msgid "Attacker"
 msgstr "Attacker"
 
-#: src/components/_military/battleLoot/BattleLootsCard.tsx:78
 #: src/components/_military/damageRanking/DamageRankingSides.tsx:164
 msgid "Attackers"
 msgstr "Attackers"
@@ -1617,7 +1616,6 @@ msgstr "Battle ended"
 msgid "Battle Hero"
 msgstr "Battle Hero"
 
-#: src/components/_military/battleLoot/BattleLootsCard.tsx:42
 #: src/components/_military/damageRanking/DamageRankingList.tsx:220
 msgid "Battle loots"
 msgstr "Battle loots"
@@ -2662,7 +2660,6 @@ msgstr "Defend"
 msgid "Defender"
 msgstr "Defender"
 
-#: src/components/_military/battleLoot/BattleLootsCard.tsx:63
 #: src/components/_military/damageRanking/DamageRankingSides.tsx:156
 msgid "Defenders"
 msgstr "Defenders"
@@ -3081,14 +3078,10 @@ msgstr "Ethics Points:"
 msgid "Events"
 msgstr "Events"
 
-#: src/components/_military/battleLoot/BattleLootsCard.tsx:45
-msgid "Every <0/> damage dealt by a side rolls a <1/> into its round loot pool. On round end, {winnerPercent}% of rolled cases go to the winning side's battle pool and {loserPercent}% go to the losing side's battle pool. Items are ranked by estimated value and distributed in order: rank 1 receives the most valuable item, rank 2 the next, and so on."
-msgstr "Every <0/> damage dealt by a side rolls a <1/> into its round loot pool. On round end, {winnerPercent}% of rolled cases go to the winning side's battle pool and {loserPercent}% go to the losing side's battle pool. Items are ranked by estimated value and distributed in order: rank 1 receives the most valuable item, rank 2 the next, and so on."
-
 #. placeholder {0}: ts.case2
 #: src/components/_military/damageRanking/DamageRankingList.tsx:223
-msgid "Every <0/> damage dealt by each side rolls an <1>{0}</1> to its own side's loot pool.<2>On round end, that round's loot pool is distributed: rank 1 receives the most valuable item, rank 2 the next, and so on.</2><3>When the battle is over, the winning side gets an additional roll for every <4/> and the losing side for every <5/> total battle damage dealt by their own sides.</3>"
-msgstr "Every <0/> damage dealt by each side rolls an <1>{0}</1> to its own side's loot pool.<2>On round end, that round's loot pool is distributed: rank 1 receives the most valuable item, rank 2 the next, and so on.</2><3>When the battle is over, the winning side gets an additional roll for every <4/> and the losing side for every <5/> total battle damage dealt by their own sides.</3>"
+msgid "Every <0/> damage dealt by each side rolls an <1>{0}</1> to its own side's loot pool.<2>On round end, that round's loot pool is distributed: rank 1 receives the most valuable item, rank 2 the next, and so on.</2><3>Additionally, at every round end, the winning side gets an additional roll for the whole battle ranking for every <4/> and the losing side for every <5/> total round damage dealt by their own sides.</3>"
+msgstr "Every <0/> damage dealt by each side rolls an <1>{0}</1> to its own side's loot pool.<2>On round end, that round's loot pool is distributed: rank 1 receives the most valuable item, rank 2 the next, and so on.</2><3>Additionally, at every round end, the winning side gets an additional roll for the whole battle ranking for every <4/> and the losing side for every <5/> total round damage dealt by their own sides.</3>"
 
 #: src/pages/tournament/[tournamentId]/index.tsx:42
 msgid "Everyone participates automatically"
@@ -4061,10 +4054,6 @@ msgstr "Looted cases"
 #: src/components/_user/notification/notification.frontConfig.tsx:754
 msgid "Looted money"
 msgstr "Looted money"
-
-#: src/components/_military/battleLoot/BattleLootsCard.tsx:58
-msgid "Loots"
-msgstr "Loots"
 
 #: src/components/_military/damageRanking/DamageRankingList.tsx:249
 msgid "Loots ({side})"
