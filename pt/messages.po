@@ -1119,7 +1119,7 @@ msgstr "Aceitar fazer a paz com o outro país"
 msgid "Accepted"
 msgstr "Aceite"
 
-#: src/components/_military/battle/BattleHeader.tsx:96
+#: src/components/_military/battle/BattleHeader.tsx:97
 msgid "Access war"
 msgstr "Acesse a guerra"
 
@@ -6271,6 +6271,11 @@ msgstr "Loja"
 msgid "Show more"
 msgstr "Mostrar mais"
 
+#. placeholder {0}: items.length - modalLimit
+#: src/components/_economy/inventory/MultiItems.tsx:88
+msgid "Show more ({0} remaining)"
+msgstr ""
+
 #: src/components/_social/ArticleList.tsx:140
 msgid "Show only articles with positive score (score >= -5)"
 msgstr "Mostre apenas artigos com uma avaliação positiva (score >= -5)"
@@ -6428,7 +6433,7 @@ msgstr "Iniciar eleições presidenciais"
 msgid "Start revolution"
 msgstr "Começar revoluçõ"
 
-#: src/components/_military/battle/BattleHeader.tsx:172
+#: src/components/_military/battle/BattleHeader.tsx:173
 #: src/components/_military/war/WarHeader.tsx:61
 #: src/components/_military/war/WarItem.tsx:108
 msgid "Started <0/>"
@@ -7364,7 +7369,7 @@ msgstr "Vice-presidente"
 msgid "View details"
 msgstr "Ver detalhes"
 
-#: src/components/_military/battle/BattleHeader.tsx:103
+#: src/components/_military/battle/BattleHeader.tsx:104
 msgid "View on map"
 msgstr "Veja no mapa"
 

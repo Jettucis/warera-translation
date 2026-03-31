@@ -1119,7 +1119,7 @@ msgstr "Pieņemt pamieru ar šo valsti"
 msgid "Accepted"
 msgstr "Pieņemts"
 
-#: src/components/_military/battle/BattleHeader.tsx:96
+#: src/components/_military/battle/BattleHeader.tsx:97
 msgid "Access war"
 msgstr "Apskatīt karu"
 
@@ -6271,6 +6271,11 @@ msgstr "Veikals"
 msgid "Show more"
 msgstr "Rādīt vairāk"
 
+#. placeholder {0}: items.length - modalLimit
+#: src/components/_economy/inventory/MultiItems.tsx:88
+msgid "Show more ({0} remaining)"
+msgstr ""
+
 #: src/components/_social/ArticleList.tsx:140
 msgid "Show only articles with positive score (score >= -5)"
 msgstr "Rādīt tikai rakstus ar pozitīvu vērtējumu (vismaz -5)"
@@ -6428,7 +6433,7 @@ msgstr "Ierosināt prezidenta vēlēšanas"
 msgid "Start revolution"
 msgstr "Uzsākt revolūciju"
 
-#: src/components/_military/battle/BattleHeader.tsx:172
+#: src/components/_military/battle/BattleHeader.tsx:173
 #: src/components/_military/war/WarHeader.tsx:61
 #: src/components/_military/war/WarItem.tsx:108
 msgid "Started <0/>"
@@ -7364,7 +7369,7 @@ msgstr "Viceprezidents"
 msgid "View details"
 msgstr "Skatīt detaļas"
 
-#: src/components/_military/battle/BattleHeader.tsx:103
+#: src/components/_military/battle/BattleHeader.tsx:104
 msgid "View on map"
 msgstr "Rādīt kartē"
 
