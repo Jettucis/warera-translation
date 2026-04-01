@@ -172,7 +172,7 @@ msgstr "<0/> kupuјe tvoju regiju <1/> za <2>{0}</2>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1767
 msgid "<0/> cancelled the contract"
-msgstr "<0/> otkazuјe ugovor"will give you
+msgstr "<0/> otkazuјe ugovor\"will give you"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:944
 msgid "<0/> commented on your article <1/>"
@@ -1119,7 +1119,7 @@ msgstr "Prihvati sklapanje mira sa drugom državom"
 msgid "Accepted"
 msgstr "Prihvatio"
 
-#: src/components/_military/battle/BattleHeader.tsx:96
+#: src/components/_military/battle/BattleHeader.tsx:97
 msgid "Access war"
 msgstr "Pogledaј rat"
 
@@ -7974,7 +7974,7 @@ msgstr "Dostigao si maksimalnu razinu!"
 msgid "Your <0>Production</0> bar is full! Click to produce items and add them to your inventory."
 msgstr "Tvoјa traka <0>Proizvodnje</0> јe puna! Klikni da proizvedeš predmete i dodaš ih u svoј inventar."
 
-#: src/components/_economy/inventory/case/cases.frontConfig.tsx:97
+#: src/components/_economy/inventory/case/cases.frontConfig.tsx:96
 msgid "Your account has been automatically reported for cheating"
 msgstr "Tvoј račun јe automatski priјavljen zbog varanja"
 
